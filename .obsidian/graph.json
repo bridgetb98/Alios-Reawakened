@@ -1,0 +1,44 @@
+{
+  "collapse-filter": true,
+  "search": "-path:\"X References\" -path:\"Y TTRPG\" -path:\"Z Core\" ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"0 Alios\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:\"1 The Embrace\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:\"2 Aukif\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.98378938640133,
+  "lineSizeMultiplier": 2.9802130406714,
+  "collapse-forces": true,
+  "centerStrength": 0.360555196901227,
+  "repelStrength": 12.0658489347966,
+  "linkStrength": 0.567140090380891,
+  "linkDistance": 122,
+  "scale": 0.09033254413295176,
+  "close": true
+}

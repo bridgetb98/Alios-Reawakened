@@ -1,0 +1,14 @@
+{
+  "attachmentFolderPath": "X000 References/X100 Files",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Z000 Inbox/Z100 Inbox",
+  "defaultViewMode": "preview",
+  "livePreview": true,
+  "showLineNumber": false,
+  "trashOption": "system",
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "visible",
+  "promptDelete": false,
+  "readableLineLength": true,
+  "strictLineBreaks": true
+}

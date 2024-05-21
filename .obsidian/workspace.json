@@ -1,0 +1,288 @@
+{
+  "main": {
+    "id": "2e5dfaf4695392ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "52cade4020351968",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad427d46b1477400",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 The Embrace/Circle of the Everlight.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2640b669314b93e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e37706a1da410ced",
+        "type": "tabs",
+        "dimension": 67.23809523809524,
+        "children": [
+          {
+            "id": "4f3d39bd54af80a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd8c8abd7c1643d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"MOC\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e737f16efc070a9a",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "e40db03f820cc6eb",
+        "type": "tabs",
+        "dimension": 32.761904761904766,
+        "children": [
+          {
+            "id": "d885099731e38967",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "1 The Embrace/Circle of the Everlight.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "path:\"Z Core/Z300 MOC\"  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5087618855792588,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "610ddb29b5887cf2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2b4a00d1dd57de11",
+    "type": "split",
+    "children": [
+      {
+        "id": "29591070685fa210",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7f0d1dc1ad57a08",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 The Embrace/Circle of the Everlight.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d1beb71e014fd7cf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 The Embrace/Circle of the Everlight.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4842de32ea7639ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a1d82a87ab3d5f15",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "41505cfde582dbc3",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "fa4d2d90fd4fa96d",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d0960de311c162e5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "75434f2746301dec",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "ad427d46b1477400",
+  "lastOpenFiles": [
+    "Alios-Reawakened",
+    "Alios_Reawakened",
+    "2 Aukif/Aukif Design Principles.md",
+    "0 Alios/Promise.md",
+    "0 Alios/Memory.md",
+    "0 Alios/Knowledge.md",
+    "0 Alios/Constructs.md",
+    "0 Alios/Belief.md",
+    "0 Alios/Ambition.md",
+    "0 Alios/Alios.md",
+    "2 Aukif/Vörsi.md",
+    "2 Aukif/Samuel Nicholaes Oodt-Aardt.md",
+    "2 Aukif/Oberyn.md",
+    "1 The Embrace/Continent Design Principles.md",
+    "2 Aukif/Nino.md",
+    "2 Aukif/Vivi Mortua.md",
+    "2 Aukif/Morlof.md",
+    "2 Aukif/Mutation and Cultivation.md",
+    "2 Aukif/Mutagen Purpose.md",
+    "X References/X200 Templates/X200.1A Migration Template.md",
+    "2 Aukif/Fungi Cultivation.md",
+    "2 Aukif/Cultivation Engineering.md",
+    "Z Core/Z300 MOC/Deity.md",
+    "1 The Embrace/Circle of the Everlight.md",
+    "Z Core/Z000 Index/1 The Embrace.md",
+    "Z Core/Z300 MOC/Aspect.md",
+    "1 The Embrace/Dain.md",
+    "X References/X100 Files/X110 Images/X111 Maps/Embrace-playmat.png",
+    "X References/X100 Files/X110 Images/X111 Maps/Embrace-playmat.svg",
+    "Y000 TTRPG/Y300 Campaigns/Y321 Demon Days/Y321.1 Session Notes/Y321.1.1 PRE/desktop.ini",
+    "1000 The Embrace/1300 Regions/1330 Olpen/desktop.ini",
+    "desktop.ini",
+    "Y000 TTRPG/Y300 Campaigns/Y389 Critical Failure II/desktop.ini",
+    "1000 The Embrace/1600 Flora & Fauna/1608 Lemure",
+    "1000 The Embrace/1600 Flora & Fauna/1609 Fauna",
+    "1000 The Embrace/1600 Flora & Fauna/1690 Flora",
+    "0000 Alios/0600 Flora & Fauna/Untitled",
+    "0000 Alios/0900 Cosmology/0915 Concepts/desktop.ini"
+  ]
+}
