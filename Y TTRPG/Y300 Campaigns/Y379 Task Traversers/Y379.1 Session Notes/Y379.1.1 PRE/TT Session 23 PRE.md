@@ -11,7 +11,7 @@ tags:
 
 # 18-05-2024 --- Pre-Session 23
 
-- [[Dram, chip, clips]]
+- [[Dram, Chip, Clips]]
 
 ## World Events
 

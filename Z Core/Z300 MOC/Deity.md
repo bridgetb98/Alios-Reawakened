@@ -2,14 +2,10 @@
 tags:
   - MOC
 ---
-- [[Ambition]]
-- [[Belief]]
-- [[Knowledge]]
-- [[Memory]]
+- [[Aspect]]
 - [[Morlof]]
 - [[Nino]]
 - [[Oberyn]]
-- [[Promise]]
 - [[Samuel Nicholaes Oodt-Aardt]]
 - [[Vivi Mortua]]
 - [[Vörsi]]

@@ -1,11 +1,12 @@
 ---
-ID: "20230919111502"
+ID: "20240521164213"
 aliases:
-  - "0915.4"
+  - "0980.5"
 tags:
   - deity
 North:
-  - "[[Memory|0915.3]]"
+  - "[[Void - Primordial Energy|0980.4]]"
+  - Zahdum
 East: 
 South: 
 West:
@@ -16,19 +17,18 @@ West:
 
 ## Description
 
-![[Bruadar-Creid_TradingCard.jpg]]
-
-Bitter hermit
+![[Zahdum_TradingCard.jpg]]
 
 # Influence
 
-- Trust / superstition
+
 
 ## Race
 
-[[Constructs]]
+[[Spirits]]
 
 ## Magic
 
 ---
+
 # Reference

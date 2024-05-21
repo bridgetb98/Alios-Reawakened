@@ -4,3 +4,4 @@ tags:
 ---
 - [[Cult]]
 - [[Cultivation (MOC)]]
+- [[Currency]]

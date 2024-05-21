@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "1f86d69ffb89af17",
+        "id": "2dd9f9dd737cafee",
         "type": "tabs",
         "children": [
           {
-            "id": "5989df33594cdae1",
+            "id": "0f508dcf0c72fe44",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -131,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2b4a00d1dd57de11",
@@ -227,7 +228,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,38 +245,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5989df33594cdae1",
+  "active": "0f508dcf0c72fe44",
   "lastOpenFiles": [
-    "Z Core/Z300 MOC/Magic.md",
-    "Z Core/Z300 MOC/Alios (MOC).md",
-    "2 Aukif/Samuel Nicholaes Oodt-Aardt.md",
-    "2 Aukif/Vörsi.md",
+    "0 Alios/Zahdum - Primordial Spirit.md",
+    "0 Alios/Void - Primordial Energy.md",
+    "Z Core/Z300 MOC/Primordial.md",
+    "Z Core/Z000 Index/P.md",
+    "X References/X100 Files/Zahdum_TradingCard.jpg",
+    "X References/X100 Files/Void_TradingCard.jpg",
+    "0 Alios/Thera - Primordial Matter.md",
+    "0 Alios/Extyx - Primordial Infinity.md",
+    "X References/X100 Files/Thera_TradingCard.jpg",
+    "0 Alios/Ambition.md",
+    "X References/X100 Files/Sgrios-Dìteadh_TradingCard.jpg",
+    "0 Alios/Memory.md",
+    "0 Alios/Knowledge.md",
+    "X References/X100 Files/Miann-Eòlas_TradingCard.jpg",
+    "X References/X100 Files/Extyx_TradingCard.jpg",
+    "0 Alios/Alios - Primordial Creation.md",
+    "0 Alios/Promise.md",
+    "X References/X100 Files/Deadh-Ghealladh_TradingCard.jpg",
+    "0 Alios/Belief.md",
+    "X References/X100 Files/Bruadar-Creid_TradingCard.jpg",
+    "X References/X100 Files/Bàs-Cuimhne_TradingCard.jpg",
+    "Z Core/Z000 Index/0 Alios.md",
+    "X References/X100 Files/Alios_Prime_TradingCard.jpg",
     "Z Core/Z300 MOC/Deity.md",
-    "2 Aukif/Vivi Mortua.md",
-    "2 Aukif/Oberyn.md",
     "Z Core/Z000 Index/D.md",
-    "2 Aukif/Nino.md",
-    "2 Aukif/Mutation and Cultivation.md",
-    "Z Core/Z300 MOC/Cultivation (MOC).md",
-    "Z Core/Z000 Index/C.md",
-    "Z Core/Z300 MOC/Mutation.md",
-    "Z Core/Z000 Index/M.md",
-    "2 Aukif/Mutagen Purpose.md",
-    "2 Aukif/Morlof.md",
-    "2 Aukif/Fungi Cultivation.md",
-    "2 Aukif/Cultivation Engineering.md",
-    "2 Aukif/Aukif Design Principles.md",
-    "Z Core/Z000 Index/A.md",
-    "1 The Embrace/Embrace Design Principles.md",
-    "Z Core/Z300 MOC/Design Reference.md",
-    "Z Core/Z300 MOC/Aukif (MOC).md",
-    "1 The Embrace/Wedi Coli Wastes.md",
-    "1 The Embrace/Theocracy of Olpen.md",
-    "1 The Embrace/The Goblin Code.md",
+    "0 Alios/Creation of Devils.md",
+    "Z Core/Z300 MOC/Devil.md",
+    "0 Alios/Elves.md",
+    "Z Core/Z100 Inbox/Spirit.md",
+    "Z Core/Z000 Index/E.md",
+    "Z Core/Z300 MOC/Species.md",
+    "Z Core/Z000 Index/S.md",
+    "Z Core/Z300 MOC/Elf (MOC).md",
+    "1 The Embrace/Dram, Chip, Clips.md",
+    "Z Core/Z000 Index/1 The Embrace.md",
     "Alios-Reawakened",
     "Alios_Reawakened",
-    "X References/X100 Files/X110 Images/X111 Maps/Embrace-playmat.png",
-    "X References/X100 Files/X110 Images/X111 Maps/Embrace-playmat.svg",
     "Y000 TTRPG/Y300 Campaigns/Y321 Demon Days/Y321.1 Session Notes/Y321.1.1 PRE/desktop.ini",
     "1000 The Embrace/1300 Regions/1330 Olpen/desktop.ini",
     "desktop.ini",

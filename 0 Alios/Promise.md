@@ -15,6 +15,8 @@ West:
 
 ## Description
 
+![[Deadh-Ghealladh_TradingCard.jpg]]
+
 - Theatrical lawyer
 
 # Influence

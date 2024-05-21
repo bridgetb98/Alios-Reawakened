@@ -17,6 +17,8 @@ West:
 
 ## Description
 
+![[Bàs-Cuimhne_TradingCard.jpg]]
+
 Kind death
 
 # Influence

@@ -16,6 +16,8 @@ Once worshipped as an ancient force of war and destruction, Ambition has since t
 
 ## Description
 
+![[Sgrios-Dìteadh_TradingCard.jpg]]
+
 Ambition is the concept of an ever growing force. An idea that creates as much as it destroys.
 
 # Influence

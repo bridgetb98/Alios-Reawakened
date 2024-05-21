@@ -15,6 +15,8 @@ West:
 
 ## Description
 
+![[Miann-Eòlas_TradingCard.jpg]]
+
 - Hyper focused librarian
 
 # Influence

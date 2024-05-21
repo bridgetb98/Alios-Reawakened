@@ -7,7 +7,7 @@ aliases: []
 type: #session
 tags: [[Task Traversers]]
 # 23-08-2023, Pre-Session 19
-- [[Dram, chip, clips]]
+- [[Dram, Chip, Clips]]
 
 ## World Events
 
