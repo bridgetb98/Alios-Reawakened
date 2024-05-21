@@ -1,0 +1,6 @@
+---
+tags:
+  - index
+---
+- [[Magic]]
+- [[Mutation]]

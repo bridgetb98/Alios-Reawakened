@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "52cade4020351968",
+        "id": "1f86d69ffb89af17",
         "type": "tabs",
         "children": [
           {
-            "id": "ad427d46b1477400",
+            "id": "5989df33594cdae1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 The Embrace/Circle of the Everlight.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -80,7 +76,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 The Embrace/Circle of the Everlight.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -94,10 +89,17 @@
                   "collapse-color-groups": false,
                   "colorGroups": [
                     {
-                      "query": "path:\"Z Core/Z300 MOC\"  ",
+                      "query": "tag:#MOC  ",
                       "color": {
                         "a": 1,
                         "rgb": 14048348
+                      }
+                    },
+                    {
+                      "query": "tag:#index  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14069084
                       }
                     }
                   ],
@@ -145,13 +147,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 The Embrace/Circle of the Everlight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -162,7 +163,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 The Embrace/Circle of the Everlight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -223,8 +223,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -244,35 +243,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ad427d46b1477400",
+  "active": "5989df33594cdae1",
   "lastOpenFiles": [
-    "1 The Embrace/Continent Design Principles.md",
-    "1 The Embrace/Circle of the Everlight.md",
-    "Alios-Reawakened",
-    "Alios_Reawakened",
-    "2 Aukif/Aukif Design Principles.md",
-    "0 Alios/Promise.md",
-    "0 Alios/Memory.md",
-    "0 Alios/Knowledge.md",
-    "0 Alios/Constructs.md",
-    "0 Alios/Belief.md",
-    "0 Alios/Ambition.md",
-    "0 Alios/Alios.md",
-    "2 Aukif/Vörsi.md",
+    "Z Core/Z300 MOC/Magic.md",
+    "Z Core/Z300 MOC/Alios (MOC).md",
     "2 Aukif/Samuel Nicholaes Oodt-Aardt.md",
-    "2 Aukif/Oberyn.md",
-    "2 Aukif/Nino.md",
+    "2 Aukif/Vörsi.md",
+    "Z Core/Z300 MOC/Deity.md",
     "2 Aukif/Vivi Mortua.md",
-    "2 Aukif/Morlof.md",
+    "2 Aukif/Oberyn.md",
+    "Z Core/Z000 Index/D.md",
+    "2 Aukif/Nino.md",
     "2 Aukif/Mutation and Cultivation.md",
+    "Z Core/Z300 MOC/Cultivation (MOC).md",
+    "Z Core/Z000 Index/C.md",
+    "Z Core/Z300 MOC/Mutation.md",
+    "Z Core/Z000 Index/M.md",
     "2 Aukif/Mutagen Purpose.md",
-    "X References/X200 Templates/X200.1A Migration Template.md",
+    "2 Aukif/Morlof.md",
     "2 Aukif/Fungi Cultivation.md",
     "2 Aukif/Cultivation Engineering.md",
-    "Z Core/Z300 MOC/Deity.md",
-    "Z Core/Z000 Index/1 The Embrace.md",
-    "Z Core/Z300 MOC/Aspect.md",
-    "1 The Embrace/Dain.md",
+    "2 Aukif/Aukif Design Principles.md",
+    "Z Core/Z000 Index/A.md",
+    "1 The Embrace/Embrace Design Principles.md",
+    "Z Core/Z300 MOC/Design Reference.md",
+    "Z Core/Z300 MOC/Aukif (MOC).md",
+    "1 The Embrace/Wedi Coli Wastes.md",
+    "1 The Embrace/Theocracy of Olpen.md",
+    "1 The Embrace/The Goblin Code.md",
+    "Alios-Reawakened",
+    "Alios_Reawakened",
     "X References/X100 Files/X110 Images/X111 Maps/Embrace-playmat.png",
     "X References/X100 Files/X110 Images/X111 Maps/Embrace-playmat.svg",
     "Y000 TTRPG/Y300 Campaigns/Y321 Demon Days/Y321.1 Session Notes/Y321.1.1 PRE/desktop.ini",

@@ -27,7 +27,7 @@
 - The lads have jerky and leather
 - Rudolph assumed he saw a sea monster instead f the lone druid
 - Rudolph can turn into fabio hair
-- They got 5 of the ambition stones from the lone druid
+- They got 5 of the [[ambition]] stones from the lone druid
 - Looney Toons chase sequence
 - So far the obsidian chest has not been able to be opened
 - Rudolph is prone to panic attacks

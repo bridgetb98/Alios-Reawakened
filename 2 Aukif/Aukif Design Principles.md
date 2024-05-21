@@ -14,7 +14,7 @@ West:
 
 Cyberpunk moon near the center of [[Alios|Alios]]
 
-- **Alios Concepts**: [[Sustentation]]
+- **[[Alios]] Concepts**: [[Sustentation]]
 	- caring of life
 	- created the gods as a means of preservation
 	- assumed the best put in management position were regular people

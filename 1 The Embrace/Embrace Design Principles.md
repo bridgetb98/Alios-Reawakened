@@ -10,13 +10,13 @@ East:
 South: 
 West:
 ---
-- **Alios Concepts**: [[Ambition]], [[Knowledge]], [[Memory]], [[Belief]], [[Promise]]
+- **[[Alios]] Concepts**: [[Ambition]], [[Knowledge]], [[Memory]], [[Belief]], [[Promise]]
 - Gods and spirits walk among regular men
-- 7 continents
+- 7 continents^[see:[[Continent Design Principles|1000.1]]]
 - World led by a council of world leaders
 - Gods created to design the landscape
 - Giants hunted to extinction by humans
-- Hidden from the rest of Alios
+- Hidden from the rest of [[Alios]]
 - Cloth as a reoccurring motif
 
 ---

@@ -52,7 +52,7 @@ tags:
 
 ## Items Acquired
 
-- Ambition stones lost
+- [[Ambition]] stones lost
 
 ## NPCs
 

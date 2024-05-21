@@ -10,7 +10,7 @@ South:
   - "[[Mutation and Cultivation|2466.2]]"
 West:
 ---
-The mutagen was created by [[Sustentation]] to select people to become gods. Though something changed the mutagen in the past, making it act like it does now. The change forced people to escape to the moon
+The [[mutagen]] was created by [[Sustentation]] to select people to become gods. Though something changed the [[mutagen]] in the past, making it act like it does now. The change forced people to escape to the moon
 
 ---
 

@@ -4,11 +4,13 @@ aliases:
   - "1602.1"
   - Goblin
 tags:
-  - species
+  - species/sapient/organic
 North: 
 East: 
 South: 
 West:
+  - "[[Promise|0915.5]]"
+  - "[[The Goblin Code|1400.1]]"
 ---
 - Wearing the silver fluid is honourary Goblin
 - Only enter a Goblin’s place when asked

@@ -1,0 +1,5 @@
+---
+tags:
+  - MOC
+---
+- [[Øysamling Islands]]

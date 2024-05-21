@@ -1,0 +1,5 @@
+---
+tags:
+  - index
+---
+- [[Embrace (MOC)]]

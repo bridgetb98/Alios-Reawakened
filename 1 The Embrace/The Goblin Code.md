@@ -8,6 +8,7 @@ North:
 East: 
 South: 
 West:
+  - "[[Goblins|1602.1]]"
 ---
 > Tooth for tooth, eye for eye, but always leave a crumb for the next guy.
 
@@ -59,7 +60,7 @@ West:
 
 > In the realm of shadows, we silently roam, our secrets hidden, in darkness we're at home.
 
-> March to the drum, weapons at the ready, we're the fierce battalion, strong and steady. In the heat of battle, we stand as one, goblin warriors, our foes on the run. Loyalty to the clan, the mission our guide, in the chaos of war, we'll never divide. Shields up, spears sharp, for victory we strive, in the realm of conflict, we'll always survive.
+> March to the drum, weapons at the ready, we're the fierce battalion, strong and steady. In the heat of battle, we stand as one, [[Goblins|goblin]] warriors, our foes on the run. Loyalty to the clan, the mission our guide, in the chaos of war, we'll never divide. Shields up, spears sharp, for victory we strive, in the realm of conflict, we'll always survive.
 
 ---
 # Reference
