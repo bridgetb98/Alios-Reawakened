@@ -1,14 +1,15 @@
 {
-  "attachmentFolderPath": "X000 References/X100 Files",
+  "attachmentFolderPath": "X References/X100 Files",
   "newFileLocation": "folder",
-  "newFileFolderPath": "Z000 Inbox/Z100 Inbox",
+  "newFileFolderPath": "Z Core/Z100 Inbox",
   "defaultViewMode": "preview",
   "livePreview": true,
   "showLineNumber": false,
-  "trashOption": "system",
+  "trashOption": "none",
   "alwaysUpdateLinks": true,
   "propertiesInDocument": "visible",
   "promptDelete": false,
   "readableLineLength": true,
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "showUnsupportedFiles": true
 }

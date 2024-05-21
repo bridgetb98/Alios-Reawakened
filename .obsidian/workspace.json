@@ -111,7 +111,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5087618855792588,
+                  "scale": 0.3628873693012118,
                   "close": true
                 }
               }
@@ -246,6 +246,8 @@
   },
   "active": "ad427d46b1477400",
   "lastOpenFiles": [
+    "1 The Embrace/Continent Design Principles.md",
+    "1 The Embrace/Circle of the Everlight.md",
     "Alios-Reawakened",
     "Alios_Reawakened",
     "2 Aukif/Aukif Design Principles.md",
@@ -259,7 +261,6 @@
     "2 Aukif/Vörsi.md",
     "2 Aukif/Samuel Nicholaes Oodt-Aardt.md",
     "2 Aukif/Oberyn.md",
-    "1 The Embrace/Continent Design Principles.md",
     "2 Aukif/Nino.md",
     "2 Aukif/Vivi Mortua.md",
     "2 Aukif/Morlof.md",
@@ -269,7 +270,6 @@
     "2 Aukif/Fungi Cultivation.md",
     "2 Aukif/Cultivation Engineering.md",
     "Z Core/Z300 MOC/Deity.md",
-    "1 The Embrace/Circle of the Everlight.md",
     "Z Core/Z000 Index/1 The Embrace.md",
     "Z Core/Z300 MOC/Aspect.md",
     "1 The Embrace/Dain.md",
@@ -282,7 +282,6 @@
     "1000 The Embrace/1600 Flora & Fauna/1608 Lemure",
     "1000 The Embrace/1600 Flora & Fauna/1609 Fauna",
     "1000 The Embrace/1600 Flora & Fauna/1690 Flora",
-    "0000 Alios/0600 Flora & Fauna/Untitled",
-    "0000 Alios/0900 Cosmology/0915 Concepts/desktop.ini"
+    "0000 Alios/0600 Flora & Fauna/Untitled"
   ]
 }
