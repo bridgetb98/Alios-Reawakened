@@ -11,8 +11,12 @@
             "id": "0f508dcf0c72fe44",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Z Core/Z100 Inbox/Poten.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
@@ -46,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"MOC\"]",
+                "query": "tag:idea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,6 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Z Core/Z100 Inbox/Poten.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2b4a00d1dd57de11",
@@ -148,6 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Z Core/Z100 Inbox/Poten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,6 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Z Core/Z100 Inbox/Poten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -224,7 +230,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -242,46 +249,49 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "0f508dcf0c72fe44",
   "lastOpenFiles": [
-    "0 Alios/Zahdum - Primordial Spirit.md",
-    "0 Alios/Void - Primordial Energy.md",
-    "Z Core/Z300 MOC/Primordial.md",
-    "Z Core/Z000 Index/P.md",
-    "X References/X100 Files/Zahdum_TradingCard.jpg",
-    "X References/X100 Files/Void_TradingCard.jpg",
-    "0 Alios/Thera - Primordial Matter.md",
-    "0 Alios/Extyx - Primordial Infinity.md",
-    "X References/X100 Files/Thera_TradingCard.jpg",
-    "0 Alios/Ambition.md",
-    "X References/X100 Files/Sgrios-Dìteadh_TradingCard.jpg",
-    "0 Alios/Memory.md",
-    "0 Alios/Knowledge.md",
-    "X References/X100 Files/Miann-Eòlas_TradingCard.jpg",
-    "X References/X100 Files/Extyx_TradingCard.jpg",
-    "0 Alios/Alios - Primordial Creation.md",
-    "0 Alios/Promise.md",
-    "X References/X100 Files/Deadh-Ghealladh_TradingCard.jpg",
-    "0 Alios/Belief.md",
-    "X References/X100 Files/Bruadar-Creid_TradingCard.jpg",
-    "X References/X100 Files/Bàs-Cuimhne_TradingCard.jpg",
-    "Z Core/Z000 Index/0 Alios.md",
-    "X References/X100 Files/Alios_Prime_TradingCard.jpg",
+    "Z Core/Z100 Inbox/Cult of Poten.md",
+    "Z Core/Z100 Inbox/Poten.md",
+    "X References/X100 Files/Poten_TradingCard.jpg",
+    "Z Core/Z100 Inbox/Aros.md",
+    "Z Core/Z300 MOC/Pantheon of All.md",
     "Z Core/Z300 MOC/Deity.md",
     "Z Core/Z000 Index/D.md",
-    "0 Alios/Creation of Devils.md",
-    "Z Core/Z300 MOC/Devil.md",
-    "0 Alios/Elves.md",
-    "Z Core/Z100 Inbox/Spirit.md",
-    "Z Core/Z000 Index/E.md",
-    "Z Core/Z300 MOC/Species.md",
-    "Z Core/Z000 Index/S.md",
-    "Z Core/Z300 MOC/Elf (MOC).md",
-    "1 The Embrace/Dram, Chip, Clips.md",
+    "Z Core/Z100 Inbox/Angus.md",
+    "X References/X100 Files/Aros_TradingCard.jpg",
+    "Z Core/Z000 Index/P.md",
     "Z Core/Z000 Index/1 The Embrace.md",
+    "X References/X100 Files/Angus_TradingCard.jpg",
+    "X References/X200 Templates/X200.6.1 Deity Extention.md",
+    "0 Alios/Extyx - Primordial Infinity.md",
+    "0 Alios/Knowledge.md",
+    "0 Alios/Memory.md",
+    "0 Alios/Elves.md",
+    "0 Alios/Creation of Devils.md",
+    "0 Alios/Belief.md",
+    "0 Alios/Ancient Words.md",
+    "0 Alios/Ambition.md",
+    "0 Alios/Alios - Primordial Creation.md",
+    "0 Alios/Alios.md",
+    "1 The Embrace/Lumen.md",
+    "Z Core/Z300 MOC/Weather.md",
+    "Z Core/Z000 Index/W.md",
+    "Z Core/Z300 MOC/Seasons.md",
+    "Z Core/Z000 Index/S.md",
+    "Z Core/Z300 MOC/Magic.md",
+    "Z Core/Z400 Archive",
+    "X References/X100 Files/Zahdum_TradingCard.jpg",
+    "X References/X100 Files/Void_TradingCard.jpg",
+    "X References/X100 Files/Thera_TradingCard.jpg",
+    "X References/X100 Files/Sgrios-Dìteadh_TradingCard.jpg",
+    "X References/X100 Files/Miann-Eòlas_TradingCard.jpg",
+    "X References/X100 Files/Extyx_TradingCard.jpg",
+    "X References/X100 Files/Deadh-Ghealladh_TradingCard.jpg",
     "Alios-Reawakened",
     "Alios_Reawakened",
     "Y000 TTRPG/Y300 Campaigns/Y321 Demon Days/Y321.1 Session Notes/Y321.1.1 PRE/desktop.ini",
@@ -290,7 +300,6 @@
     "Y000 TTRPG/Y300 Campaigns/Y389 Critical Failure II/desktop.ini",
     "1000 The Embrace/1600 Flora & Fauna/1608 Lemure",
     "1000 The Embrace/1600 Flora & Fauna/1609 Fauna",
-    "1000 The Embrace/1600 Flora & Fauna/1690 Flora",
-    "0000 Alios/0600 Flora & Fauna/Untitled"
+    "1000 The Embrace/1600 Flora & Fauna/1690 Flora"
   ]
 }

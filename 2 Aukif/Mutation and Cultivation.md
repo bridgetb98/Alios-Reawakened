@@ -3,7 +3,7 @@ ID: "20230919114516"
 aliases:
   - "2466.2"
 tags:
-  - idea
+  - magic
 North:
   - "[[Mutagen Purpose|2466.1]]"
 East: 

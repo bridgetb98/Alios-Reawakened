@@ -2,6 +2,8 @@
 tags:
   - MOC
 ---
+- [[Angus]]
+- [[Aros]]
 - [[Aspect]]
 - [[Morlof]]
 - [[Nino]]

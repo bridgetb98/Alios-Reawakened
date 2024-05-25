@@ -3,7 +3,7 @@ ID: "20230919114530"
 aliases:
   - "2466.1"
 tags:
-  - idea
+  - magic/soft
 North: 
 East: 
 South:

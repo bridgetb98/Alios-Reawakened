@@ -1,5 +1,5 @@
 ---
-ID: "{{date:YYYYMMDD}}{{time:HHmmss}}"
+ID: "20240525102959"
 aliases: 
 tags:
   - idea
@@ -8,9 +8,9 @@ East:
 South: 
 West:
 ---
-# {{title}}
+# Spirit
 
-
+A popular ritualistic drink amongst Dwarfs
 
 ---
 

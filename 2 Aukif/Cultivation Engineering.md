@@ -3,7 +3,8 @@ ID: "20230919114435"
 aliases:
   - "2576.1"
 tags:
-  - idea
+  - magic/hard
+  - tech
 North: 
 East: 
 South: 

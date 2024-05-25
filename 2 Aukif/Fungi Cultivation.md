@@ -3,7 +3,7 @@ ID: "20230919114549"
 aliases:
   - 2969.1.1
 tags:
-  - idea
+  - magic/hard
 North:
   - "[[Vivi Mortua|2969.1]]"
 East: 
