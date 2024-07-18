@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2dd9f9dd737cafee",
+        "id": "625e9b8a5231eb5a",
         "type": "tabs",
         "children": [
           {
-            "id": "0f508dcf0c72fe44",
+            "id": "f211bf0d398c8914",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z Core/Z100 Inbox/Poten.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Z Core/Z100 Inbox/Poten.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -123,14 +123,6 @@
                 }
               }
             }
-          },
-          {
-            "id": "610ddb29b5887cf2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ]
       }
@@ -152,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z Core/Z100 Inbox/Poten.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z Core/Z100 Inbox/Poten.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,14 +176,6 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
-            }
-          },
-          {
-            "id": "a1d82a87ab3d5f15",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
             }
           },
           {
@@ -229,6 +213,14 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "e29afc944a58696a",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -246,52 +238,52 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "homepage:Open homepage": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "homepage:Open homepage": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "0f508dcf0c72fe44",
+  "active": "d885099731e38967",
   "lastOpenFiles": [
+    "Z Core/Z100 Inbox/Borrowing.md",
+    "Z Core/Z100 Inbox/Borrower.md",
+    "X References/X200 Templates/X200.8 Hard Magic Extention.md",
+    "0 Alios/Ambition.md",
+    "0 Alios/Belief.md",
+    "2 Aukif/Aukif Design Principles.md",
+    "Z Core/Z300 MOC/Aspect.md",
+    "Home.md",
+    "Y TTRPG/Y300 Campaigns/Y321 Demon Days/Y321.1 Session Notes/Y321.1.2 IN/DD Session 3 IN.md",
+    "Y TTRPG/Y300 Campaigns/Y321 Demon Days/Y321.1 Session Notes/Y321.1.2 IN/DD Session 2 IN.md",
+    "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.2 IN/Session 3 IN.md",
+    "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.2 IN/Session 2 IN.md",
+    "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.2 IN/SESSION 1 IN.md",
+    "1 The Embrace/Goblins.md",
+    "Z Core/Z300 MOC/Fruit.md",
+    "Z Core/Z300 MOC/Plant.md",
+    "Z Core/Z000 Index/P.md",
+    "Z Core/Z000 Index/F.md",
+    "1 The Embrace/Fleshberry.md",
+    "Z Core/Z000 Index/1 The Embrace.md",
+    "X References/X100 Files/X110 Images/Alios_Prime_TradingCard.jpg",
+    "X References/X100 Files/X110 Images/fragaria_corporis1.jpg",
+    "1 The Embrace/Poten.md",
+    "2 Aukif/Fungi Cultivation.md",
     "Z Core/Z100 Inbox/Cult of Poten.md",
-    "Z Core/Z100 Inbox/Poten.md",
-    "X References/X100 Files/Poten_TradingCard.jpg",
-    "Z Core/Z100 Inbox/Aros.md",
+    "X References/X100 Files/X110 Images/Poten_TradingCard.jpg",
+    "1 The Embrace/Aros.md",
     "Z Core/Z300 MOC/Pantheon of All.md",
     "Z Core/Z300 MOC/Deity.md",
-    "Z Core/Z000 Index/D.md",
-    "Z Core/Z100 Inbox/Angus.md",
-    "X References/X100 Files/Aros_TradingCard.jpg",
-    "Z Core/Z000 Index/P.md",
-    "Z Core/Z000 Index/1 The Embrace.md",
-    "X References/X100 Files/Angus_TradingCard.jpg",
-    "X References/X200 Templates/X200.6.1 Deity Extention.md",
-    "0 Alios/Extyx - Primordial Infinity.md",
-    "0 Alios/Knowledge.md",
-    "0 Alios/Memory.md",
-    "0 Alios/Elves.md",
-    "0 Alios/Creation of Devils.md",
-    "0 Alios/Belief.md",
-    "0 Alios/Ancient Words.md",
-    "0 Alios/Ambition.md",
-    "0 Alios/Alios - Primordial Creation.md",
-    "0 Alios/Alios.md",
-    "1 The Embrace/Lumen.md",
-    "Z Core/Z300 MOC/Weather.md",
-    "Z Core/Z000 Index/W.md",
-    "Z Core/Z300 MOC/Seasons.md",
-    "Z Core/Z000 Index/S.md",
-    "Z Core/Z300 MOC/Magic.md",
+    "X References/X100 Files/X110 Images/Aros_TradingCard.jpg",
+    "X References/X100 Files/X110 Images/Angus_TradingCard.jpg",
     "Z Core/Z400 Archive",
-    "X References/X100 Files/Zahdum_TradingCard.jpg",
-    "X References/X100 Files/Void_TradingCard.jpg",
-    "X References/X100 Files/Thera_TradingCard.jpg",
-    "X References/X100 Files/Sgrios-Dìteadh_TradingCard.jpg",
-    "X References/X100 Files/Miann-Eòlas_TradingCard.jpg",
-    "X References/X100 Files/Extyx_TradingCard.jpg",
-    "X References/X100 Files/Deadh-Ghealladh_TradingCard.jpg",
+    "X References/X100 Files/X110 Images/Zahdum_TradingCard.jpg",
+    "X References/X100 Files/X110 Images/Void_TradingCard.jpg",
+    "X References/X100 Files/X110 Images/Thera_TradingCard.jpg",
+    "X References/X100 Files/X110 Images/Sgrios-Dìteadh_TradingCard.jpg",
+    "X References/X100 Files/X110 Images/Miann-Eòlas_TradingCard.jpg",
     "Alios-Reawakened",
     "Alios_Reawakened",
     "Y000 TTRPG/Y300 Campaigns/Y321 Demon Days/Y321.1 Session Notes/Y321.1.1 PRE/desktop.ini",

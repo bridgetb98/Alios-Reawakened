@@ -27,6 +27,7 @@
     "North": "multitext",
     "East": "multitext",
     "West": "multitext",
-    "South": "multitext"
+    "South": "multitext",
+    "excalidraw-embeddable-theme": "text"
   }
 }
