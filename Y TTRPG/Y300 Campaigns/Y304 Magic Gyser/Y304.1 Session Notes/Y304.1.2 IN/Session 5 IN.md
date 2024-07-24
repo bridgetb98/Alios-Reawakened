@@ -49,6 +49,8 @@ title: # Session 5 IN
 - 5 sp on [[Brutus]]’ tab
 - [[Brutus]]’ tab has been paid
 - [[Kobold Gold]] v.s. [[The Gnomish Mechanism]]
+- [[Saul Badman]] has learnt about the [[Thieves’ Guild]]
+- [[Lydia Loreley]] first watch, [[Trigaldar]] 2nd
 
 
 ---
