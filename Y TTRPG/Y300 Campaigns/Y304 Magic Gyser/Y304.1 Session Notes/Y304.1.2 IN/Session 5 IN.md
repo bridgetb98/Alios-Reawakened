@@ -43,7 +43,7 @@ title: # Session 5 IN
 ## DM
 
 - [[Trigaldar]] got a warning not to resurrect this thing the city is made of
-- 
+- 15 silver on [[Brutus]]’ tab
 
 
 ---
