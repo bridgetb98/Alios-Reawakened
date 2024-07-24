@@ -2,6 +2,7 @@
 ID: "20240327094922"
 aliases:
   - "1711.1"
+  - Everlight
 tags:
   - idea
 North: 
