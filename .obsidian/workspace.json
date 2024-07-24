@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aae98c8d3dc0aa70",
+        "id": "c791335ba2957b93",
         "type": "tabs",
         "children": [
           {
-            "id": "f6902dcbc0e2a2ac",
+            "id": "b41fafc15e375283",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,43 +20,18 @@
             }
           },
           {
-            "id": "bb7e91055f9d3d5f",
+            "id": "f7e405397cf73c43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "X References/X200 Templates/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f3af50db5cbc536",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z Core/Z100 Inbox/The Groaning Breach.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9980e4526e3d33a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z Core/Z100 Inbox/Olad.md",
-                "mode": "source",
+                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.2 IN/Session 5 IN.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -117,7 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "X References/X200 Templates/Untitled.md",
+                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.1 PRE/Session 5 PRE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2b4a00d1dd57de11",
@@ -181,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "X References/X200 Templates/Untitled.md",
+                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.1 PRE/Session 5 PRE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "X References/X200 Templates/Untitled.md",
+                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.1 PRE/Session 5 PRE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -258,7 +234,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,19 +253,23 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "bb7e91055f9d3d5f",
+  "active": "b41fafc15e375283",
   "lastOpenFiles": [
-    "Z Core/Z100 Inbox/The Carcass.md",
-    "X References/X200 Templates/Untitled.md",
-    "X References/X100 Files/Pasted image 20240724193026.png",
+    "Z Core/Z300 MOC/Task Traversers.md",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.1 PRE/Session 5 PRE.md",
-    "Z Core/Z100 Inbox/The Groaning Breach.md",
+    "Z Core/Z300 MOC/Design Reference.md",
+    "X References/X200 Templates/X200.9.1 In-Session.md",
     "Home.md",
-    "Z Core/Z100 Inbox/Olad.md",
-    "1 The Embrace/Circle of the Everlight.md",
+    "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.2 IN/Session 5 IN.md",
+    "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.2 IN/Session 2 IN.md",
+    "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.2 IN/SESSION 1 IN.md",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.2 IN/Session 3 IN.md",
     "X References/X200 Templates/X200.9 Pre-Session.md",
-    "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.2 IN/SESSION 1 IN.md",
+    "Z Core/Z100 Inbox/The Carcass.md",
+    "X References/X100 Files/Pasted image 20240724193026.png",
+    "Z Core/Z100 Inbox/The Groaning Breach.md",
+    "Z Core/Z100 Inbox/Olad.md",
+    "1 The Embrace/Circle of the Everlight.md",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.1 PRE",
     "2 Aukif/Oberyn.md",
     "Z Core/Z100 Inbox/Tom Rijnsburger.md",
@@ -302,10 +283,6 @@
     "X References/X200 Templates/X200.6 Alios Concept Extention.md",
     "X References/X200 Templates/X200.6.1 Deity Extention.md",
     "X References/X200 Templates/X200.1 Core Template.md",
-    "2 Aukif/Vivi Mortua.md",
-    "2 Aukif/Samuel Nicholaes Oodt-Aardt.md",
-    "2 Aukif/Nino.md",
-    "2 Aukif/Mutation and Cultivation.md",
     "X References/X100 Files/X110 Images/Alios_Prime_TradingCard.jpg",
     "X References/X100 Files/X110 Images/fragaria_corporis1.jpg",
     "X References/X100 Files/X110 Images/Poten_TradingCard.jpg",
