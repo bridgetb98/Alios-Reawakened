@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "27536de397fe3fe7",
+        "id": "9e3ceefdb9504699",
         "type": "tabs",
         "children": [
           {
-            "id": "7bddcae1a848eb03",
+            "id": "eeb5a1aabfd6f344",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Aukif/Fungi Cultivation.md",
+                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.1 PRE/Session 4 PRE.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2 Aukif/Fungi Cultivation.md",
+                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.1 PRE/Session 4 PRE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Aukif/Fungi Cultivation.md",
+                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.1 PRE/Session 4 PRE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Aukif/Fungi Cultivation.md",
+                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.1 PRE/Session 4 PRE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -239,34 +239,35 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "7bddcae1a848eb03",
+  "active": "eeb5a1aabfd6f344",
   "lastOpenFiles": [
+    "X References/X200 Templates/X200.9 Pre-Session.md",
+    "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.1 PRE/Session 4 PRE.md",
+    "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.2 IN/SESSION 1 IN.md",
+    "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.2 IN/Session 3 IN.md",
+    "Home.md",
+    "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.1 PRE",
+    "2 Aukif/Oberyn.md",
+    "Z Core/Z100 Inbox/Tom Rijnsburger.md",
+    "2 Aukif/Vörsi.md",
+    "X References/X200 Templates/X200.1A Migration Template.md",
+    "X References/X200 Templates/X200.3 D&D Stats.md",
+    "X References/X200 Templates/X200.3.1 CoC Info.md",
+    "X References/X200 Templates/X200.3.2 Masks Info.md",
+    "X References/X200 Templates/X200.4 Monster Stats.md",
+    "X References/X200 Templates/X200.5 Town Extention.md",
+    "X References/X200 Templates/X200.6 Alios Concept Extention.md",
+    "X References/X200 Templates/X200.6.1 Deity Extention.md",
+    "X References/X200 Templates/X200.1 Core Template.md",
+    "2 Aukif/Vivi Mortua.md",
+    "2 Aukif/Samuel Nicholaes Oodt-Aardt.md",
+    "2 Aukif/Nino.md",
+    "2 Aukif/Mutation and Cultivation.md",
+    "2 Aukif/Mutagen Purpose.md",
+    "2 Aukif/Morlof.md",
+    "2 Aukif/Fungi Cultivation.md",
     "2 Aukif/Cultivation Engineering.md",
     "2 Aukif/Aukif Design Principles.md",
-    "1 The Embrace/Wedi Coli Wastes.md",
-    "1 The Embrace/Theocracy of Olpen.md",
-    "1 The Embrace/The Goblin Code.md",
-    "1 The Embrace/The Embrace.md",
-    "1 The Embrace/South Olpen.md",
-    "1 The Embrace/Propadanje Kingdom.md",
-    "1 The Embrace/Poten.md",
-    "1 The Embrace/Øysamling Islands.md",
-    "1 The Embrace/Lumen.md",
-    "1 The Embrace/Ho'okalakupuan Commonwealth.md",
-    "1 The Embrace/Goblins.md",
-    "1 The Embrace/Fleshberry.md",
-    "1 The Embrace/Embrace Design Principles.md",
-    "1 The Embrace/Dram, Chip, Clips.md",
-    "1 The Embrace/Democratic Republic of Politismós.md",
-    "1 The Embrace/Dain.md",
-    "1 The Embrace/Continent Design Principles.md",
-    "1 The Embrace/Circle of the Everlight.md",
-    "1 The Embrace/Aros.md",
-    "1 The Embrace/Angus.md",
-    "0 Alios/Alios - Primordial Creation.md",
-    "0 Alios/Extyx - Primordial Infinity.md",
-    "0 Alios/Thera - Primordial Matter.md",
-    "0 Alios/Void - Primordial Energy.md",
     "X References/X100 Files/X110 Images/Alios_Prime_TradingCard.jpg",
     "X References/X100 Files/X110 Images/fragaria_corporis1.jpg",
     "X References/X100 Files/X110 Images/Poten_TradingCard.jpg",
@@ -285,7 +286,6 @@
     "desktop.ini",
     "Y000 TTRPG/Y300 Campaigns/Y389 Critical Failure II/desktop.ini",
     "1000 The Embrace/1600 Flora & Fauna/1608 Lemure",
-    "1000 The Embrace/1600 Flora & Fauna/1609 Fauna",
-    "1000 The Embrace/1600 Flora & Fauna/1690 Flora"
+    "1000 The Embrace/1600 Flora & Fauna/1609 Fauna"
   ]
 }

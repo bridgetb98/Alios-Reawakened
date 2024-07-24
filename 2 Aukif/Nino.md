@@ -13,6 +13,9 @@ West:
 ---
 # Nino
 
+```toc
+```
+
 - I am the god of racing and betting. My name... is Ninio
 - I was but a mortal working as a child. Then one day, a being of great power revealed himself to me. He was too bright for my mortal eyes to see except for his red cap. He handed me this hat and then vanished from my vision. This is the moment I ascended
 

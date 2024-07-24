@@ -13,6 +13,9 @@ West:
 ---
 # Morlof
 
+```toc
+```
+
 - I am Morlof god of blood and flame, weapons are forged by my hand and plunged into the hearts of all that oppose me, may the flames of Morlof consume your hearts.
 - I was a weapon smith, selling to both sides, got a blood punishment but managed to survive and ascend
 - I was born anew

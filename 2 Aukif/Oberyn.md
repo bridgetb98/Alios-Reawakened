@@ -13,6 +13,9 @@ West:
 ---
 # Oberyn
 
+```toc
+```
+
 - My name is Oberyn, the god of pleasure.
 - *Who* I was doesn't matter. *What* I was, is more interesting, probably. I was an epicurean, an enjoyer of all life's gifts, most notably: food, wine, nature, sex, adventure, and entertainment. If I wasn't enjoying my time, I was making sure I would enjoy the time after doubly so. Pleasure dictated my life, and it dictates my life still.
 

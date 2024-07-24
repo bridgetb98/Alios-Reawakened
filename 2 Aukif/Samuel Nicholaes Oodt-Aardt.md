@@ -13,6 +13,9 @@ West:
 ---
 # Samuel Nicholaes Oodt-Aardt
 
+```toc
+```
+
 - God of hasty decisions
 
 ---

@@ -10,6 +10,11 @@ East:
 South: 
 West:
 ---
+# Mutation and Cultivation
+
+```toc
+```
+
 A mutant is more likely to use [[Cultivation]] cuz they can get the biological necessities through their mutation
 
 ---
