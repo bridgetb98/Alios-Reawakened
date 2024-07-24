@@ -2,6 +2,23 @@
 >![[Embrace-playmat.png]]
 >Map of [[The Embrace]]
 
+>[!columns|no-t]
+>>[!note] Recently Created
+>>```dataview
+>>list
+>>from ""
+>>sort file.ctime DESC
+>>limit 5
+>>```
+>
+>>[!note] Recently Edited
+>>```dataview
+>>list
+>>from ""
+>>sort file.mtime Desc
+>>limit 5
+>>```
+
 ---
 
 Hello! And welcome to the wiki of [[Alios]]; a literary universe created by [[Bridget A.M. Bleij]], and contributed to by many.
@@ -19,28 +36,31 @@ More importantly, it allows for special callouts. These callouts are:
 > [!column|no-t]
 > 
 >> [!info|clean no-title]
->> - Asides
->> - Captions
->> - Cards
->> - Checks
->> - Colors
->> - Columns
->> - Grid
+>> - [Asides](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Callouts/Callout+-+Asides)
+>> - [Captions](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Callouts/Callout+-+Captions)
+>> - [Cards](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Callouts/Callout+-+Cards)
+>> - [Checks](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Callouts/Callout+-+Checks)
+>> - [Colors]()
+>> - [Columns]
+>> - [Grid]
 >
 >> [!info|clean no-title]
->> - Infoboxes
->> - Kanban
->> - Kith
->> - Metadata
->> - Quote
->> - Statblocks
->> - Timeline
+>> - [Infoboxes]
+>> - [Kanban]
+>> - [Kith]
+>> - [Metadata]
+>> - [Quote]
+>> - [Statblocks]
+>> - [Timeline]
 
 These are really useful to spice up articles. Eventually, these will have their own templates, but that’s still a work in progress.
 
 # Plugins
 
-*WIP*
+The following plugins are used in this vault:
+
+>[!columns|no-t]
+>> - 
 
 # Navigation
 

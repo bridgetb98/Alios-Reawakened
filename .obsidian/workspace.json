@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "625e9b8a5231eb5a",
+        "id": "f95b93794ca0e6b7",
         "type": "tabs",
         "children": [
           {
-            "id": "f211bf0d398c8914",
+            "id": "cd20ae084c786542",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -245,7 +245,7 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "d885099731e38967",
+  "active": "cd20ae084c786542",
   "lastOpenFiles": [
     "Z Core/Z100 Inbox/Borrowing.md",
     "Z Core/Z100 Inbox/Borrower.md",
