@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "0 Alios/Constructs.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "0 Alios/Constructs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "0 Alios/Constructs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "0 Alios/Constructs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -241,13 +241,19 @@
   },
   "active": "7bddcae1a848eb03",
   "lastOpenFiles": [
+    "0 Alios/Belief.md",
+    "0 Alios/Ancient Words.md",
+    "0 Alios/Ambition.md",
+    "0 Alios/Alios - Primordial Creation.md",
+    "0 Alios/Alios.md",
+    "1 The Embrace/Aros.md",
+    "1 The Embrace/Angus.md",
+    "X References/X200 Templates/X200.1 Core Template.md",
+    "Z Core/Z100 Inbox/Borrowing.md",
     "Z Core/Z100 Inbox/Chrylis.md",
     "Home.md",
-    "Z Core/Z100 Inbox/Borrowing.md",
     "Z Core/Z100 Inbox/Borrower.md",
     "X References/X200 Templates/X200.8 Hard Magic Extention.md",
-    "0 Alios/Ambition.md",
-    "0 Alios/Belief.md",
     "2 Aukif/Aukif Design Principles.md",
     "Z Core/Z300 MOC/Aspect.md",
     "Y TTRPG/Y300 Campaigns/Y321 Demon Days/Y321.1 Session Notes/Y321.1.2 IN/DD Session 3 IN.md",
@@ -261,15 +267,9 @@
     "Z Core/Z000 Index/P.md",
     "Z Core/Z000 Index/F.md",
     "1 The Embrace/Fleshberry.md",
-    "Z Core/Z000 Index/1 The Embrace.md",
     "X References/X100 Files/X110 Images/Alios_Prime_TradingCard.jpg",
     "X References/X100 Files/X110 Images/fragaria_corporis1.jpg",
-    "1 The Embrace/Poten.md",
-    "2 Aukif/Fungi Cultivation.md",
-    "Z Core/Z100 Inbox/Cult of Poten.md",
     "X References/X100 Files/X110 Images/Poten_TradingCard.jpg",
-    "1 The Embrace/Aros.md",
-    "Z Core/Z300 MOC/Pantheon of All.md",
     "X References/X100 Files/X110 Images/Aros_TradingCard.jpg",
     "X References/X100 Files/X110 Images/Angus_TradingCard.jpg",
     "Z Core/Z400 Archive",

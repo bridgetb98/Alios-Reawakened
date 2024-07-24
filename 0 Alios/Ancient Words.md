@@ -11,6 +11,9 @@ West:
 ---
 # Ancient Words
 
+```toc
+```
+
 ## [[Chrylis]]' Notes
 
 The primordial gods work in ways that can't be understand by us. I've tried my best to understand the way they communicate. This is as far as I've been able to get.

@@ -12,6 +12,9 @@ West:
 ---
 # Angus — God of Anguish
 
+```toc
+```
+
 ## Depiction
 
 ![[Angus_TradingCard.jpg]]

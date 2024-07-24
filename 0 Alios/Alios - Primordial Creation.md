@@ -13,6 +13,9 @@ West:
 ---
 # Personification
 
+```toc
+```
+
 In the center of [[Alios]], lies the great sleeper. The galaxy exists as long as it remains sleeping, everything exists as a complex dream. Little bits of Alios leak out, however. People that don't quite make sense, or beings of great power, or magic.
 
 ## Description

@@ -10,6 +10,11 @@ East:
 South: 
 West:
 ---
+# Belief
+
+```toc
+```
+
 # Personification
 
 

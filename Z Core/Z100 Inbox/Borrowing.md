@@ -10,6 +10,9 @@ West:
 ---
 # Borrowing
 
+```toc
+```
+
 ## Abilities
 
 Borrowing allows a user, from here on out called a [[Borrower]], to share their mind with another creature. A [[Borrower]] can feel the senses of said creature and interpret their thoughts. Through subtle suggestion a trained [[borrower]] can even slightly influence the creature’s actions.

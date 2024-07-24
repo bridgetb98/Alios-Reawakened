@@ -9,6 +9,11 @@ East:
 South: 
 West:
 ---
+# Constructs
+
+```toc
+```
+
 The term 'construct' refers to a grouping of artificially created beings, both made by an organism as well as a [[Deity]]. The act that they are build and not born often causes people that haven't interacted with them much, to think that they aren't sapient. We're not here to make that argument. By our current understanding of the term, constructs are unquestionably sapient.
 
 ## Subspecies
