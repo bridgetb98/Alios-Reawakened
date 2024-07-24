@@ -16,7 +16,11 @@ title: # Session 5 IN
 
 # Players
 
-- 
+- [[Thijs Bleij]] — [[Brutus]]
+- [[Yeti Quakkelstein]] — [[Igg Knee]]
+- [[Marcel Brandhorst]] — [[Lydia Loreley]]
+- [[Roel Vergeer]] — [[Saul Badman]]
+- [[Luna Premuzak]] — [[Trigaldar]]
 
 # Combat
 
