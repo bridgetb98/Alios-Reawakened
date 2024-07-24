@@ -12,7 +12,7 @@ West:
 title: # The Groaning Breach
 ```
 
-A tavern with 
+A tavern with gyzer portals connecting to the five (5) different regions in [[Dain]]. 
 
 ---
 

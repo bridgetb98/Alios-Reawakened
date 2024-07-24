@@ -20,7 +20,7 @@ title: # Session 4 PRE
 
 ## Plot Advancements
 
-[[Brutus]] and [[Trigaldar]] have ‘escaped’ the temple. They need to figure out a way to fully get out of the [[Circle of the Everlight|Everlight]] territory. The plan, currently, is for them to find a stable gyser portal in the adjacent town and that way they can teleport to the [[Carcass]]. Along the way they can find the rest of the characters. AAAAA!
+[[Brutus]] and [[Trigaldar]] have ‘escaped’ the temple. They need to figure out a way to fully get out of the [[Circle of the Everlight|Everlight]] territory. The plan, currently, is for them to find a stable gyser portal in the adjacent town and that way they can teleport to [[The Carcass]]. Along the way they can find the rest of the characters. AAAAA!
 
 ## Side-Plots or Twists
 
