@@ -32,7 +32,7 @@ title: # Session 5 IN
 
 # NPCs
 
-- 
+- [[Enki]] — Halfling spy hired by [[Saul Badman]]
 
 # Notes
 
