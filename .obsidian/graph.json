@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "-path:\"X References\" -path:\"Y TTRPG\" -path:\"Z Core\" ",
+  "collapse-filter": false,
+  "search": "-path:\"X References\" -path:\"Y TTRPG\" -path:\"Z Core\"  -file:home",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -39,6 +39,6 @@
   "repelStrength": 12.0658489347966,
   "linkStrength": 0.567140090380891,
   "linkDistance": 122,
-  "scale": 0.2754832540602721,
+  "scale": 0.1964954454845764,
   "close": true
 }
