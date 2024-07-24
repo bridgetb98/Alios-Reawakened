@@ -21,7 +21,7 @@ West:
 - A city of thieves
 - A cult trying to use the wild magic geysers
 - Band of mercenaries with a scorched earth polici
-- Slavers specializing in "exotic merchandise"
+- Slavers specializing in "exotic merchandise"\
 
 ---
 
