@@ -11,8 +11,12 @@
             "id": "cd20ae084c786542",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Z Core/Z100 Inbox/Chrylis.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -76,6 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Z Core/Z100 Inbox/Chrylis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -139,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Z Core/Z100 Inbox/Chrylis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Z Core/Z100 Inbox/Chrylis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -234,6 +241,7 @@
   },
   "active": "cd20ae084c786542",
   "lastOpenFiles": [
+    "Z Core/Z100 Inbox/Chrylis.md",
     "Z Core/Z100 Inbox/Borrowing.md",
     "Home.md",
     "Z Core/Z100 Inbox/Borrower.md",
@@ -262,7 +270,6 @@
     "X References/X100 Files/X110 Images/Poten_TradingCard.jpg",
     "1 The Embrace/Aros.md",
     "Z Core/Z300 MOC/Pantheon of All.md",
-    "Z Core/Z300 MOC/Deity.md",
     "X References/X100 Files/X110 Images/Aros_TradingCard.jpg",
     "X References/X100 Files/X110 Images/Angus_TradingCard.jpg",
     "Z Core/Z400 Archive",
