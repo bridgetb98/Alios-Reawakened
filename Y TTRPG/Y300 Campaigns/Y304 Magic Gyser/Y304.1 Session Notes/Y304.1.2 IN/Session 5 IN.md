@@ -48,6 +48,7 @@ title: # Session 5 IN
 - [[Olad]] has heard the info about the [[Circle of the Everlight|Everlight]] incident
 - 5 sp on [[Brutus]]’ tab
 - [[Brutus]]’ tab has been paid
+- [[Kobold Gold]] v.s. [[The Gnomish Mechanism]]
 
 
 ---
