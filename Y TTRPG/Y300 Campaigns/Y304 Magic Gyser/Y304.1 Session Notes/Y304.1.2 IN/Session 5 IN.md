@@ -44,6 +44,9 @@ title: # Session 5 IN
 
 - [[Trigaldar]] got a warning not to resurrect this thing the city is made of
 - 15 silver on [[Brutus]]’ tab
+- Fighter’s guild for guards
+- [[Olad]] has heard the info about the [[Circle of the Everlight|Everlight]] incident
+- 5 sp on [[Brutus]]’ tab
 
 
 ---
