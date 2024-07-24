@@ -8,7 +8,7 @@
 >>list
 >>from ""
 >>sort file.ctime DESC
->>limit 5
+>>limit 10
 >>```
 >
 >>[!note] Recently Edited
@@ -16,7 +16,7 @@
 >>list
 >>from ""
 >>sort file.mtime Desc
->>limit 5
+>>limit 10
 >>```
 
 ```toc
@@ -30,8 +30,6 @@ title: # Table of Contents
 Hello! And welcome to the wiki of [[Alios]]; a literary universe created by [[Bridget A.M. Bleij]], and contributed to by many.
 
 In here you’ll be able to find any and all things written^[Given many, *many*, exceptions.] about [[Alios]], [[Aukif]], [[The Embrace]], and the many mysteries and overall silliness that can be found. Here at the home page, I’ll give you some info how to traverse this wiki and how to properly create your own articles!
-
----
 
 # Theme
 
@@ -74,9 +72,10 @@ The following plugins are used in this vault:
 >> - [Git](https://publish.obsidian.md/git-doc/Start+here)
 >> - [Style Settings](https://github.com/mgmeyers/obsidian-style-settings)
 >> - [Homepage](https://github.com/mirnovov/obsidian-homepage)
+>> - [Pandoc](https://github.com/OliverBalfour/obsidian-pandoc)
 >
 >>[!info|clean no-t]
->> - [Pandoc](https://github.com/OliverBalfour/obsidian-pandoc)
+>> - [Progress Clock](https://github.com/tokenshift/obsidian-progress-clocks)
 >> - [Leaflet](https://plugins.javalent.com/Leaflet)
 >> - [Dice Roller](https://plugins.javalent.com/Dice+Roller/Dice+Roller)
 >> - [Fantasy Statblock](https://plugins.javalent.com/statblocks)
@@ -90,13 +89,27 @@ Some of these plugins can be understood simply by reading its documentation^[acc
 
 ## Calendrium
 
+*W.I.P.*
+
 ## Pandoc
+
+*W.I.P.*
 
 ## Leaflet
 
+*W.I.P.*
+
 ## Fantasy Statblock
 
+*W.I.P.*
+
+## Progress Clock
+
+*W.I.P.*
+
 ## Timelines
+
+*W.I.P.*
 
 # Navigation
 
@@ -106,14 +119,17 @@ If you’ve opened one of the folders, you’ll quickly see that all articles ar
 
 Another method is using the ID of the different cards. All cards have a number designating their position in the vault. These numbers look as follows:
 
-$$
-Tag: ABCC.D
-$$
-
-- $A$: Primary category
-- $B$: Sub category
-- $CC$: ID
-- $.D$: Position
+>[!column|no-t]
+>>[!info|clean no-t]
+>> $$
+>> Tag: ABCC.D
+>> $$
+>
+>>[!info|clean no-t]
+>> - $A$: Primary category
+>> - $B$: Sub category
+>> - $CC$: ID
+>> - $.D$: Position
 
 For example, a card with ID $1602.1$^[[[Goblins|1602.1]]] is
 

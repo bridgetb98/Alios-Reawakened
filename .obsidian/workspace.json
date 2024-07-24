@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Z Core/Z100 Inbox/Borrowing.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:idea",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "Z Core/Z100 Inbox/Borrowing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Z Core/Z100 Inbox/Borrowing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Z Core/Z100 Inbox/Borrowing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -187,40 +187,41 @@
             }
           },
           {
-            "id": "d0960de311c162e5",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "75434f2746301dec",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
-          },
-          {
             "id": "e29afc944a58696a",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
+          },
+          {
+            "id": "64ad3fd578ff914f",
+            "type": "leaf",
+            "state": {
+              "type": "PROGRESS_CLOCKS_VIEW",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
+      },
+      {
+        "id": "0add4af3278c4fa4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c1d20c920c7ce79",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,6 +241,7 @@
   },
   "active": "cd20ae084c786542",
   "lastOpenFiles": [
+    "Home.md",
     "Z Core/Z100 Inbox/Borrowing.md",
     "Z Core/Z100 Inbox/Borrower.md",
     "X References/X200 Templates/X200.8 Hard Magic Extention.md",
@@ -247,7 +249,6 @@
     "0 Alios/Belief.md",
     "2 Aukif/Aukif Design Principles.md",
     "Z Core/Z300 MOC/Aspect.md",
-    "Home.md",
     "Y TTRPG/Y300 Campaigns/Y321 Demon Days/Y321.1 Session Notes/Y321.1.2 IN/DD Session 3 IN.md",
     "Y TTRPG/Y300 Campaigns/Y321 Demon Days/Y321.1 Session Notes/Y321.1.2 IN/DD Session 2 IN.md",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.2 IN/Session 3 IN.md",

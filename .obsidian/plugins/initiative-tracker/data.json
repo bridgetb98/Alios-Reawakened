@@ -254,7 +254,7 @@
         "friendly": false
       }
     ],
-    "state": true,
+    "state": false,
     "name": "Banker Ambush",
     "round": 2,
     "logFile": "",
@@ -428,5 +428,5 @@
       ]
     }
   },
-  "rollPlayerInitiatives": 0
+  "rollPlayerInitiatives": 1
 }
