@@ -11,12 +11,8 @@
             "id": "cd20ae084c786542",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z Core/Z100 Inbox/Borrowing.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -80,7 +76,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Z Core/Z100 Inbox/Borrowing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -144,7 +139,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z Core/Z100 Inbox/Borrowing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +155,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z Core/Z100 Inbox/Borrowing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -241,8 +234,8 @@
   },
   "active": "cd20ae084c786542",
   "lastOpenFiles": [
-    "Home.md",
     "Z Core/Z100 Inbox/Borrowing.md",
+    "Home.md",
     "Z Core/Z100 Inbox/Borrower.md",
     "X References/X200 Templates/X200.8 Hard Magic Extention.md",
     "0 Alios/Ambition.md",
