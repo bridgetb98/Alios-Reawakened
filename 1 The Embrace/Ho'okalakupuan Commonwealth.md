@@ -13,7 +13,10 @@ South:
   - "[[Theocracy of Olpen|1372.3]]"
 West:
 ---
+# Ho'okalakupuan Commonwealth
 
+```toc
+```
 
 ---
 

@@ -4,7 +4,7 @@ aliases:
   - "0980.3"
   - Thera
 tags:
-  - deity
+  - deity/primmordial
 North:
   - "[[Extyx - Primordial Infinity|0980.2]]"
 East: 
@@ -12,6 +12,11 @@ South:
   - "[[Void - Primordial Energy|0980.4]]"
 West:
 ---
+# Thera
+
+```toc
+```
+
 # Personification
 
 

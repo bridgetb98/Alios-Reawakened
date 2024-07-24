@@ -12,6 +12,9 @@ West:
 ---
 # Fleshberry
 
+```toc
+```
+
 ![[fragaria_corporis1.jpg]]^[artist: [[Marcel Brandhorst]]]
 
 *Average Weight: 616.6 gram*

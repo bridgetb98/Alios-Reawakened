@@ -12,9 +12,10 @@ West:
   - "[[Promise|0915.5]]"
   - "[[The Goblin Code|1400.1]]"
 ---
-- Wearing the silver fluid is honourary Goblin
-- Only enter a Goblin’s place when asked
-- No stealing food from a Goblin
+# Goblins
+
+```toc
+```
 
 # Anatomy & Morphology
 
@@ -68,3 +69,9 @@ I assume their strict adherence to the code comes from their alleged connection 
 ## [[Chrylis]]' Journal
 
 It's ten said that Goblins are agents of chaos. With their rapidly changing physiology and seeming love for destruction. However, Goblins crave structure. They always live by a strict code that varies based on what region of [[The Embrace|The Embrace]] you find yourself in.
+
+## General Notes
+
+- Wearing the silver fluid is honourary Goblin
+- Only enter a Goblin’s place when asked
+- No stealing food from a Goblin

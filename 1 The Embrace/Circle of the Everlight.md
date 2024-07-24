@@ -9,6 +9,11 @@ East:
 South: 
 West:
 ---
+# Circle of the Everlight
+
+```toc
+```
+
 - Druid circle filled with arsonists
 - Relatively stable, united front
 - Sees glass as a divine material

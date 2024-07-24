@@ -13,6 +13,9 @@ West:
 ---
 # Poten — God of Chance
 
+```toc
+```
+
 ## Depiction
 
 ![[Poten_TradingCard.jpg]]

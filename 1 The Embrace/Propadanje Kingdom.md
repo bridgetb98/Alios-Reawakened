@@ -13,7 +13,10 @@ South:
   - "[[Wedi Coli Wastes|1372.7]]"
 West:
 ---
+# Propadanje Kingdom
 
+```toc
+```
 
 ---
 

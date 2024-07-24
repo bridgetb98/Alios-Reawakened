@@ -4,7 +4,7 @@ aliases:
   - "0980.2"
   - Extyx
 tags:
-  - deity
+  - deity/primmordial
 North:
   - "[[Alios - Primordial Creation|0980.1]]"
 East: 
@@ -12,6 +12,11 @@ South:
   - "[[Thera - Primordial Matter|0980.3]]"
 West:
 ---
+# Extyx
+
+```toc
+```
+
 # Personification
 
 

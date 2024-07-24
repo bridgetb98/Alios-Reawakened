@@ -10,7 +10,12 @@ South:
   - "[[Ho'okalakupuan Commonwealth|1372.2]]"
 West:
 ---
-Groups within Dain:
+# Dain
+
+```toc
+```
+
+## Groups within Dain
 
 - [[Circle of the Everlight]]
 - A city of thieves

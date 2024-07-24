@@ -3,7 +3,7 @@ ID: "20230910100642"
 aliases:
   - "0915.1"
 tags:
-  - deity
+  - deity/aspect
 North: 
 East: 
 South:

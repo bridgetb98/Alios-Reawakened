@@ -4,7 +4,7 @@ aliases:
   - Alios
   - "0980.1"
 tags:
-  - deity
+  - deity/primmordial
 North: 
 East: 
 South:

@@ -11,6 +11,11 @@ South:
   - "[[Continent Design Principles|1000.1]]"
 West:
 ---
+# The Embrace
+
+```toc
+```
+
 >[!caption|wfull]
 >![[Embrace-playmat.png|Map of the Embrace]]
 >Map of the Embrace

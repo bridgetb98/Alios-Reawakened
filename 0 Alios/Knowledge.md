@@ -3,7 +3,7 @@ ID: "20230919110851"
 aliases:
   - "0915.2"
 tags:
-  - deity
+  - deity/aspect
 North:
   - "[[Ambition|0915.1]]"
 East: 
@@ -11,6 +11,11 @@ South:
   - "[[Memory|0915.3]]"
 West:
 ---
+# Knowledge
+
+```toc
+```
+
 # Personification
 
 ## Description

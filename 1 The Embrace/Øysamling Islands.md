@@ -13,7 +13,10 @@ South:
   - "[[Democratic Republic of Politismós|1372.5]]"
 West:
 ---
+# Øysamling Islands
 
+```toc
+```
 
 ---
 

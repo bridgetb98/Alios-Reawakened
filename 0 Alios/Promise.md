@@ -3,12 +3,17 @@ ID: "20230919111649"
 aliases:
   - "0915.5"
 tags:
-  - deity
+  - deity/aspect
 North: 
 East: 
 South: 
 West:
 ---
+# Promise
+
+```toc
+```
+
 # Personification
 
 

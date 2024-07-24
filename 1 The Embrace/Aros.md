@@ -13,6 +13,9 @@ West:
 ---
 # Aros — God of the Forge
 
+```toc
+```
+
 ## Depiction
 
 ![[Aros_TradingCard.jpg]]

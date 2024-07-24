@@ -11,6 +11,11 @@ South:
   - "[[Embrace Design Principles|1000.2]]"
 West:
 ---
+# Continent Design Principles
+
+```toc
+```
+
 - **[[Dain]]**: A godless wasteland. Basically the Australia of [[The Embrace|the Embrace]].
 - **[[Ho'okalakupuan Commonwealth]]**: Leaders of technical development, ruled by a series of adventuring guilds.
 - **[[Theocracy of Olpen]]**: Oppressive theocracy led by an actual God.

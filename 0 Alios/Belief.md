@@ -3,7 +3,7 @@ ID: "20230919111502"
 aliases:
   - "0915.4"
 tags:
-  - deity
+  - deity/aspect
 North:
   - "[[Memory|0915.3]]"
 East: 

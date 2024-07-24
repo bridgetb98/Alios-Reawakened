@@ -10,6 +10,11 @@ East:
 South: 
 West:
 ---
+# Embrace Design Principles
+
+```toc
+```
+
 - **[[Alios]] Concepts**: [[Ambition]], [[Knowledge]], [[Memory]], [[Belief]], [[Promise]]
 - Gods and spirits walk among regular men
 - 7 continents^[see:[[Continent Design Principles|1000.1]]]

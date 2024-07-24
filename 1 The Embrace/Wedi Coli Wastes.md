@@ -12,7 +12,10 @@ East:
 South: 
 West:
 ---
+# Wedi Coli Wastes
 
+```toc
+```
 
 ---
 

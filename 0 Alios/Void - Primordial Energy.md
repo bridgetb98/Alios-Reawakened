@@ -4,7 +4,7 @@ aliases:
   - "0980.4"
   - Void
 tags:
-  - deity
+  - deity/primmordial
 North:
   - "[[Thera - Primordial Matter|0980.3]]"
 East: 
@@ -12,6 +12,11 @@ South:
   - "[[Zahdum - Primordial Spirit|0980.5]]"
 West:
 ---
+# Void
+
+```toc
+```
+
 # Personification
 
 
