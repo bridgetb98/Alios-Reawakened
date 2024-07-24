@@ -15,7 +15,7 @@
               "state": {
                 "file": "Home.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -118,7 +118,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3628873693012118,
+                  "scale": 0.5087618855792589,
                   "close": true
                 }
               }
@@ -179,14 +179,6 @@
             }
           },
           {
-            "id": "41505cfde582dbc3",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
             "id": "fa4d2d90fd4fa96d",
             "type": "leaf",
             "state": {
@@ -242,7 +234,8 @@
       "homepage:Open homepage": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "cd20ae084c786542",

@@ -68,21 +68,35 @@ The following plugins are used in this vault:
 >[!columns|no-t]
 >>[!info|clean no-t]
 >> - [Automatic Table Of Contents](https://github.com/johansatge/obsidian-automatic-table-of-contents)
->> - [Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin)
+>> - [Calendarium](https://plugins.javalent.com/calendarium)
 >> - [Dataview](https://blacksmithgu.github.io/obsidian-dataview/)
+>> - [Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin)
 >> - [Git](https://publish.obsidian.md/git-doc/Start+here)
 >> - [Style Settings](https://github.com/mgmeyers/obsidian-style-settings)
 >> - [Homepage](https://github.com/mirnovov/obsidian-homepage)
->> - [Pandoc](https://github.com/OliverBalfour/obsidian-pandoc)
 >
 >>[!info|clean no-t]
->> - [Leaflet](https://github.com/javalent/obsidian-leaflet)
->> - 9
->> - 10
->> - 11
->> - 12
->> - 13
->> - 14
+>> - [Pandoc](https://github.com/OliverBalfour/obsidian-pandoc)
+>> - [Leaflet](https://plugins.javalent.com/Leaflet)
+>> - [Dice Roller](https://plugins.javalent.com/Dice+Roller/Dice+Roller)
+>> - [Fantasy Statblock](https://plugins.javalent.com/statblocks)
+>> - [Initiative Tracker](https://plugins.javalent.com/it)
+>> - [Timelines](https://github.com/Darakah/obsidian-timelines)
+>> - [Smart Typography](https://github.com/mgmeyers/obsidian-smart-typography)
+
+This list is still subject to change, as I can’t comprehend the full scope of the totality of the Obsidian plugin library.
+
+Some of these plugins can be understood simply by reading its documentation^[accessible by pressing the corresponding plugin’s name], while others require a bit more of an explanation as to how it is used in this vault.
+
+## Calendrium
+
+## Pandoc
+
+## Leaflet
+
+## Fantasy Statblock
+
+## Timelines
 
 # Navigation
 

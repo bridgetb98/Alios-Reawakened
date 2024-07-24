@@ -1,6 +1,5 @@
 [
   "obsidian-dice-roller",
-  "fantasy-calendar",
   "obsidian-5e-statblocks",
   "initiative-tracker",
   "obsidian-leaflet-plugin",
@@ -12,5 +11,6 @@
   "homepage",
   "obsidian-smart-typography",
   "dataview",
-  "automatic-table-of-contents"
+  "automatic-table-of-contents",
+  "calendarium"
 ]
