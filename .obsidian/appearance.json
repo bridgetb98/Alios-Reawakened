@@ -2,5 +2,7 @@
   "accentColor": "#00ad0c",
   "cssTheme": "ITS Theme",
   "theme": "moonstone",
-  "baseFontSize": 20
+  "baseFontSize": 20,
+  "interfaceFontFamily": "Renogare",
+  "textFontFamily": "Renogare"
 }
