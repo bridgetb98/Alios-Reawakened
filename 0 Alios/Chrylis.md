@@ -1,8 +1,9 @@
 ---
 ID: "20240724114317"
-aliases: 
+aliases:
+  - "0821.1"
 tags:
-  - idea
+  - character/NPC
 North: 
 East: 
 South: 

@@ -1,0 +1,6 @@
+---
+tags:
+  - MOC
+---
+- [[Chrylis]]
+- [[Olad]]

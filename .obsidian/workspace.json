@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "09108a19231ba726",
+        "id": "5ba07ab65fd9976e",
         "type": "tabs",
         "children": [
           {
-            "id": "3676443fc2f78bc0",
+            "id": "7f94597322e9b880",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y TTRPG/Y100 Players/Roel Vergeer.md",
+                "file": "1 The Embrace/Geyser Guys.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "765184fe8bb0a64f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z Core/Z100 Inbox/Olad.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f52c6ed9fbfcfaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z Core/Z000 Index/T.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -80,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Y TTRPG/Y100 Players/Roel Vergeer.md",
+                "file": "Z Core/Z000 Index/T.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -144,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Y TTRPG/Y100 Players/Roel Vergeer.md",
+                "file": "Z Core/Z000 Index/T.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Y TTRPG/Y100 Players/Roel Vergeer.md",
+                "file": "Z Core/Z000 Index/T.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -250,36 +275,36 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3676443fc2f78bc0",
+  "active": "6f52c6ed9fbfcfaa",
   "lastOpenFiles": [
-    "Y TTRPG/Y100 Players/Tom Rijnsburger.md",
-    "Y TTRPG/Y100 Players/Roel Vergeer.md",
-    "Home.md",
+    "Z Core/Z300 MOC/Characters.md",
+    "Z Core/Z000 Index/C.md",
+    "Z Core/Z100 Inbox/Olad.md",
+    "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.2 IN/CF2 Session 7 IN.md",
+    "1 The Embrace/Circle of the Everlight.md",
+    "Z Core/Z300 MOC/Dain (MOC).md",
+    "Z Core/Z300 MOC/Cult.md",
+    "Z Core/Z000 Index/0 Alios.md",
+    "1 The Embrace/Geyser Guys.md",
+    "0 Alios/Chrylis.md",
+    "1 The Embrace/Borrowing.md",
+    "Z Core/Z000 Index/1 The Embrace.md",
+    "1 The Embrace/The Embrace.md",
+    "Z Core/Z300 MOC/Magic.md",
+    "Z Core/Z000 Index/M.md",
+    "0 Alios/Constructs.md",
     "Y TTRPG/Y100 Players/Bridget A.M. Bleij.md",
+    "Y TTRPG/Y100 Players/Roel Vergeer.md",
+    "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.1 Session Notes/Y304.1.2 IN/Session 5 IN.md",
+    "Y TTRPG/Y100 Players/Tom Rijnsburger.md",
+    "Home.md",
     "1 The Embrace/Dain.md",
     "0 Alios/Ancient Words.md",
     "2 Aukif/Aukif Design Principles.md",
     "0 Alios/Ambition.md",
     "Z Core/Z300 MOC/Aspect.md",
-    "Z Core/Z000 Index/A.md",
-    "Z Core/Z300 MOC/Magic.md",
-    "Z Core/Z000 Index/H.md",
-    "Z Core/Z000 Index/M.md",
-    "Z Core/Z100 Inbox/Borrowing.md",
-    "Z Core/Z100 Inbox/Chrylis.md",
-    "Z Core/Z100 Inbox/Geyser Guys.md",
-    "Z Core/Z100 Inbox/Olad.md",
-    "Z Core/Z100 Inbox/Otherworldly Goods.md",
-    "Z Core/Z100 Inbox/Salamanders.md",
-    "Z Core/Z100 Inbox/The Carcass.md",
-    "Z Core/Z100 Inbox/The Grand Thievery.md",
-    "Z Core/Z100 Inbox/The Groaning Breach.md",
-    "Z Core/Z300 MOC/Dain (MOC).md",
-    "Z Core/Z000 Index/D.md",
-    "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.2 IN/Session 5 IN.md",
-    "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.1 PRE/Session 5 PRE.md",
     "X References/X100 Files/Pasted image 20240724193026.png",
-    "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.1 PRE",
+    "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.1 Session Notes/Y304.1.1 PRE",
     "X References/X100 Files/X110 Images/Alios_Prime_TradingCard.jpg",
     "X References/X100 Files/X110 Images/fragaria_corporis1.jpg",
     "X References/X100 Files/X110 Images/Poten_TradingCard.jpg",

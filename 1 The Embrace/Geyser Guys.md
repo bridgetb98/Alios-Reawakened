@@ -1,9 +1,11 @@
 ---
 ID: "20240805135233"
-aliases: 
+aliases:
+  - "1711.2"
 tags:
-  - idea
-North: 
+  - organization/cult
+North:
+  - "[[Circle of the Everlight|1711.1]]"
 East: 
 South: 
 West:

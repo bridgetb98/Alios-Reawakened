@@ -1,6 +1,7 @@
 ---
 ID: "20240603144708"
-aliases: 
+aliases:
+  - "1429.1"
 tags:
   - magic/hard
 North: 

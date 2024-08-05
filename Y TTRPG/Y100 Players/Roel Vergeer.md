@@ -17,11 +17,17 @@ title: # Roel Vergeer
 # Campaigns
 
 - [[Critcal Failure I]]
-- [[Cr]]
+- [[Y389 Critical Failure II|Critical Failure II]]
+- [[Demon Days]]
+- [[Masks Gouda]]
+- [[Magic Geyser]]
 
 # Characters
 
-- 
+- [[Fluffy]]
+- [[24601 (Dave)]]
+- [[Sir Thomas Thomson]]
+- [[Saul Badman]]
 
 
 ---

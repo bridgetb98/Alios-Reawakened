@@ -4,10 +4,11 @@ aliases:
   - "1711.1"
   - Everlight
 tags:
-  - idea
+  - organization/cult
 North: 
 East: 
-South: 
+South:
+  - "[[Geyser Guys|1711.2]]"
 West:
 ---
 # Circle of the Everlight
