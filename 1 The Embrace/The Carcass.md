@@ -7,7 +7,8 @@ tags:
   - region/location/city
 North:
   - "[[Dain|1372.1]]"
-East: 
+East:
+  - "[[The Groaning Breach|1372.1.1.1]]"
 South: 
 West:
 ---

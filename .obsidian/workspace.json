@@ -11,40 +11,11 @@
             "id": "fc611d7fa4c78e6b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z Core/Z100 Inbox/The Grand Thievery.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d90ad2b552bcbfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z Core/Z300 MOC/Dain (MOC).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d7c9547eb18315c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 The Embrace/Theocracy of Olpen.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -105,7 +76,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 The Embrace/Theocracy of Olpen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -169,7 +139,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 The Embrace/Theocracy of Olpen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +155,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 The Embrace/Theocracy of Olpen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -275,14 +243,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0d7c9547eb18315c",
+  "active": "fc611d7fa4c78e6b",
   "lastOpenFiles": [
+    "1 The Embrace/The Groaning Breach.md",
+    "1 The Embrace/The Carcass.md",
+    "Z Core/Z000 Index/T.md",
+    "Z Core/Z300 MOC/Taverns.md",
+    "1 The Embrace/The Grand Thievery.md",
+    "Z Core/Z300 MOC/Dain (MOC).md",
+    "1 The Embrace/Theocracy of Olpen.md",
     "1 The Embrace/Ho'okalakupuan Commonwealth.md",
     "1 The Embrace/Dain.md",
-    "1 The Embrace/The Carcass.md",
-    "Z Core/Z300 MOC/Dain (MOC).md",
     "1 The Embrace/Salamanders.md",
-    "Z Core/Z100 Inbox/The Grand Thievery.md",
     "1 The Embrace/Otherworldly Goods.md",
     "Z Core/Z000 Index/D.md",
     "Z Core/Z000 Index/G.md",
@@ -299,10 +271,6 @@
     "Z Core/Z000 Index/S.md",
     "Z Core/Z300 MOC/Slavers.md",
     "1 The Embrace/Olad.md",
-    "Z Core/Z000 Index/T.md",
-    "Z Core/Z300 MOC/Characters.md",
-    "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.2 IN/CF2 Session 7 IN.md",
-    "Z Core/Z300 MOC/Cult.md",
     "X References/X100 Files/Pasted image 20240724193026.png",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.1 Session Notes/Y304.1.1 PRE",
     "X References/X100 Files/X110 Images/Alios_Prime_TradingCard.jpg",

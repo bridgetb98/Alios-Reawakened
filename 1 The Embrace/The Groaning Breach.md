@@ -1,9 +1,11 @@
 ---
 ID: "20240724192106"
-aliases: 
+aliases:
+  - 1372.1.1.1
 tags:
   - region/building/tavern
-North: 
+North:
+  - "[[The Carcass|1372.1.1]]"
 East: 
 South: 
 West:
