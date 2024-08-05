@@ -19,7 +19,7 @@ West:
 
 - [[Circle of the Everlight]]
 - [[The Grand Thievery]]
-- A cult trying to use the wild magic geysers
+- [[Geyser Guys]]
 - Band of mercenaries with a scorched earth policy
 - Slavers specializing in "exotic merchandise"\
 

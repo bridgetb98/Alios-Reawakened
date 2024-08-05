@@ -1,5 +1,5 @@
 ---
-ID: "20240805134101"
+ID: "20240805135233"
 aliases: 
 tags:
   - idea
@@ -9,10 +9,10 @@ South:
 West:
 ---
 ```toc
-title: # The Grand Thievery
+title: {{title}}
 ```
 
-A city of thieves
+A cult trying to use the wild magic geysers
 
 ---
 
