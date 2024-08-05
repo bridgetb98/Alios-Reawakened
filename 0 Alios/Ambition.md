@@ -35,6 +35,8 @@ People that are born with high Ambition tend to be leaders, tyrants, artisans. T
 
 ## Magic
 
+[[Borrowing]]
+
 ---
 
 # Reference

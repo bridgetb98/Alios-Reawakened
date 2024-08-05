@@ -9,7 +9,7 @@ South:
 West:
 ---
 ```toc
-title: {{title}}
+title: # Geyser Guys
 ```
 
 A cult trying to use the wild magic geysers

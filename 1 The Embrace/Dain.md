@@ -21,7 +21,7 @@ Wild magic is rampant within Dain. This is made physical through [[Wild Magic Ge
 
 ## Climate
 
-The effects of wild magic has caused the climate of Dain to be completely out of whack. Scalding deserts can be found right next to massive g
+The effects of wild magic has caused the climate of Dain to be completely out of whack. Scalding deserts can be found right next to massive glaciers. The landscape tends to shift between climates with yet unknown regularity.
 
 ## Groups within Dain
 

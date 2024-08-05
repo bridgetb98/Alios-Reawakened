@@ -9,7 +9,7 @@ South:
 West:
 ---
 ```toc
-title: {{title}}
+title: # Salamanders
 ```
 
 Band of mercenaries with a scorched earth policy

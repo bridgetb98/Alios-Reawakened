@@ -9,7 +9,7 @@ South:
 West:
 ---
 ```toc
-title: {{title}}
+title: # Otherworldly Goods
 ```
 
 Slavers specializing in "exotic merchandise"
