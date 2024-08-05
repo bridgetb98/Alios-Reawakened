@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "1 The Embrace/Dain.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "1 The Embrace/Dain.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "1 The Embrace/Dain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "1 The Embrace/Dain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -253,22 +253,25 @@
   },
   "active": "5877bd25004056bb",
   "lastOpenFiles": [
+    "Z Core/Z100 Inbox/The Grand Thievery.md",
+    "Z Core/Z100 Inbox/The Groaning Breach.md",
+    "Z Core/Z100 Inbox/The Carcass.md",
+    "Z Core/Z100 Inbox/Olad.md",
+    "Z Core/Z100 Inbox/Chrylis.md",
+    "Z Core/Z100 Inbox/Borrowing.md",
+    "Home.md",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.2 IN/Session 5 IN.md",
     "Z Core/Z300 MOC/Dain (MOC).md",
     "1 The Embrace/Dain.md",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.1 PRE/Session 5 PRE.md",
-    "Z Core/Z100 Inbox/The Carcass.md",
     "Z Core/Z300 MOC/Task Traversers.md",
     "Z Core/Z300 MOC/Design Reference.md",
     "X References/X200 Templates/X200.9.1 In-Session.md",
-    "Home.md",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.2 IN/Session 2 IN.md",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.2 IN/SESSION 1 IN.md",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.2 IN/Session 3 IN.md",
     "X References/X200 Templates/X200.9 Pre-Session.md",
     "X References/X100 Files/Pasted image 20240724193026.png",
-    "Z Core/Z100 Inbox/The Groaning Breach.md",
-    "Z Core/Z100 Inbox/Olad.md",
     "1 The Embrace/Circle of the Everlight.md",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.1 PRE",
     "2 Aukif/Oberyn.md",
@@ -278,9 +281,6 @@
     "X References/X200 Templates/X200.3 D&D Stats.md",
     "X References/X200 Templates/X200.3.1 CoC Info.md",
     "X References/X200 Templates/X200.3.2 Masks Info.md",
-    "X References/X200 Templates/X200.4 Monster Stats.md",
-    "X References/X200 Templates/X200.5 Town Extention.md",
-    "X References/X200 Templates/X200.6 Alios Concept Extention.md",
     "X References/X100 Files/X110 Images/Alios_Prime_TradingCard.jpg",
     "X References/X100 Files/X110 Images/fragaria_corporis1.jpg",
     "X References/X100 Files/X110 Images/Poten_TradingCard.jpg",

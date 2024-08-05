@@ -53,5 +53,17 @@
   "ITS@@list-lines-color": false,
   "ITS@@list-neon": false,
   "ITS@@list-bullet-side-lines": false,
-  "ITS@@alternate-indent": false
+  "ITS@@alternate-indent": false,
+  "ITS@@embed-clean": true,
+  "ITS@@accent-color": false,
+  "ITS@@slrvb-b": false,
+  "ITS@@slrvb-g": false,
+  "ITS@@s-d": false,
+  "ITS@@t-d": false,
+  "ITS@@drwn": false,
+  "ITS@@nord": false,
+  "ITS@@mini": false,
+  "ITS@@notion": false,
+  "ITS@@its-d": false,
+  "ITS@@default-font": "renogare"
 }

@@ -18,9 +18,9 @@ West:
 ## Groups within Dain
 
 - [[Circle of the Everlight]]
-- A city of thieves
+- [[The Grand Thievery]]
 - A cult trying to use the wild magic geysers
-- Band of mercenaries with a scorched earth polici
+- Band of mercenaries with a scorched earth policy
 - Slavers specializing in "exotic merchandise"\
 
 ---

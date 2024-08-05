@@ -24,6 +24,8 @@ The Carcass is a neutral city within Dain, build within the slowly regenerating 
 ## Shops
 
 - [[The Groaning Breach]] — Tavern and travel location
+- [[The Gnome’s Mechanism]] — Slightly fancy tavern
+- [[The Kobold’s Hoard]] — Cheap tavern that’s often full
 
 ## Housing
 
