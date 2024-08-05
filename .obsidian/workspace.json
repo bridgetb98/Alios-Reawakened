@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z Core/Z300 MOC/Dain (MOC).md",
+                "file": "1 The Embrace/Dain.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Z Core/Z300 MOC/Dain (MOC).md",
+                "file": "1 The Embrace/Dain.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z Core/Z300 MOC/Dain (MOC).md",
+                "file": "1 The Embrace/Dain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z Core/Z300 MOC/Dain (MOC).md",
+                "file": "1 The Embrace/Dain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -253,6 +253,9 @@
   },
   "active": "5877bd25004056bb",
   "lastOpenFiles": [
+    "Z Core/Z100 Inbox/Otherworldly Goods.md",
+    "Z Core/Z100 Inbox/Salamanders.md",
+    "Z Core/Z300 MOC/Dain (MOC).md",
     "Z Core/Z000 Index/D.md",
     "Z Core/Z100 Inbox/Chrylis.md",
     "Z Core/Z100 Inbox/Borrowing.md",
@@ -264,7 +267,6 @@
     "1 The Embrace/Dain.md",
     "Home.md",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.2 IN/Session 5 IN.md",
-    "Z Core/Z300 MOC/Dain (MOC).md",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.1 PRE/Session 5 PRE.md",
     "Z Core/Z300 MOC/Task Traversers.md",
     "Z Core/Z300 MOC/Design Reference.md",
@@ -279,8 +281,6 @@
     "2 Aukif/Oberyn.md",
     "Z Core/Z100 Inbox/Tom Rijnsburger.md",
     "2 Aukif/Vörsi.md",
-    "X References/X200 Templates/X200.1A Migration Template.md",
-    "X References/X200 Templates/X200.3 D&D Stats.md",
     "X References/X100 Files/X110 Images/Alios_Prime_TradingCard.jpg",
     "X References/X100 Files/X110 Images/fragaria_corporis1.jpg",
     "X References/X100 Files/X110 Images/Poten_TradingCard.jpg",

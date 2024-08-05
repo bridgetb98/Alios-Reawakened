@@ -15,13 +15,21 @@ West:
 ```toc
 ```
 
+The continent ‘abandoned by the Gods’. The continent is used by [[The Powers that Be]] as an imprisonment colony, due to the strange phenomenon surrounding it making it near impossible to escape.
+
+Wild magic is rampant within Dain. This is made physical through [[Wild Magic Geyser]]s.
+
+## Climate
+
+The effects of wild magic has caused the climate of Dain to be completely out of whack. Scalding deserts can be found right next to massive g
+
 ## Groups within Dain
 
 - [[Circle of the Everlight]]
 - [[The Grand Thievery]]
 - [[Geyser Guys]]
-- Band of mercenaries with a scorched earth policy
-- Slavers specializing in "exotic merchandise"\
+- [[Salamanders]]
+- [[Otherworldly Goods]]
 
 ---
 
