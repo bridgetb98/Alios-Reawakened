@@ -5,7 +5,8 @@ aliases:
 tags:
   - continent
 North: 
-East: 
+East:
+  - "[[The Carcass|1372.1.1]]"
 South:
   - "[[Ho'okalakupuan Commonwealth|1372.2]]"
 West:

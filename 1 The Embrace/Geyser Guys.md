@@ -7,7 +7,8 @@ tags:
 North:
   - "[[Circle of the Everlight|1711.1]]"
 East: 
-South: 
+South:
+  - "[[Otherworldly Goods|1711.3]]"
 West:
 ---
 ```toc

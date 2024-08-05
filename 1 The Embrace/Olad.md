@@ -1,6 +1,7 @@
 ---
 ID: "20240724190930"
-aliases: 
+aliases:
+  - "1824.1"
 tags:
   - character/NPC
 North: 

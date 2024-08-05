@@ -2,5 +2,6 @@
 tags:
   - index
 ---
-- [[Species]]
 - [[Seasons]]
+- [[Species]]
+- [[Slavers]]

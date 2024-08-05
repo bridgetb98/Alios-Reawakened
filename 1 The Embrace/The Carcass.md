@@ -2,9 +2,11 @@
 ID: "20240724192241"
 aliases:
   - Carcass
+  - 1372.1.1
 tags:
   - region/location/city
-North: 
+North:
+  - "[[Dain|1372.1]]"
 East: 
 South: 
 West:

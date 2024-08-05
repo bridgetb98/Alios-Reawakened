@@ -1,11 +1,14 @@
 ---
 ID: "20240805135748"
-aliases: 
+aliases:
+  - "1711.3"
 tags:
-  - idea
-North: 
+  - organization/merchant
+North:
+  - "[[Geyser Guys|1711.2]]"
 East: 
-South: 
+South:
+  - "[[Salamanders|1711.4]]"
 West:
 ---
 ```toc

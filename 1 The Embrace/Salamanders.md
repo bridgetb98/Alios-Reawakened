@@ -1,11 +1,14 @@
 ---
 ID: "20240805135639"
-aliases: 
+aliases:
+  - "1711.4"
 tags:
-  - idea
-North: 
+  - organization/mercenary
+North:
+  - "[[Otherworldly Goods|1711.3]]"
 East: 
-South: 
+South:
+  - "[[The Grand Thievery|1711.5]]"
 West:
 ---
 ```toc

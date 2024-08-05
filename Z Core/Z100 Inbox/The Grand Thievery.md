@@ -1,9 +1,11 @@
 ---
 ID: "20240805134101"
-aliases: 
+aliases:
+  - "1711.5"
 tags:
-  - idea
-North: 
+  - organization/guild
+North:
+  - "[[Salamanders|1711.4]]"
 East: 
 South: 
 West:

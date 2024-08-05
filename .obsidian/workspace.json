@@ -4,41 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "5ba07ab65fd9976e",
+        "id": "8c1485aad16d7613",
         "type": "tabs",
         "children": [
           {
-            "id": "7f94597322e9b880",
+            "id": "fc611d7fa4c78e6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 The Embrace/Geyser Guys.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "765184fe8bb0a64f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z Core/Z100 Inbox/Olad.md",
+                "file": "Z Core/Z100 Inbox/The Grand Thievery.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "6f52c6ed9fbfcfaa",
+            "id": "5d90ad2b552bcbfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z Core/Z000 Index/T.md",
+                "file": "Z Core/Z300 MOC/Dain (MOC).md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d7c9547eb18315c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 The Embrace/Theocracy of Olpen.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -105,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Z Core/Z000 Index/T.md",
+                "file": "1 The Embrace/Theocracy of Olpen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z Core/Z000 Index/T.md",
+                "file": "1 The Embrace/Theocracy of Olpen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z Core/Z000 Index/T.md",
+                "file": "1 The Embrace/Theocracy of Olpen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -275,34 +275,34 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6f52c6ed9fbfcfaa",
+  "active": "0d7c9547eb18315c",
   "lastOpenFiles": [
-    "Z Core/Z300 MOC/Characters.md",
-    "Z Core/Z000 Index/C.md",
-    "Z Core/Z100 Inbox/Olad.md",
-    "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.2 IN/CF2 Session 7 IN.md",
-    "1 The Embrace/Circle of the Everlight.md",
-    "Z Core/Z300 MOC/Dain (MOC).md",
-    "Z Core/Z300 MOC/Cult.md",
-    "Z Core/Z000 Index/0 Alios.md",
-    "1 The Embrace/Geyser Guys.md",
-    "0 Alios/Chrylis.md",
-    "1 The Embrace/Borrowing.md",
-    "Z Core/Z000 Index/1 The Embrace.md",
-    "1 The Embrace/The Embrace.md",
-    "Z Core/Z300 MOC/Magic.md",
-    "Z Core/Z000 Index/M.md",
-    "0 Alios/Constructs.md",
-    "Y TTRPG/Y100 Players/Bridget A.M. Bleij.md",
-    "Y TTRPG/Y100 Players/Roel Vergeer.md",
-    "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.1 Session Notes/Y304.1.2 IN/Session 5 IN.md",
-    "Y TTRPG/Y100 Players/Tom Rijnsburger.md",
-    "Home.md",
+    "1 The Embrace/Ho'okalakupuan Commonwealth.md",
     "1 The Embrace/Dain.md",
-    "0 Alios/Ancient Words.md",
-    "2 Aukif/Aukif Design Principles.md",
-    "0 Alios/Ambition.md",
-    "Z Core/Z300 MOC/Aspect.md",
+    "1 The Embrace/The Carcass.md",
+    "Z Core/Z300 MOC/Dain (MOC).md",
+    "1 The Embrace/Salamanders.md",
+    "Z Core/Z100 Inbox/The Grand Thievery.md",
+    "1 The Embrace/Otherworldly Goods.md",
+    "Z Core/Z000 Index/D.md",
+    "Z Core/Z000 Index/G.md",
+    "Z Core/Z300 MOC/Guild.md",
+    "Z Core/Z000 Index/1 The Embrace.md",
+    "Z Core/Z000 Index/C.md",
+    "Z Core/Z300 MOC/City.md",
+    "Z Core/Z000 Index/M.md",
+    "Z Core/Z300 MOC/Mercenaries.md",
+    "Home.md",
+    "1 The Embrace/Geyser Guys.md",
+    "1 The Embrace/Circle of the Everlight.md",
+    "Z Core/Z300 MOC/Merchants.md",
+    "Z Core/Z000 Index/S.md",
+    "Z Core/Z300 MOC/Slavers.md",
+    "1 The Embrace/Olad.md",
+    "Z Core/Z000 Index/T.md",
+    "Z Core/Z300 MOC/Characters.md",
+    "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.2 IN/CF2 Session 7 IN.md",
+    "Z Core/Z300 MOC/Cult.md",
     "X References/X100 Files/Pasted image 20240724193026.png",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.1 Session Notes/Y304.1.1 PRE",
     "X References/X100 Files/X110 Images/Alios_Prime_TradingCard.jpg",
