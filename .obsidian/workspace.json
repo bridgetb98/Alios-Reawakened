@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "54dcd4ca70b3569b",
+        "id": "09108a19231ba726",
         "type": "tabs",
         "children": [
           {
-            "id": "5877bd25004056bb",
+            "id": "3676443fc2f78bc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Alios/Ambition.md",
+                "file": "Y TTRPG/Y100 Players/Roel Vergeer.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 Alios/Ambition.md",
+                "file": "Y TTRPG/Y100 Players/Roel Vergeer.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Alios/Ambition.md",
+                "file": "Y TTRPG/Y100 Players/Roel Vergeer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 Alios/Ambition.md",
+                "file": "Y TTRPG/Y100 Players/Roel Vergeer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -233,8 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,8 +250,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5877bd25004056bb",
+  "active": "3676443fc2f78bc0",
   "lastOpenFiles": [
+    "Y TTRPG/Y100 Players/Tom Rijnsburger.md",
+    "Y TTRPG/Y100 Players/Roel Vergeer.md",
+    "Home.md",
+    "Y TTRPG/Y100 Players/Bridget A.M. Bleij.md",
+    "1 The Embrace/Dain.md",
+    "0 Alios/Ancient Words.md",
+    "2 Aukif/Aukif Design Principles.md",
+    "0 Alios/Ambition.md",
     "Z Core/Z300 MOC/Aspect.md",
     "Z Core/Z000 Index/A.md",
     "Z Core/Z300 MOC/Magic.md",
@@ -267,18 +274,10 @@
     "Z Core/Z100 Inbox/The Carcass.md",
     "Z Core/Z100 Inbox/The Grand Thievery.md",
     "Z Core/Z100 Inbox/The Groaning Breach.md",
-    "1 The Embrace/Dain.md",
     "Z Core/Z300 MOC/Dain (MOC).md",
     "Z Core/Z000 Index/D.md",
-    "Home.md",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.2 IN/Session 5 IN.md",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.1 PRE/Session 5 PRE.md",
-    "Z Core/Z300 MOC/Task Traversers.md",
-    "Z Core/Z300 MOC/Design Reference.md",
-    "X References/X200 Templates/X200.9.1 In-Session.md",
-    "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.2 IN/Session 2 IN.md",
-    "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.2 IN/SESSION 1 IN.md",
-    "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.2 IN/Session 3 IN.md",
     "X References/X100 Files/Pasted image 20240724193026.png",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Gyser/Y304.1 Session Notes/Y304.1.1 PRE",
     "X References/X100 Files/X110 Images/Alios_Prime_TradingCard.jpg",
