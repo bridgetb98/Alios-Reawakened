@@ -11,8 +11,12 @@
             "id": "fc611d7fa4c78e6b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Z Core/Z100 Inbox/Starlanes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -76,6 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Z Core/Z100 Inbox/Starlanes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -139,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Z Core/Z100 Inbox/Starlanes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Z Core/Z100 Inbox/Starlanes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -245,6 +252,8 @@
   },
   "active": "fc611d7fa4c78e6b",
   "lastOpenFiles": [
+    "Z Core/Z100 Inbox/Aberant.md",
+    "Z Core/Z100 Inbox/Starlanes.md",
     "1 The Embrace/The Groaning Breach.md",
     "1 The Embrace/The Carcass.md",
     "Z Core/Z000 Index/T.md",
@@ -269,8 +278,6 @@
     "1 The Embrace/Circle of the Everlight.md",
     "Z Core/Z300 MOC/Merchants.md",
     "Z Core/Z000 Index/S.md",
-    "Z Core/Z300 MOC/Slavers.md",
-    "1 The Embrace/Olad.md",
     "X References/X100 Files/Pasted image 20240724193026.png",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.1 Session Notes/Y304.1.1 PRE",
     "X References/X100 Files/X110 Images/Alios_Prime_TradingCard.jpg",
