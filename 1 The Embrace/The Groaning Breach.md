@@ -5,10 +5,10 @@ aliases:
 tags:
   - region/building/tavern
 North:
-  - "[[The Carcass|1372.1.1]]"
+  - "[[Carcass|1372.1.1]]"
 East: 
 South: 
-West:
+West: 
 ---
 ```toc
 title: # The Groaning Breach

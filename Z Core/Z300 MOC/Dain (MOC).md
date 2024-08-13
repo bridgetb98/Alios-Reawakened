@@ -2,7 +2,7 @@
 tags:
   - MOC
 ---
-- [[The Carcass]]
+- [[Carcass]]
 - [[Circle of the Everlight]]
 - [[Dain]]
 - [[Geyser Guys]]

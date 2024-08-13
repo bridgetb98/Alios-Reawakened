@@ -2,4 +2,4 @@
 tags:
   - MOC
 ---
-- [[The Carcass]]
+- [[Carcass]]

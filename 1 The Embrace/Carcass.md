@@ -1,7 +1,6 @@
 ---
 ID: "20240724192241"
 aliases:
-  - Carcass
   - 1372.1.1
 tags:
   - region/location/city
@@ -18,7 +17,7 @@ title: # Carcass
 
 # Info
 
-The Carcass is a neutral city within Dain, build within the slowly regenerating corpse of an prehistorical [[Tarrasque]]. Its main export include different [[Tarrasque]] materials, with the magic negating stomach acid considered to be especially valuable.
+Carcass is a neutral city within Dain, build within the slowly regenerating corpse of an prehistorical [[Tarrasque]]. Its main export include different [[Tarrasque]] materials, with the magic negating stomach acid considered to be especially valuable.
 
 ## Defences
 
