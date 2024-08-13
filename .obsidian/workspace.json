@@ -11,8 +11,12 @@
             "id": "62fb8de57c38d9b0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ],
@@ -76,6 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -132,6 +137,7 @@
       {
         "id": "29591070685fa210",
         "type": "tabs",
+        "dimension": 48.857142857142854,
         "children": [
           {
             "id": "c7f0d1dc1ad57a08",
@@ -139,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,6 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -206,6 +214,14 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "efbf598da0772876",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
@@ -213,6 +229,7 @@
       {
         "id": "0add4af3278c4fa4",
         "type": "tabs",
+        "dimension": 51.142857142857146,
         "children": [
           {
             "id": "2c1d20c920c7ce79",
@@ -245,6 +262,9 @@
   },
   "active": "62fb8de57c38d9b0",
   "lastOpenFiles": [
+    "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.pdf",
+    "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.md",
+    "Home.md",
     "Z Core/Z100 Inbox/Starlanes.md",
     "Z Core/Z100 Inbox/Aberant.md",
     "1 The Embrace/The Groaning Breach.md",
@@ -266,11 +286,8 @@
     "Z Core/Z300 MOC/City.md",
     "Z Core/Z000 Index/M.md",
     "Z Core/Z300 MOC/Mercenaries.md",
-    "Home.md",
     "1 The Embrace/Geyser Guys.md",
     "1 The Embrace/Circle of the Everlight.md",
-    "Z Core/Z300 MOC/Merchants.md",
-    "Z Core/Z000 Index/S.md",
     "X References/X100 Files/Pasted image 20240724193026.png",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.1 Session Notes/Y304.1.1 PRE",
     "X References/X100 Files/X110 Images/Alios_Prime_TradingCard.jpg",
@@ -289,7 +306,6 @@
     "1000 The Embrace/1300 Regions/1330 Olpen/desktop.ini",
     "desktop.ini",
     "Y000 TTRPG/Y300 Campaigns/Y389 Critical Failure II/desktop.ini",
-    "1000 The Embrace/1600 Flora & Fauna/1608 Lemure",
-    "1000 The Embrace/1600 Flora & Fauna/1609 Fauna"
+    "1000 The Embrace/1600 Flora & Fauna/1608 Lemure"
   ]
 }
