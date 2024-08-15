@@ -232,9 +232,16 @@
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "6fc301b1939233b8",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       },
       {
         "id": "0add4af3278c4fa4",
@@ -271,7 +278,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "da0c69623c7e315a",
+  "active": "4f3d39bd54af80a0",
   "lastOpenFiles": [
     "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.pdf",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.md",
