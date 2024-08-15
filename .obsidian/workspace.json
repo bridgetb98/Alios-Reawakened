@@ -4,11 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ddc98e0041669b23",
+        "id": "0bf9e8a21d8dee27",
         "type": "tabs",
         "children": [
           {
-            "id": "62fb8de57c38d9b0",
+            "id": "da0c69623c7e315a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17d196cae1a2f9c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 The Embrace/Dain.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba725d14c35f59c2",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -78,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.pdf",
+                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.pdf",
+                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.pdf",
+                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -241,7 +265,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,22 +283,23 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "62fb8de57c38d9b0",
+  "active": "da0c69623c7e315a",
   "lastOpenFiles": [
+    "1 The Embrace/Dain.md",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.md",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.pdf",
-    "1 The Embrace/Carcass.md",
+    "1 The Embrace/The Groaning Breach.md",
+    "1 The Embrace/Olad.md",
     "Home.md",
+    "1 The Embrace/Carcass.md",
     "Z Core/Z100 Inbox/Starlanes.md",
     "Z Core/Z100 Inbox/Aberant.md",
-    "1 The Embrace/The Groaning Breach.md",
     "Z Core/Z000 Index/T.md",
     "Z Core/Z300 MOC/Taverns.md",
     "1 The Embrace/The Grand Thievery.md",
     "Z Core/Z300 MOC/Dain (MOC).md",
     "1 The Embrace/Theocracy of Olpen.md",
     "1 The Embrace/Ho'okalakupuan Commonwealth.md",
-    "1 The Embrace/Dain.md",
     "1 The Embrace/Salamanders.md",
     "1 The Embrace/Otherworldly Goods.md",
     "Z Core/Z000 Index/D.md",
@@ -285,7 +311,6 @@
     "Z Core/Z000 Index/M.md",
     "Z Core/Z300 MOC/Mercenaries.md",
     "1 The Embrace/Geyser Guys.md",
-    "1 The Embrace/Circle of the Everlight.md",
     "X References/X100 Files/Pasted image 20240724193026.png",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.1 Session Notes/Y304.1.1 PRE",
     "X References/X100 Files/X110 Images/Alios_Prime_TradingCard.jpg",
