@@ -30,6 +30,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -90,7 +91,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.md",
+                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.md",
+                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.md",
+                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -278,10 +279,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "da0c69623c7e315a",
+  "active": "ba725d14c35f59c2",
   "lastOpenFiles": [
-    "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.pdf",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.md",
+    "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.pdf",
     "1 The Embrace/Carcass.md",
     "1 The Embrace/Dain.md",
     "1 The Embrace/The Groaning Breach.md",
