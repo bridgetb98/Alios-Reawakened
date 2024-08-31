@@ -811,19 +811,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 359,
+      "wordCount": 360,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.1966666666666668,
-      "characterCount": 2498,
+      "pageCount": 1.2,
+      "characterCount": 2499,
       "nonWhitespaceCharacterCount": 2102,
-      "readingTimeInMinutes": 1.3547169811320754,
+      "readingTimeInMinutes": 1.3584905660377358,
       "linkCount": 13,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1722936993241,
-      "modifiedDate": 1725084972110,
-      "sizeInBytes": 2620
+      "modifiedDate": 1725085006936,
+      "sizeInBytes": 2621
     },
     "Z Core/Z100 Inbox/Aberant.md": {
       "isCountable": true,
@@ -1905,8 +1905,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1723530716755,
-      "modifiedDate": 1723752956576,
-      "sizeInBytes": 29738
+      "modifiedDate": 1725085308017,
+      "sizeInBytes": 29426
     },
     "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.md": {
       "isCountable": true,
