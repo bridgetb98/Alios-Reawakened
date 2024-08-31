@@ -9,7 +9,7 @@ South:
 West:
 ---
 ```toc
-title: {{title}}
+title: # Aberant
 ```
 
 metal found on just a few planets

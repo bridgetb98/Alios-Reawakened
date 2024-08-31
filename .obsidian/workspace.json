@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Z Core/Z100 Inbox/Starlanes.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4046f87b2c62e01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -88,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "Z Core/Z100 Inbox/Starlanes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -153,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Z Core/Z100 Inbox/Starlanes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Z Core/Z100 Inbox/Starlanes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -276,20 +288,21 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4f3d39bd54af80a0",
+  "active": "17540ce2cfba9059",
   "lastOpenFiles": [
+    "Z Core/Z100 Inbox/Aberant.md",
+    "Z Core/Z100 Inbox/Starlanes.md",
+    "Home.md",
+    "W Writing/W000 Outlines",
     "Untitled",
     "W Writing",
     "1 The Embrace/Continent Design Principles.md",
-    "Home.md",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.pdf",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.md",
     "1 The Embrace/Carcass.md",
     "1 The Embrace/Dain.md",
     "1 The Embrace/The Groaning Breach.md",
     "1 The Embrace/Olad.md",
-    "Z Core/Z100 Inbox/Starlanes.md",
-    "Z Core/Z100 Inbox/Aberant.md",
     "Z Core/Z000 Index/T.md",
     "Z Core/Z300 MOC/Taverns.md",
     "1 The Embrace/The Grand Thievery.md",
@@ -321,8 +334,6 @@
     "Alios-Reawakened",
     "Alios_Reawakened",
     "Y000 TTRPG/Y300 Campaigns/Y321 Demon Days/Y321.1 Session Notes/Y321.1.1 PRE/desktop.ini",
-    "1000 The Embrace/1300 Regions/1330 Olpen/desktop.ini",
-    "desktop.ini",
-    "Y000 TTRPG/Y300 Campaigns/Y389 Critical Failure II/desktop.ini"
+    "1000 The Embrace/1300 Regions/1330 Olpen/desktop.ini"
   ]
 }
