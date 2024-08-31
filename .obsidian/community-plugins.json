@@ -13,5 +13,8 @@
   "dataview",
   "automatic-table-of-contents",
   "calendarium",
-  "progress-clocks"
+  "progress-clocks",
+  "longform",
+  "typewriter-mode",
+  "novel-word-count"
 ]

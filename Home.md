@@ -111,6 +111,10 @@ Some of these plugins can be understood simply by reading its documentation^[acc
 
 *W.I.P.*
 
+## Longform
+
+*W.I.P.*
+
 # Navigation
 
 If you’ve opened one of the folders, you’ll quickly see that all articles are dumped into that folder. This is chaotic, but intentional. If you want to search through the vault, the best way is through #index cards. These can be found in folder `Z000`. Through these index cards, you can find a multitude of subjects^[or #MOC]. These subjects help you navigate to the right articles.
