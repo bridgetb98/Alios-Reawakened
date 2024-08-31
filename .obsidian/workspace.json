@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.md",
+                "file": "1 The Embrace/Democratic Republic of Politismós.md",
                 "mode": "preview",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "17540ce2cfba9059",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.pdf"
               }
             }
           }
@@ -98,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.md",
+                "file": "1 The Embrace/Democratic Republic of Politismós.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -163,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.md",
+                "file": "1 The Embrace/Democratic Republic of Politismós.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.md",
+                "file": "1 The Embrace/Democratic Republic of Politismós.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -288,8 +278,8 @@
   },
   "active": "a4046f87b2c62e01",
   "lastOpenFiles": [
-    "1 The Embrace/Olad.md",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.md",
+    "1 The Embrace/Olad.md",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.pdf",
     "Z Core/Z100 Inbox/Starlanes.md",
     "Home.md",
