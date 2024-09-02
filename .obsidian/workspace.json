@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "afd34e7f8cf518c3",
+        "id": "d4d1854d60f695ac",
         "type": "tabs",
         "children": [
           {
-            "id": "6fcfa31e17edc29d",
+            "id": "8218ea9044cbeafa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z Core/Z100 Inbox/Skitz.md",
-                "mode": "source",
+                "file": "1 The Embrace/Goblins.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Z Core/Z100 Inbox/Skitz.md",
+                "file": "1 The Embrace/Goblins.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z Core/Z100 Inbox/Skitz.md",
+                "file": "1 The Embrace/Goblins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z Core/Z100 Inbox/Skitz.md",
+                "file": "1 The Embrace/Goblins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -289,8 +289,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6fcfa31e17edc29d",
+  "active": "8218ea9044cbeafa",
   "lastOpenFiles": [
+    "1 The Embrace/Geyser Guys.md",
+    "1 The Embrace/Fleshberry.md",
+    "Home.md",
+    "Z Core/Z100 Inbox/Starlanes.md",
+    "Z Core/Z100 Inbox/Aberant.md",
+    "Z Core/Z100 Inbox/Skitz.md",
     "Y TTRPG/Y100 Players/Bridget A.M. Bleij.md",
     "Y TTRPG/Y100 Players/Y115 Character Sheets/Bridget_Skitz.pdf",
     "1 The Embrace/Democratic Republic of Politismós.md",
@@ -298,19 +304,15 @@
     "X References/X100 Files/X110 Images/X1__ Characters/Skitz_Portrait.png",
     "X References/X100 Files/X110 Images/X1__ Characters",
     "X References/X100 Files/X110 Images/New folder",
-    "Z Core/Z100 Inbox/Skitz.md",
     "Y TTRPG/Y100 Players/Roel Vergeer.md",
     "Y TTRPG/Y100 Players/Tom Rijnsburger.md",
     "X References/X100 Files/X184 PDF/CharacterSheet_3Pgs_ Complete.pdf",
     "Z Core/Scratch Note.md",
-    "Home.md",
     "Y TTRPG/Y100 Players/Y115 Character Sheets",
     "X References/X100 Files/X184 PDF",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.md",
     "1 The Embrace/Olad.md",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.pdf",
-    "Z Core/Z100 Inbox/Starlanes.md",
-    "Z Core/Z100 Inbox/Aberant.md",
     "W Writing/W000 Outlines",
     "Untitled",
     "1 The Embrace/Continent Design Principles.md",
@@ -326,7 +328,6 @@
     "1 The Embrace/Salamanders.md",
     "1 The Embrace/Otherworldly Goods.md",
     "Z Core/Z000 Index/D.md",
-    "Z Core/Z000 Index/G.md",
     "X References/X100 Files/Pasted image 20240724193026.png",
     "X References/X100 Files/X110 Images/Alios_Prime_TradingCard.jpg",
     "X References/X100 Files/X110 Images/fragaria_corporis1.jpg",
