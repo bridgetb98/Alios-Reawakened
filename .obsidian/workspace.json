@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 The Embrace/Circle of the Everlight.md",
-                "mode": "source",
+                "file": "2 Aukif/Aukif Design Principles.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 The Embrace/Circle of the Everlight.md",
+                "file": "2 Aukif/Aukif Design Principles.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 The Embrace/Circle of the Everlight.md",
+                "file": "2 Aukif/Aukif Design Principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 The Embrace/Circle of the Everlight.md",
+                "file": "2 Aukif/Aukif Design Principles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -298,8 +298,25 @@
   },
   "active": "ed5193559d4e6c51",
   "lastOpenFiles": [
+    "X References/X100 Files/X1__ Conlangs/Sheshboian.txt.crswap",
+    "X References/X100 Files/X1__ Conlangs/Sheshboian.txt",
+    "X References/X100 Files/X1__ Conlangs",
+    "X References/X100 Files/New folder",
+    "2 Aukif/Aukif Design Principles.md",
+    "1 The Embrace/Wedi Coli Wastes.md",
+    "2 Aukif/Cultivation Engineering.md",
+    "2 Aukif/Fungi Cultivation.md",
+    "2 Aukif/Mutagen Purpose.md",
+    "2 Aukif/Mutation and Cultivation.md",
+    "2 Aukif/Oberyn.md",
+    "2 Aukif/Samuel Nicholaes Oodt-Aardt.md",
+    "2 Aukif/Vivi Mortua.md",
+    "2 Aukif/Vörsi.md",
+    "1 The Embrace/Ho'okalakupuan Commonwealth.md",
     "1 The Embrace/Goblins.md",
     "1 The Embrace/Geyser Guys.md",
+    "1 The Embrace/Fleshberry.md",
+    "1 The Embrace/Circle of the Everlight.md",
     "1 The Embrace/Theocracy of Olpen.md",
     "1 The Embrace/The Groaning Breach.md",
     "1 The Embrace/The Grand Thievery.md",
@@ -310,20 +327,6 @@
     "1 The Embrace/Propadanje Kingdom.md",
     "1 The Embrace/Poten.md",
     "1 The Embrace/Øysamling Islands.md",
-    "1 The Embrace/Otherworldly Goods.md",
-    "1 The Embrace/Olad.md",
-    "1 The Embrace/Lumen.md",
-    "1 The Embrace/Ho'okalakupuan Commonwealth.md",
-    "1 The Embrace/Fleshberry.md",
-    "1 The Embrace/Embrace Design Principles.md",
-    "1 The Embrace/Dram, Chip, Clips.md",
-    "1 The Embrace/Democratic Republic of Politismós.md",
-    "1 The Embrace/Dain.md",
-    "1 The Embrace/Continent Design Principles.md",
-    "1 The Embrace/Circle of the Everlight.md",
-    "1 The Embrace/Carcass.md",
-    "1 The Embrace/Borrowing.md",
-    "1 The Embrace/Aros.md",
     "X References/X100 Files/X110 Images/Poten_TradingCard.jpg",
     "X References/X100 Files/X110 Images/Poten_TradingCard.jpg.0.pdnSave",
     "Y TTRPG/Y100 Players/Y115 Character Sheets/Bridget_Skitz.pdf",
@@ -333,9 +336,6 @@
     "X References/X100 Files/X110 Images/New folder",
     "X References/X100 Files/X184 PDF/CharacterSheet_3Pgs_ Complete.pdf",
     "Y TTRPG/Y100 Players/Y115 Character Sheets",
-    "X References/X100 Files/X184 PDF",
-    "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.pdf",
-    "W Writing/W000 Outlines",
     "X References/X100 Files/Pasted image 20240724193026.png",
     "X References/X100 Files/X110 Images/Alios_Prime_TradingCard.jpg",
     "X References/X100 Files/X110 Images/fragaria_corporis1.jpg",

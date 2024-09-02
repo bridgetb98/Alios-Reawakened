@@ -2860,21 +2860,21 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 118,
+      "wordCount": 122,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.3933333333333333,
-      "characterCount": 1035,
-      "nonWhitespaceCharacterCount": 841,
-      "readingTimeInMinutes": 0.44528301886792454,
+      "pageCount": 0.4066666666666667,
+      "characterCount": 1069,
+      "nonWhitespaceCharacterCount": 866,
+      "readingTimeInMinutes": 0.46037735849056605,
       "linkCount": 14,
       "embedCount": 0,
       "aliases": [
         "2100.1"
       ],
       "createdDate": 1716288537496,
-      "modifiedDate": 1721818290230,
-      "sizeInBytes": 1132
+      "modifiedDate": 1725287934538,
+      "sizeInBytes": 1166
     },
     "1 The Embrace/The Groaning Breach.md": {
       "isCountable": true,
@@ -3420,7 +3420,7 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.17,
-      "characterCount": 638,
+      "characterCount": 639,
       "nonWhitespaceCharacterCount": 570,
       "readingTimeInMinutes": 0.19245283018867926,
       "linkCount": 0,
@@ -3430,8 +3430,8 @@
         "Everlight"
       ],
       "createdDate": 1716288537512,
-      "modifiedDate": 1725287737806,
-      "sizeInBytes": 789
+      "modifiedDate": 1725287740710,
+      "sizeInBytes": 790
     },
     "1 The Embrace/Angus.md": {
       "isCountable": true,
@@ -3921,6 +3921,24 @@
       "createdDate": 1722936993241,
       "modifiedDate": 1725286253251,
       "sizeInBytes": 2633
+    },
+    "X References/X100 Files/X1__ Conlangs/Sheshboian.txt": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 5497,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 18.323333333333334,
+      "characterCount": 62075,
+      "nonWhitespaceCharacterCount": 52870,
+      "readingTimeInMinutes": 20.743396226415094,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1725288259359,
+      "modifiedDate": 1725288259537,
+      "sizeInBytes": 65775
     }
   }
 }

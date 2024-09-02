@@ -22,6 +22,8 @@ Cyberpunk moon near the center of [[Alios|Alios]]
 	- caring of life
 	- created the gods as a means of preservation
 	- assumed the best put in management position were regular people
+	- Species: Jakde
+		- Moth people
 - Failed Gods
 	- die when replaced by person who accepts power
 - Orbits a planet with fast jungles and a mutagenic substance
