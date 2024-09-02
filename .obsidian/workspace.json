@@ -11,11 +11,9 @@
             "id": "d4723f01178bd245",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "source": false
+                "file": "Y TTRPG/Y100 Players/Y115 Character Sheets/CharacterSheet_3Pgs_ Complete 1.pdf"
               }
             }
           }
@@ -88,7 +86,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "Y TTRPG/Y100 Players/Y115 Character Sheets/CharacterSheet_3Pgs_ Complete 1.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -153,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Y TTRPG/Y100 Players/Y115 Character Sheets/CharacterSheet_3Pgs_ Complete 1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Y TTRPG/Y100 Players/Y115 Character Sheets/CharacterSheet_3Pgs_ Complete 1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -239,7 +237,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       },
       {
         "id": "0add4af3278c4fa4",
@@ -258,8 +256,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,14 +273,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d4723f01178bd245",
+  "active": "4f3d39bd54af80a0",
   "lastOpenFiles": [
+    "X References/X100 Files/X184 PDF/CharacterSheet_3Pgs_ Complete.pdf",
+    "Y TTRPG/Y100 Players/Y115 Character Sheets/CharacterSheet_3Pgs_ Complete 1.pdf",
+    "Y TTRPG/Y100 Players/Bridget A.M. Bleij.md",
+    "Y TTRPG/Y100 Players/Y115 Character Sheets",
+    "Home.md",
+    "X References/X100 Files/X184 PDF",
     "1 The Embrace/Democratic Republic of Politismós.md",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.md",
     "1 The Embrace/Olad.md",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.pdf",
     "Z Core/Z100 Inbox/Starlanes.md",
-    "Home.md",
     "Z Core/Z100 Inbox/Aberant.md",
     "W Writing/W000 Outlines",
     "Untitled",
@@ -306,8 +308,6 @@
     "Z Core/Z000 Index/1 The Embrace.md",
     "Z Core/Z000 Index/C.md",
     "Z Core/Z300 MOC/City.md",
-    "Z Core/Z000 Index/M.md",
-    "Z Core/Z300 MOC/Mercenaries.md",
     "X References/X100 Files/Pasted image 20240724193026.png",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.1 Session Notes/Y304.1.1 PRE",
     "X References/X100 Files/X110 Images/Alios_Prime_TradingCard.jpg",
@@ -320,9 +320,6 @@
     "X References/X100 Files/X110 Images/Void_TradingCard.jpg",
     "X References/X100 Files/X110 Images/Thera_TradingCard.jpg",
     "X References/X100 Files/X110 Images/Sgrios-Dìteadh_TradingCard.jpg",
-    "Alios-Reawakened",
-    "Alios_Reawakened",
-    "Y000 TTRPG/Y300 Campaigns/Y321 Demon Days/Y321.1 Session Notes/Y321.1.1 PRE/desktop.ini",
-    "1000 The Embrace/1300 Regions/1330 Olpen/desktop.ini"
+    "Alios-Reawakened"
   ]
 }
