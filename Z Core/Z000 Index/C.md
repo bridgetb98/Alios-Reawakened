@@ -4,6 +4,7 @@ tags:
 ---
 - [[Characters]]
 - [[City]]
+- [[Cosmology]]
 - [[Cult]]
 - [[Cultivation (MOC)]]
 - [[Currency]]

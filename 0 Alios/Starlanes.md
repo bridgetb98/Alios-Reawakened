@@ -1,6 +1,7 @@
 ---
 ID: "20240806113636"
-aliases: 
+aliases:
+  - "0981.1"
 tags:
   - idea
 North: 
