@@ -19,4 +19,12 @@ Me :3
 
 ---
 
+# Campaigns
+
+- [[Magic Geyser]]
+
+# Characters
+
+- [[Skitz]]
+
 # Reference

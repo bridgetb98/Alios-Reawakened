@@ -130,6 +130,48 @@
       "resultText": "[15]",
       "timestamp": 1725272556309,
       "id": "M0oOSoja3c6o"
+    },
+    {
+      "result": 16,
+      "original": "4d6(kh3)",
+      "resultText": "[6, 6, 4, 2d]3)",
+      "timestamp": 1725272948400,
+      "id": "RK_gnuyvT0yZ"
+    },
+    {
+      "result": 10,
+      "original": "4d6(kh3)",
+      "resultText": "[1d, 3, 2, 5]3)",
+      "timestamp": 1725272958245,
+      "id": "yibF8i4ksdIh"
+    },
+    {
+      "result": 16,
+      "original": "4d6(kh3)",
+      "resultText": "[2d, 4, 6, 6]3)",
+      "timestamp": 1725273019393,
+      "id": "qSQD-mxcSMg4"
+    },
+    {
+      "result": 12,
+      "original": "4d6(kh3)",
+      "resultText": "[5, 4, 3, 3d]3)",
+      "timestamp": 1725273027697,
+      "id": "Xm_XTco6rNmd"
+    },
+    {
+      "result": 13,
+      "original": "4d6(kh3)",
+      "resultText": "[4, 3, 6, 2d]3)",
+      "timestamp": 1725273036883,
+      "id": "rXf80uwWR6yE"
+    },
+    {
+      "result": 14,
+      "original": "4d6(kh3)",
+      "resultText": "[6, 2, 6, 2d]3)",
+      "timestamp": 1725273038513,
+      "id": "ATnrJQaGWWod"
     }
   ]
 }

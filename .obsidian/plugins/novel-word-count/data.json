@@ -889,22 +889,22 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 8,
+      "wordCount": 13,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 64,
-      "nonWhitespaceCharacterCount": 49,
-      "readingTimeInMinutes": 0.03018867924528302,
-      "linkCount": 0,
+      "pageCount": 0.043333333333333335,
+      "characterCount": 124,
+      "nonWhitespaceCharacterCount": 96,
+      "readingTimeInMinutes": 0.04905660377358491,
+      "linkCount": 2,
       "embedCount": 0,
       "aliases": [
         "Grace G.D. Gumshoe",
         "Y169.1"
       ],
       "createdDate": 1722860271589,
-      "modifiedDate": 1722860402854,
-      "sizeInBytes": 202
+      "modifiedDate": 1725273152269,
+      "sizeInBytes": 262
     },
     "Y TTRPG/Y100 Players/Roel Vergeer.md": {
       "isCountable": true,
@@ -3832,7 +3832,25 @@
       "modifiedDate": 1725272526599,
       "sizeInBytes": 355826
     },
-    "Y TTRPG/Y100 Players/Y115 Character Sheets/CharacterSheet_3Pgs_ Complete 1.pdf": {
+    "Z Core/Scratch Note.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1725272993450,
+      "modifiedDate": 1725272993450,
+      "sizeInBytes": 0
+    },
+    "Y TTRPG/Y100 Players/Y115 Character Sheets/Bridget_Skitz.pdf": {
       "isCountable": false,
       "isDirectory": false,
       "noteCount": 0,
@@ -3847,8 +3865,26 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1725272581259,
-      "modifiedDate": 1725272526599,
-      "sizeInBytes": 355826
+      "modifiedDate": 1725273231736,
+      "sizeInBytes": 358203
+    },
+    "Z Core/Z100 Inbox/Skitz.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 9,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03,
+      "characterCount": 124,
+      "nonWhitespaceCharacterCount": 92,
+      "readingTimeInMinutes": 0.033962264150943396,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1725273162660,
+      "modifiedDate": 1725273190379,
+      "sizeInBytes": 206
     }
   }
 }
