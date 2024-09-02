@@ -30,7 +30,7 @@
       {
         "id": "e37706a1da410ced",
         "type": "tabs",
-        "dimension": 67.23809523809524,
+        "dimension": 79.64266377910124,
         "children": [
           {
             "id": "4f3d39bd54af80a0",
@@ -78,7 +78,7 @@
       {
         "id": "e40db03f820cc6eb",
         "type": "tabs",
-        "dimension": 32.761904761904766,
+        "dimension": 20.357336220898755,
         "children": [
           {
             "id": "d885099731e38967",
@@ -269,7 +269,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,7 +287,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6fcfa31e17edc29d",
+  "active": "4f3d39bd54af80a0",
   "lastOpenFiles": [
     "Y TTRPG/Y100 Players/Bridget A.M. Bleij.md",
     "Z Core/Z100 Inbox/Skitz.md",
