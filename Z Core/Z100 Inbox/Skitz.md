@@ -22,17 +22,15 @@ title: # Skitz
 > | :-: | :-: |
 > | STR | +1 |
 > | DEX | +3 |
-> | CON | +2INT+4WIS+1CHA0
+> | CON | +2 |
+> | INT | +4 |
+> | WIS | +1 |
+> | CHA | 0 |
 
-| Skill | Bonus |
-| :---: | :---: |
-|  STR  |  +1   |
-|  DEX  |  +3   |
-|  CON  |  +2   |
-|  INT  |  +4   |
-|  WIS  |  +1   |
-|  CHA  |   0   |
+Skitz is an [[Elves|Elf]] that was sent to [[Dain]] because she “cursed a family to die before their 40’s”. Though in actuality, she just shot them with her gun.
+
 ## Voice
+
 
 
 # Backstory
@@ -43,7 +41,20 @@ title: # Skitz
 
 
 
+---
 
+# D&D Info
+
+## Stats
+## Proficiencies
+### Strength
+### Dexterity
+##
+## Feats
+## Spells
+### Cantrips
+### 1st Level
+### 2nd Level
 ---
 
 # Reference
