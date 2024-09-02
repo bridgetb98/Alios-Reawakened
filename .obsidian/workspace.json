@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7b5d0af3719c2518",
+        "id": "e1cd55e922852dbd",
         "type": "tabs",
         "children": [
           {
-            "id": "d86c716b5dd334e1",
+            "id": "ed5193559d4e6c51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.md",
+                "file": "1 The Embrace/Circle of the Everlight.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.md",
+                "file": "1 The Embrace/Circle of the Everlight.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.md",
+                "file": "1 The Embrace/Circle of the Everlight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.md",
+                "file": "1 The Embrace/Circle of the Everlight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -296,45 +296,46 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d86c716b5dd334e1",
+  "active": "ed5193559d4e6c51",
   "lastOpenFiles": [
-    "1 The Embrace/Poten.md",
-    "X References/X100 Files/X110 Images/Poten_TradingCard.jpg",
-    "X References/X100 Files/X110 Images/Poten_TradingCard.jpg.0.pdnSave",
-    "0 Alios/Starlanes.md",
-    "Z Core/Z300 MOC/Cosmology.md",
-    "Z Core/Z000 Index/0 Alios.md",
-    "Z Core/Z000 Index/C.md",
-    "Z Core/Z300 MOC/Cult.md",
-    "Home.md",
     "1 The Embrace/Goblins.md",
     "1 The Embrace/Geyser Guys.md",
+    "1 The Embrace/Theocracy of Olpen.md",
+    "1 The Embrace/The Groaning Breach.md",
+    "1 The Embrace/The Grand Thievery.md",
+    "1 The Embrace/The Goblin Code.md",
+    "1 The Embrace/The Embrace.md",
+    "1 The Embrace/South Olpen.md",
+    "1 The Embrace/Salamanders.md",
+    "1 The Embrace/Propadanje Kingdom.md",
+    "1 The Embrace/Poten.md",
+    "1 The Embrace/Øysamling Islands.md",
+    "1 The Embrace/Otherworldly Goods.md",
+    "1 The Embrace/Olad.md",
+    "1 The Embrace/Lumen.md",
+    "1 The Embrace/Ho'okalakupuan Commonwealth.md",
     "1 The Embrace/Fleshberry.md",
-    "Z Core/Z100 Inbox/Aberant.md",
-    "Z Core/Z100 Inbox/Skitz.md",
-    "Y TTRPG/Y100 Players/Bridget A.M. Bleij.md",
-    "Y TTRPG/Y100 Players/Y115 Character Sheets/Bridget_Skitz.pdf",
+    "1 The Embrace/Embrace Design Principles.md",
+    "1 The Embrace/Dram, Chip, Clips.md",
     "1 The Embrace/Democratic Republic of Politismós.md",
+    "1 The Embrace/Dain.md",
+    "1 The Embrace/Continent Design Principles.md",
+    "1 The Embrace/Circle of the Everlight.md",
+    "1 The Embrace/Carcass.md",
+    "1 The Embrace/Borrowing.md",
+    "1 The Embrace/Aros.md",
+    "X References/X100 Files/X110 Images/Poten_TradingCard.jpg",
+    "X References/X100 Files/X110 Images/Poten_TradingCard.jpg.0.pdnSave",
+    "Y TTRPG/Y100 Players/Y115 Character Sheets/Bridget_Skitz.pdf",
     "X References/X100 Files/X110 Images/X1__ Characters/Skitz_Portrait.png.~tmp",
     "X References/X100 Files/X110 Images/X1__ Characters/Skitz_Portrait.png",
     "X References/X100 Files/X110 Images/X1__ Characters",
     "X References/X100 Files/X110 Images/New folder",
-    "Y TTRPG/Y100 Players/Roel Vergeer.md",
-    "Y TTRPG/Y100 Players/Tom Rijnsburger.md",
     "X References/X100 Files/X184 PDF/CharacterSheet_3Pgs_ Complete.pdf",
-    "Z Core/Scratch Note.md",
     "Y TTRPG/Y100 Players/Y115 Character Sheets",
     "X References/X100 Files/X184 PDF",
-    "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.md",
-    "1 The Embrace/Olad.md",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.pdf",
     "W Writing/W000 Outlines",
-    "1 The Embrace/Continent Design Principles.md",
-    "1 The Embrace/Carcass.md",
-    "1 The Embrace/Dain.md",
-    "1 The Embrace/The Groaning Breach.md",
-    "Z Core/Z000 Index/T.md",
-    "Z Core/Z300 MOC/Taverns.md",
     "X References/X100 Files/Pasted image 20240724193026.png",
     "X References/X100 Files/X110 Images/Alios_Prime_TradingCard.jpg",
     "X References/X100 Files/X110 Images/fragaria_corporis1.jpg",

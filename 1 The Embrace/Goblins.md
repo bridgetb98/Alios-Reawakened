@@ -54,8 +54,6 @@ West:
 
 ## Generic Behaviour
 
-*the generic behaviour exhibited by this species*
-
 Goblins often seem chaotic and irrational. But during my interactions with the many different Goblin groups across the [[The Embrace|Embrace]], I've found they all hold to "[[The Goblin Code|The Goblin Code]]". Most I've met found it frustrating whenever I asked about what this code was. [[Wedi Coli Wastes|Wedi Coli]] and [[Theocracy of Olpen|Olpen]] Goblins seem to have an especially high distrust of any inquiries. Though the Goblins in charge of the [[Propadanje Kingdom|Propadanje]] border wall were more open, seeing it more as a contract written, than a personal promise. For any curious to what the code is, and how they should interact with those Goblins they come across, the code goes as follows:
 
 `dice: [[The Goblin Code]]\|blockquote`^[That's odd... The code as I've written it, is different than the one I'm reading.]
@@ -68,7 +66,7 @@ I assume their strict adherence to the code comes from their alleged connection 
 
 ## [[Chrylis]]' Journal
 
-It's ten said that Goblins are agents of chaos. With their rapidly changing physiology and seeming love for destruction. However, Goblins crave structure. They always live by a strict code that varies based on what region of [[The Embrace|The Embrace]] you find yourself in.
+It's often said that Goblins are agents of chaos. With their rapidly changing physiology and seeming love for destruction. However, Goblins crave structure. They always live by a strict code that varies based on what region of [[The Embrace|The Embrace]] you find yourself in.
 
 ## General Notes
 

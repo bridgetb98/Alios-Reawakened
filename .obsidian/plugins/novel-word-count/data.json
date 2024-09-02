@@ -781,19 +781,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 420,
+      "wordCount": 422,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.4,
-      "characterCount": 4529,
-      "nonWhitespaceCharacterCount": 2889,
-      "readingTimeInMinutes": 1.5849056603773586,
-      "linkCount": 60,
+      "pageCount": 1.4066666666666667,
+      "characterCount": 4559,
+      "nonWhitespaceCharacterCount": 3005,
+      "readingTimeInMinutes": 1.5924528301886793,
+      "linkCount": 83,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1723530590539,
-      "modifiedDate": 1725287138853,
-      "sizeInBytes": 4771
+      "modifiedDate": 1725287270625,
+      "sizeInBytes": 4801
     },
     "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.pdf": {
       "isCountable": false,
@@ -3171,13 +3171,13 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 314,
+      "wordCount": 307,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.0466666666666666,
-      "characterCount": 2144,
-      "nonWhitespaceCharacterCount": 1777,
-      "readingTimeInMinutes": 1.1849056603773584,
+      "pageCount": 1.0233333333333334,
+      "characterCount": 2095,
+      "nonWhitespaceCharacterCount": 1736,
+      "readingTimeInMinutes": 1.1584905660377358,
       "linkCount": 8,
       "embedCount": 0,
       "aliases": [
@@ -3185,8 +3185,8 @@
         "Goblin"
       ],
       "createdDate": 1716288537482,
-      "modifiedDate": 1721818153808,
-      "sizeInBytes": 2328
+      "modifiedDate": 1725287542601,
+      "sizeInBytes": 2279
     },
     "1 The Embrace/Lumen.md": {
       "isCountable": true,
@@ -3416,13 +3416,13 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 27,
+      "wordCount": 51,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.09,
-      "characterCount": 201,
-      "nonWhitespaceCharacterCount": 162,
-      "readingTimeInMinutes": 0.1018867924528302,
+      "pageCount": 0.17,
+      "characterCount": 638,
+      "nonWhitespaceCharacterCount": 570,
+      "readingTimeInMinutes": 0.19245283018867926,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [
@@ -3430,8 +3430,8 @@
         "Everlight"
       ],
       "createdDate": 1716288537512,
-      "modifiedDate": 1722861213535,
-      "sizeInBytes": 350
+      "modifiedDate": 1725287737806,
+      "sizeInBytes": 789
     },
     "1 The Embrace/Angus.md": {
       "isCountable": true,
