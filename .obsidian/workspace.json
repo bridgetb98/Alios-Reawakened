@@ -11,9 +11,11 @@
             "id": "6fcfa31e17edc29d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Y TTRPG/Y100 Players/Y115 Character Sheets/Bridget_Skitz.pdf"
+                "file": "Z Core/Z100 Inbox/Skitz.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -86,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Y TTRPG/Y100 Players/Y115 Character Sheets/Bridget_Skitz.pdf",
+                "file": "Z Core/Z100 Inbox/Skitz.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -164,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Y TTRPG/Y100 Players/Y115 Character Sheets/Bridget_Skitz.pdf",
+                "file": "Z Core/Z100 Inbox/Skitz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Y TTRPG/Y100 Players/Y115 Character Sheets/Bridget_Skitz.pdf",
+                "file": "Z Core/Z100 Inbox/Skitz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -287,23 +289,23 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4f3d39bd54af80a0",
+  "active": "6fcfa31e17edc29d",
   "lastOpenFiles": [
+    "Y TTRPG/Y100 Players/Bridget A.M. Bleij.md",
+    "Y TTRPG/Y100 Players/Y115 Character Sheets/Bridget_Skitz.pdf",
+    "1 The Embrace/Democratic Republic of Politismós.md",
     "X References/X100 Files/X110 Images/X1__ Characters/Skitz_Portrait.png.~tmp",
     "X References/X100 Files/X110 Images/X1__ Characters/Skitz_Portrait.png",
     "X References/X100 Files/X110 Images/X1__ Characters",
     "X References/X100 Files/X110 Images/New folder",
-    "Y TTRPG/Y100 Players/Bridget A.M. Bleij.md",
     "Z Core/Z100 Inbox/Skitz.md",
     "Y TTRPG/Y100 Players/Roel Vergeer.md",
     "Y TTRPG/Y100 Players/Tom Rijnsburger.md",
-    "Y TTRPG/Y100 Players/Y115 Character Sheets/Bridget_Skitz.pdf",
     "X References/X100 Files/X184 PDF/CharacterSheet_3Pgs_ Complete.pdf",
     "Z Core/Scratch Note.md",
     "Home.md",
     "Y TTRPG/Y100 Players/Y115 Character Sheets",
     "X References/X100 Files/X184 PDF",
-    "1 The Embrace/Democratic Republic of Politismós.md",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.md",
     "1 The Embrace/Olad.md",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.pdf",
@@ -311,7 +313,6 @@
     "Z Core/Z100 Inbox/Aberant.md",
     "W Writing/W000 Outlines",
     "Untitled",
-    "W Writing",
     "1 The Embrace/Continent Design Principles.md",
     "1 The Embrace/Carcass.md",
     "1 The Embrace/Dain.md",
