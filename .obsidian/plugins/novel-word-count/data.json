@@ -785,15 +785,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.4,
-      "characterCount": 4217,
-      "nonWhitespaceCharacterCount": 2785,
+      "characterCount": 4529,
+      "nonWhitespaceCharacterCount": 2889,
       "readingTimeInMinutes": 1.5849056603773586,
-      "linkCount": 37,
+      "linkCount": 60,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1723530590539,
-      "modifiedDate": 1723752986605,
-      "sizeInBytes": 4459
+      "modifiedDate": 1725287138853,
+      "sizeInBytes": 4771
     },
     "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.pdf": {
       "isCountable": false,
@@ -2455,8 +2455,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1716627758112,
-      "modifiedDate": 1716627758113,
-      "sizeInBytes": 377342
+      "modifiedDate": 1725286928115,
+      "sizeInBytes": 494783
     },
     "X References/X100 Files/X110 Images/Miann-Eòlas_TradingCard.jpg": {
       "isCountable": false,

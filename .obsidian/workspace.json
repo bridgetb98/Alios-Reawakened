@@ -11,8 +11,12 @@
             "id": "d86c716b5dd334e1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -84,6 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -144,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 234.5
   },
   "right": {
     "id": "2b4a00d1dd57de11",
@@ -161,6 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,6 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -243,9 +250,16 @@
             "state": {
               "type": "CALENDARIUM"
             }
+          },
+          {
+            "id": "946724177b00a2d4",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       },
       {
         "id": "0add4af3278c4fa4",
@@ -264,7 +278,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -283,6 +298,9 @@
   },
   "active": "d86c716b5dd334e1",
   "lastOpenFiles": [
+    "1 The Embrace/Poten.md",
+    "X References/X100 Files/X110 Images/Poten_TradingCard.jpg",
+    "X References/X100 Files/X110 Images/Poten_TradingCard.jpg.0.pdnSave",
     "0 Alios/Starlanes.md",
     "Z Core/Z300 MOC/Cosmology.md",
     "Z Core/Z000 Index/0 Alios.md",
@@ -311,19 +329,15 @@
     "1 The Embrace/Olad.md",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.2 Zine.pdf",
     "W Writing/W000 Outlines",
-    "Untitled",
     "1 The Embrace/Continent Design Principles.md",
     "1 The Embrace/Carcass.md",
     "1 The Embrace/Dain.md",
     "1 The Embrace/The Groaning Breach.md",
     "Z Core/Z000 Index/T.md",
     "Z Core/Z300 MOC/Taverns.md",
-    "1 The Embrace/The Grand Thievery.md",
-    "Z Core/Z300 MOC/Dain (MOC).md",
     "X References/X100 Files/Pasted image 20240724193026.png",
     "X References/X100 Files/X110 Images/Alios_Prime_TradingCard.jpg",
     "X References/X100 Files/X110 Images/fragaria_corporis1.jpg",
-    "X References/X100 Files/X110 Images/Poten_TradingCard.jpg",
     "X References/X100 Files/X110 Images/Aros_TradingCard.jpg",
     "X References/X100 Files/X110 Images/Angus_TradingCard.jpg",
     "X References/X100 Files/X110 Images/Zahdum_TradingCard.jpg",
