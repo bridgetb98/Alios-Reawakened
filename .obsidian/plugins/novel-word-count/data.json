@@ -3865,8 +3865,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1725272581259,
-      "modifiedDate": 1725274076015,
-      "sizeInBytes": 374909
+      "modifiedDate": 1725283374636,
+      "sizeInBytes": 392741
     },
     "Z Core/Z100 Inbox/Skitz.md": {
       "isCountable": true,
@@ -3885,6 +3885,24 @@
       "createdDate": 1725273162660,
       "modifiedDate": 1725273190379,
       "sizeInBytes": 206
+    },
+    "X References/X100 Files/X110 Images/X1__ Characters/Skitz_Portrait.png": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1725283449913,
+      "modifiedDate": 1725283449982,
+      "sizeInBytes": 657562
     }
   }
 }
