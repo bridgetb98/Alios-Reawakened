@@ -55,6 +55,8 @@ Skitz is an [[Elves|Elf]] that was sent to [[Dain]] because she “cursed a fami
 >>[!Dexterity] DEX 17 `dice: 1d20+3` 
 >>**save:** `dice: 1d20+3`
 >>- Acrobatics `dice: 1d20+3`
+>>- Sleight of Hand `dice: 1d20+3`
+>>- Stealth `dice: 1d20+9`
 >
 >>[!Constitution] CON 14 `dice: 1d20+2`
 >>**save:** `dice: 1d20+2`
@@ -66,6 +68,7 @@ Skitz is an [[Elves|Elf]] that was sent to [[Dain]] because she “cursed a fami
 >>- History `dice: 1d20+4`
 >>- Investigation `dice: 1d20+7`
 >>- Nature `dice: 1d20+4`
+>>- Religion `dice: 1d20+4`
 >
 >>[!Wisdom] WIS 13 `dice: 1d20+1`
 >>**save:** `dice: 1d20+4`
@@ -80,13 +83,53 @@ Skitz is an [[Elves|Elf]] that was sent to [[Dain]] because she “cursed a fami
 >>- Intimidation `dice: 1d20+0`
 >>- Performance `dice: 1d20+0`
 >>- Persuasion `dice: 1d20+0`
+>>- Survival `dice: 1d20+1`
 
 ## Proficiencies
 ## Feats
 ## Spells
 ### Cantrips
+
+>[!column|no-t]
+>> [!info|clean no-t]
+>> #### Ranger
+>> - [[Mage Hand]]
+>
+>> [!info|clean no-t]
+>> #### Wizard
+>> - [[Fire Bolt]]
+>> - [[Message]]
+>> - [[Prestidigitation]]
+>> - [[Sapping Sting]]
+
 ### 1st Level
+
+>[!column|no-t]
+>>[!info|clean no-t]
+>> #### Ranger
+>> - [[Entangle]]
+>> - [[Faerie Fire]]
+>> - [[Goodberry]]
+>> - [[Hunter’s Mark]]
+>
+>>[!info|clean no-t]
+>> #### Wizard
+>> - [[Disguise Self]]
+>> - [[Grease]]
+>> - [[Magic Missile]]
+>> - [[Unseen Servant]]
+
 ### 2nd Level
+
+>[!column|no-t]
+>>[!info|clean no-t]
+>> #### Ranger
+>
+>>[!info|clean no-t]
+>> #### Wizard
+>> - [[Flaming Sphere]]
+>> - [[Immo]]
+
 ---
 
 # Reference
