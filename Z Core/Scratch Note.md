@@ -5,3 +5,4 @@
 - Contractor is a fancy boi, probably from propadanje
 - Contractor wants to turn Dain to a living land
 - Quest: Get rid of ‘nuances’
+- Skitz will protect and care for everyone^[Except for Saul]

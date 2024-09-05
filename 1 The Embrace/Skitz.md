@@ -233,7 +233,7 @@ Hempen rope, 50
 `clock 6/6`
 
 ```tinychart
-bullets, 12
+bullets, 11
 ```
 
 ## Spells
