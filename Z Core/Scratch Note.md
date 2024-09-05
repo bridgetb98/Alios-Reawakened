@@ -1,1 +1,2 @@
-Goblin == Italians
+- Goblin == Italians
+- Saul has got bitch-slapped and nearly died ~~:.|:;~~

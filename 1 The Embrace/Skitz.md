@@ -33,7 +33,9 @@ title: # Skitz
 > Current HP, 56
 > ```
 > ## Combat
-> | 
+> | AC | Init | Speed
+> | :-: | :-: | :-: |
+> | 13 | +3 | 30 |
 ```
 ```
 
@@ -41,7 +43,9 @@ Skitz is an [[Elves|Elf]] that was sent to [[Dain]] because she “cursed a fami
 
 ## Voice
 
+“Curse you and the legs that walked you here…”
 
+A nasally voice that tends to put emphasis on seemingly random words. However, she choises the words that would cause the best dramatics in this situation 
 
 # Backstory
 
@@ -96,6 +100,37 @@ Skitz is an [[Elves|Elf]] that was sent to [[Dain]] because she “cursed a fami
 >>- Survival `dice: 1d20+1`
 
 ## Proficiencies
+
+>[!column|no-t]
+>>[!info|clean no-t]
+>>### Armour
+
+- Light
+- Medium
+- Shields
+
+### Languages
+
+- Common
+- Dwarvish
+- Elvish
+- Goblin
+
+### Tools
+
+- Dice Set
+- Thieves’ Tools
+
+### Weapons
+
+- Daggers
+- Darts
+- Light crossbows
+- Martial
+- Simple
+- Slings
+- Quarterstaffs
+
 ## Feats
 ## Items
 
