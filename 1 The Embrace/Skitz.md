@@ -27,6 +27,15 @@ title: # Skitz
 > | INT | +4 |
 > | WIS | +1 |
 > | CHA | 0 |
+> **Passive Perception:** 14
+> ```tinychart
+> Max HP, 56
+> Current HP, 56
+> ```
+> ## Combat
+> | 
+```
+```
 
 Skitz is an [[Elves|Elf]] that was sent to [[Dain]] because she “cursed a family to die before their 40’s”. Though in actuality, she just shot them with her gun.
 
@@ -90,6 +99,8 @@ Skitz is an [[Elves|Elf]] that was sent to [[Dain]] because she “cursed a fami
 ## Feats
 ## Items
 
+**Money**
+
 ```tinychart
 CP, 250
 SP, 25
@@ -98,6 +109,25 @@ GP, 10
 PP, 0
 ```
 
+**Explorer’s Pack**
+
+```tinychart
+Backpack, 1
+Bedroll, 1
+Mess kit, 1
+Tinderbox, 1
+Torches, 10
+Rations, 10
+Waterskin, 200
+Hempen rope, 50
+```
+
+- [x] Quarterstaff
+- [x] Revolver
+- [x] Arcane focus
+- [x] Spellbook
+- [ ] Crowbar
+- [x] Dark common clothes
 ### Equipment
 
 **Combat**
