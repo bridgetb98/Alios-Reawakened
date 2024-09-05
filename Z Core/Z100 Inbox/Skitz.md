@@ -46,6 +46,15 @@ Skitz is an [[Elves|Elf]] that was sent to [[Dain]] because she “cursed a fami
 # D&D Info
 
 ## Stats
+
+>[!column|no-t 3]
+>>[!Strength]
+>>dice: `1d4`
+> 
+>>[!Dexterity]
+>
+>>[!Constitution]
+
 ## Proficiencies
 ## Feats
 ## Spells
