@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "21dfd7a38f0930d2",
+        "id": "18fffafb43aeae74",
         "type": "tabs",
         "children": [
           {
-            "id": "e085c9dfec708bf8",
+            "id": "f088cbc94165a425",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -126,7 +126,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5087618855792598,
+                  "scale": 0.25883865621816327,
                   "close": true
                 }
               }
@@ -144,13 +144,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 234.5,
-    "collapsed": true
+    "width": 338.5
   },
   "right": {
     "id": "2b4a00d1dd57de11",
@@ -260,7 +258,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       },
       {
         "id": "0add4af3278c4fa4",
@@ -279,8 +277,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -297,46 +294,46 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e085c9dfec708bf8",
+  "active": "e29afc944a58696a",
   "lastOpenFiles": [
-    "Z Core/Z100 Inbox/Flaming Sphere.md",
+    "Z Core/Z000 Index/1 The Embrace.md",
+    "Z Core/Z000 Index/C.md",
+    "Z Core/Z000 Index/P.md",
+    "Z Core/Z300 MOC/Characters.md",
     "Z Core/Z100 Inbox/Skitz.md",
-    "Z Core/Z100 Inbox/Immovable Object.md",
-    "Z Core/Z100 Inbox/Spiderclimb.md",
-    "Z Core/Z100 Inbox/Wristpocket.md",
-    "Z Core/Z100 Inbox/Unseen Servant.md",
-    "Z Core/Z100 Inbox/Magic Missile.md",
-    "Z Core/Z100 Inbox/Grease.md",
-    "Z Core/Z100 Inbox/Disguise Self.md",
-    "Z Core/Z100 Inbox/Hunter’s Mark.md",
-    "Z Core/Z100 Inbox/Goodberry.md",
-    "Z Core/Z100 Inbox/Faerie Fire.md",
-    "Z Core/Z100 Inbox/Entangle.md",
-    "Z Core/Z100 Inbox/Sapping Sting.md",
-    "Z Core/Z100 Inbox/Prestidigitation.md",
-    "Z Core/Z100 Inbox/Message.md",
-    "Z Core/Z100 Inbox/Fire Bolt.md",
-    "Z Core/Z100 Inbox/Mage Hand.md",
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st/Entangle.md",
+    "Y TTRPG/Y100 Players/Bridget A.M. Bleij.md",
     "Home.md",
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips/Message.md",
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips/Mage Hand.md",
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd/Immovable Object.md",
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd",
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st",
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips",
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells",
+    "Y TTRPG/Y200 Systems/Y200 5e",
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd/Flaming Sphere.md",
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd/Spiderclimb.md",
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd/Wristpocket.md",
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st/Unseen Servant.md",
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st/Magic Missile.md",
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st/Grease.md",
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st/Disguise Self.md",
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st/Hunter’s Mark.md",
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st/Goodberry.md",
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st/Faerie Fire.md",
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips/Sapping Sting.md",
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips/Prestidigitation.md",
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips/Fire Bolt.md",
     "Z Core/Z100 Inbox/Untitled.md",
     "2 Aukif/Aukif Design Principles.md",
     "X References/X100 Files/X1__ Conlangs/Sheshboian.txt.crswap",
     "X References/X100 Files/X1__ Conlangs/Sheshboian.txt",
     "X References/X100 Files/X1__ Conlangs",
     "X References/X100 Files/New folder",
-    "1 The Embrace/Wedi Coli Wastes.md",
-    "2 Aukif/Cultivation Engineering.md",
-    "2 Aukif/Fungi Cultivation.md",
-    "2 Aukif/Mutagen Purpose.md",
-    "2 Aukif/Mutation and Cultivation.md",
     "X References/X100 Files/X110 Images/Poten_TradingCard.jpg",
     "X References/X100 Files/X110 Images/Poten_TradingCard.jpg.0.pdnSave",
-    "Y TTRPG/Y100 Players/Y115 Character Sheets/Bridget_Skitz.pdf",
-    "X References/X100 Files/X110 Images/X1__ Characters/Skitz_Portrait.png.~tmp",
     "X References/X100 Files/X110 Images/X1__ Characters/Skitz_Portrait.png",
-    "X References/X100 Files/X110 Images/X1__ Characters",
-    "X References/X100 Files/X110 Images/New folder",
-    "X References/X100 Files/X184 PDF/CharacterSheet_3Pgs_ Complete.pdf",
     "X References/X100 Files/Pasted image 20240724193026.png",
     "X References/X100 Files/X110 Images/Alios_Prime_TradingCard.jpg",
     "X References/X100 Files/X110 Images/fragaria_corporis1.jpg",
