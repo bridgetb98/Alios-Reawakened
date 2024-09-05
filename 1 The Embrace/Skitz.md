@@ -217,6 +217,7 @@ Hempen rope, 50
 - [ ] Crowbar
 - [ ] Dark common clothes
 - [x] Leather armour
+- [x] Cloak of Billowing
 
 ### Equipment
 
@@ -233,7 +234,7 @@ Hempen rope, 50
 `clock 6/6`
 
 ```tinychart
-bullets, 11
+bullets, 5
 ```
 
 ## Spells
