@@ -48,12 +48,19 @@ Skitz is an [[Elves|Elf]] that was sent to [[Dain]] because she “cursed a fami
 ## Stats
 
 >[!column|no-t 3]
->>[!Strength]
->>dice: `1d4`
+>>[!Strength] STR 12  `dice: 1d20+1` 
+>> **save:** `dice: 1d20+1`
 > 
->>[!Dexterity]
+>>[!Dexterity] DEX 17 `dice: 1d20+3` 
 >
->>[!Constitution]
+>>[!Constitution] CON 14 `dice: 1d20+2`
+
+>[!column|no-t 3]
+>>[!Intelligence] INT 18 `dice: 1d20+4`
+>
+>>[!Wisdom] WIS 13 `dice: 1d20+1`
+>
+>>[!Charisma] CHA 10 `dice: 1d20+0`
 
 ## Proficiencies
 ## Feats
