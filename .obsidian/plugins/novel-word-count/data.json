@@ -3520,21 +3520,21 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 469,
+      "wordCount": 468,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.5633333333333332,
-      "characterCount": 4550,
-      "nonWhitespaceCharacterCount": 3696,
-      "readingTimeInMinutes": 1.769811320754717,
+      "pageCount": 1.56,
+      "characterCount": 4552,
+      "nonWhitespaceCharacterCount": 3695,
+      "readingTimeInMinutes": 1.7660377358490567,
       "linkCount": 36,
       "embedCount": 2,
       "aliases": [
         "1804.1"
       ],
       "createdDate": 1725273162660,
-      "modifiedDate": 1725564455855,
-      "sizeInBytes": 4671
+      "modifiedDate": 1725567785381,
+      "sizeInBytes": 4673
     },
     "1 The Embrace/Propadanje Kingdom.md": {
       "isCountable": true,

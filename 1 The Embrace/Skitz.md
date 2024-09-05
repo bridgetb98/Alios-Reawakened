@@ -40,7 +40,7 @@ title: # Skitz
 > ## Combat
 > | AC | Init | Speed
 > | :-: | :-: | :-: |
-> | 13 | +3 | 30 |
+> | 13 | +4 | 30 |
 
 Skitz is an [[Elves|Elf]] that was sent to [[Dain]] because she “cursed a family to die before their 40’s”. Though in actuality, she just shot them with her gun.
 
@@ -215,7 +215,9 @@ Hempen rope, 50
 - [x] Arcane focus
 - [x] Spellbook
 - [ ] Crowbar
-- [x] Dark common clothes
+- [ ] Dark common clothes
+- [ ] Lea
+
 ### Equipment
 
 **Combat**
