@@ -12,7 +12,7 @@ West:
 title: # Goodberry
 ```
 
->
+>[!infobox]
 **Casting Time:** 1 action  
 **Range:** Touch  
 **Components:** V, S, M (a sprig of mistletoe)  
