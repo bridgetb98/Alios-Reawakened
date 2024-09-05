@@ -18,6 +18,11 @@ title: # Skitz
 >[!infobox]
 ># Skitz
 >![[Skitz_Portrait.png]]
+>
+>| Class | Level |
+>| --- | :-: |
+>| Ranger | 3 |
+>| Wizard | 4 |
 >## Stats
 > | Skill | Bonus | 
 > | :-: | :-: |
@@ -104,34 +109,45 @@ A nasally voice that tends to put emphasis on seemingly random words. However, s
 >[!column|no-t]
 >>[!info|clean no-t]
 >>### Armour
+>> - Light
+>> - Medium
+>> - Shields
+>
+>>[!info|clean no-t]
+>>### Languages
+>>- Common
+>>- Dwarvish
+>>- Elvish
+>>- Goblin
 
-- Light
-- Medium
-- Shields
-
-### Languages
-
-- Common
-- Dwarvish
-- Elvish
-- Goblin
-
-### Tools
-
-- Dice Set
-- Thieves’ Tools
-
-### Weapons
-
-- Daggers
-- Darts
-- Light crossbows
-- Martial
-- Simple
-- Slings
-- Quarterstaffs
+>[!column|no-t]
+>>[!info|clean no-t]
+>>### Tools
+>>- Dice Set
+>>- Thieves’ Tools
+>
+>>[!info|clean no-t]
+>>### Weapons
+>>- Daggers
+>>- Darts
+>>- Light crossbows
+>>- Martial
+>>- Simple
+>>- Slings
+>>- Quarterstaffs
 
 ## Feats
+
+### Species
+
+### Background
+
+### Ranger
+
+### Wizard
+
+Misc
+
 ## Items
 
 **Money**
