@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "a8165a88e5305b33",
+            "id": "d97edeb63fe67a47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z Core/Z100 Inbox/Hunter’s Mark.md",
+                "file": "Z Core/Z100 Inbox/Magic Missile.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Z Core/Z100 Inbox/Hunter’s Mark.md",
+                "file": "Z Core/Z100 Inbox/Magic Missile.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z Core/Z100 Inbox/Hunter’s Mark.md",
+                "file": "Z Core/Z100 Inbox/Magic Missile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z Core/Z100 Inbox/Hunter’s Mark.md",
+                "file": "Z Core/Z100 Inbox/Magic Missile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -310,9 +310,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a8165a88e5305b33",
+  "active": "d97edeb63fe67a47",
   "lastOpenFiles": [
     "Z Core/Z100 Inbox/Skitz.md",
+    "Z Core/Z100 Inbox/Magic Missile.md",
+    "Z Core/Z100 Inbox/Grease.md",
+    "Z Core/Z100 Inbox/Disguise Self.md",
     "Z Core/Z100 Inbox/Hunter’s Mark.md",
     "Z Core/Z100 Inbox/Goodberry.md",
     "Z Core/Z100 Inbox/Faerie Fire.md",
@@ -339,9 +342,6 @@
     "2 Aukif/Vivi Mortua.md",
     "2 Aukif/Vörsi.md",
     "1 The Embrace/Ho'okalakupuan Commonwealth.md",
-    "1 The Embrace/Goblins.md",
-    "1 The Embrace/Geyser Guys.md",
-    "1 The Embrace/Fleshberry.md",
     "X References/X100 Files/X110 Images/Poten_TradingCard.jpg",
     "X References/X100 Files/X110 Images/Poten_TradingCard.jpg.0.pdnSave",
     "Y TTRPG/Y100 Players/Y115 Character Sheets/Bridget_Skitz.pdf",
