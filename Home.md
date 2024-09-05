@@ -77,6 +77,7 @@ The following plugins are used in this vault:
 >>[!info|clean no-t]
 >> - [Progress Clock](https://github.com/tokenshift/obsidian-progress-clocks)
 >> - [Leaflet](https://plugins.javalent.com/Leaflet)
+>> - Longform
 >> - [Dice Roller](https://plugins.javalent.com/Dice+Roller/Dice+Roller)
 >> - [Fantasy Statblock](https://plugins.javalent.com/statblocks)
 >> - [Initiative Tracker](https://plugins.javalent.com/it)
