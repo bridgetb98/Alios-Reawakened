@@ -1,6 +1,7 @@
 ---
 ID: "20240902123245"
-aliases: 
+aliases:
+  - "1804.1"
 tags:
   - character/NPC
 North: 
@@ -107,6 +108,7 @@ Skitz is an [[Elves|Elf]] that was sent to [[Dain]] because she “cursed a fami
 >[!column|no-t]
 >>[!info|clean no-t]
 >> #### Ranger
+>> `clock 3/3`
 >> - [[Entangle]]
 >> - [[Faerie Fire]]
 >> - [[Goodberry]]
@@ -114,6 +116,7 @@ Skitz is an [[Elves|Elf]] that was sent to [[Dain]] because she “cursed a fami
 >
 >>[!info|clean no-t]
 >> #### Wizard
+>> `clock 4/4`
 >> - [[Disguise Self]]
 >> - [[Grease]]
 >> - [[Magic Missile]]
@@ -127,6 +130,7 @@ Skitz is an [[Elves|Elf]] that was sent to [[Dain]] because she “cursed a fami
 >
 >>[!info|clean no-t]
 >> #### Wizard
+>> `clock 3/3`
 >> - [[Flaming Sphere]]
 >> - [[Immovable Object]]
 >> - [[Spiderclimb]]

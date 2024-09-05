@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z Core/Z100 Inbox/Skitz.md",
-                "mode": "source",
+                "file": "1 The Embrace/Skitz.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Z Core/Z100 Inbox/Skitz.md",
+                "file": "Z Core/Scratch Note.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -144,7 +144,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z Core/Z100 Inbox/Skitz.md",
+                "file": "Z Core/Scratch Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z Core/Z100 Inbox/Skitz.md",
+                "file": "Z Core/Scratch Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -277,7 +278,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -294,13 +296,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e29afc944a58696a",
+  "active": "9efec59f38fa8393",
   "lastOpenFiles": [
+    "1 The Embrace/Skitz.md",
+    "Z Core/Scratch Note.md",
     "Z Core/Z000 Index/1 The Embrace.md",
     "Z Core/Z000 Index/C.md",
     "Z Core/Z000 Index/P.md",
     "Z Core/Z300 MOC/Characters.md",
-    "Z Core/Z100 Inbox/Skitz.md",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st/Entangle.md",
     "Y TTRPG/Y100 Players/Bridget A.M. Bleij.md",
     "Home.md",
@@ -326,7 +329,6 @@
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips/Prestidigitation.md",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips/Fire Bolt.md",
     "Z Core/Z100 Inbox/Untitled.md",
-    "2 Aukif/Aukif Design Principles.md",
     "X References/X100 Files/X1__ Conlangs/Sheshboian.txt.crswap",
     "X References/X100 Files/X1__ Conlangs/Sheshboian.txt",
     "X References/X100 Files/X1__ Conlangs",
