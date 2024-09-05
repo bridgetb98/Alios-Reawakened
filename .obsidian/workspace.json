@@ -20,13 +20,13 @@
             }
           },
           {
-            "id": "e630f9c1ed2744ff",
+            "id": "08bf71c45d937a9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z Core/Z100 Inbox/Sapping Sting.md",
-                "mode": "preview",
+                "file": "Z Core/Z100 Inbox/Goodberry.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -101,7 +101,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Z Core/Z100 Inbox/Sapping Sting.md",
+                "file": "Z Core/Z100 Inbox/Goodberry.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z Core/Z100 Inbox/Sapping Sting.md",
+                "file": "Z Core/Z100 Inbox/Goodberry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z Core/Z100 Inbox/Sapping Sting.md",
+                "file": "Z Core/Z100 Inbox/Goodberry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -310,9 +310,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e630f9c1ed2744ff",
+  "active": "08bf71c45d937a9e",
   "lastOpenFiles": [
     "Z Core/Z100 Inbox/Skitz.md",
+    "Z Core/Z100 Inbox/Goodberry.md",
+    "Z Core/Z100 Inbox/Faerie Fire.md",
+    "Z Core/Z100 Inbox/Entangle.md",
     "Z Core/Z100 Inbox/Sapping Sting.md",
     "Z Core/Z100 Inbox/Prestidigitation.md",
     "Z Core/Z100 Inbox/Message.md",
@@ -339,9 +342,6 @@
     "1 The Embrace/Geyser Guys.md",
     "1 The Embrace/Fleshberry.md",
     "1 The Embrace/Circle of the Everlight.md",
-    "1 The Embrace/Theocracy of Olpen.md",
-    "1 The Embrace/The Groaning Breach.md",
-    "1 The Embrace/The Grand Thievery.md",
     "X References/X100 Files/X110 Images/Poten_TradingCard.jpg",
     "X References/X100 Files/X110 Images/Poten_TradingCard.jpg.0.pdnSave",
     "Y TTRPG/Y100 Players/Y115 Character Sheets/Bridget_Skitz.pdf",
