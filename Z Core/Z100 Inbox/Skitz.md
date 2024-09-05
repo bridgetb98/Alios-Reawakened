@@ -2,7 +2,7 @@
 ID: "20240902123245"
 aliases: 
 tags:
-  - idea
+  - character/NPC
 North: 
 East: 
 South: 
@@ -128,7 +128,9 @@ Skitz is an [[Elves|Elf]] that was sent to [[Dain]] because she “cursed a fami
 >>[!info|clean no-t]
 >> #### Wizard
 >> - [[Flaming Sphere]]
->> - [[Immo]]
+>> - [[Immovable Object]]
+>> - [[Spiderclimb]]
+>> - [[Wristpocket]]
 
 ---
 
