@@ -158,12 +158,32 @@ A nasally voice that tends to put emphasis on seemingly random words. However, s
 >[!column|no-t]
 >>[!info|clean no-t]
 >>### Ranger
->>- F
+>>- [[Favored Foe]]
+>>	- `clock 3/3`
+>>- [[Deft Explorer]]
+>>	- Canny
+>>		- Stealth
+>>- [[Primal Awareness]]
+>>- [[Ranger Conclave]]
+>>	- Swarmkeeper
+>>- [[Gathered Swarm]]
+>>	- Playful Pixies
+>>- [[Swarmkeeper Magic]]
 >
 >>[!info|clean no-t]
 >>### Wizard
+>>- [[Spellcasting]]
+>>- [[Arcane Recovery]]
+>>	- 2 levels
+>>	- `clock 1/1`
+>>- [[Chronal Shift]]
+>>	- 30ft
+>>	- `clock 2/2`
+>>- [[Temporal Awareness]]
 
 ### Misc
+
+- [[Sentinel]]
 
 ## Items
 
