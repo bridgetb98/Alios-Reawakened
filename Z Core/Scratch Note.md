@@ -2,3 +2,5 @@
 - Saul has got bitch-slapped and nearly died ~~:.|:;~~
 - Fleshwine made from fleshberry wine soaked in blood
 - Durian now exists in the Embrace
+- Contractor is a fancy boi, probably from propadanje
+- Contractor wants to turn Dain to a living land
