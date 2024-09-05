@@ -3818,19 +3818,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 2,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 18,
+      "nonWhitespaceCharacterCount": 16,
+      "readingTimeInMinutes": 0.007547169811320755,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1725272993450,
-      "modifiedDate": 1725560670590,
-      "sizeInBytes": 0
+      "modifiedDate": 1725561366806,
+      "sizeInBytes": 18
     },
     "Y TTRPG/Y100 Players/Y115 Character Sheets/Bridget_Skitz.pdf": {
       "isCountable": false,
@@ -4232,21 +4232,21 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 230,
+      "wordCount": 273,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.7666666666666667,
-      "characterCount": 2226,
-      "nonWhitespaceCharacterCount": 1834,
-      "readingTimeInMinutes": 0.8679245283018868,
+      "pageCount": 0.91,
+      "characterCount": 2679,
+      "nonWhitespaceCharacterCount": 2166,
+      "readingTimeInMinutes": 1.030188679245283,
       "linkCount": 19,
       "embedCount": 2,
       "aliases": [
         "1804.1"
       ],
       "createdDate": 1725273162660,
-      "modifiedDate": 1725561102676,
-      "sizeInBytes": 2337
+      "modifiedDate": 1725561683213,
+      "sizeInBytes": 2790
     }
   }
 }

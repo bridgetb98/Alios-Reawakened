@@ -88,6 +88,34 @@ Skitz is an [[Elves|Elf]] that was sent to [[Dain]] because she “cursed a fami
 
 ## Proficiencies
 ## Feats
+## Items
+
+```tinychart
+CP, 250
+SP, 25
+EP, 0
+GP, 10
+PP, 0
+```
+
+### Equipment
+
+**Combat**
+
+| Name       | Attack         | Damage                    |
+| ---------- | -------------- | ------------------------- |
+| Revolver   | `dice: 1d20+6` | `dice: 2d8+5` Piercing    |
+| Staff      | `dice: 1d20+4` | `dice: 1d6+1` Bludgeoning |
+| Staff (2H) | `dice: 1d20+4` | `dice: 1d8+1` Bludgeoning |
+
+**Revolver shots**
+
+`clock 6/6`
+
+```tinychart
+bullets, 12
+```
+
 ## Spells
 ### Cantrips
 

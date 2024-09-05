@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Z Core/Scratch Note.md",
+                "file": "1 The Embrace/Skitz.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z Core/Scratch Note.md",
+                "file": "1 The Embrace/Skitz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z Core/Scratch Note.md",
+                "file": "1 The Embrace/Skitz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -296,10 +296,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9efec59f38fa8393",
+  "active": "f088cbc94165a425",
   "lastOpenFiles": [
-    "1 The Embrace/Skitz.md",
     "Z Core/Scratch Note.md",
+    "1 The Embrace/Skitz.md",
     "Z Core/Z000 Index/1 The Embrace.md",
     "Z Core/Z000 Index/C.md",
     "Z Core/Z000 Index/P.md",
