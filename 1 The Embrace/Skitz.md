@@ -41,8 +41,6 @@ title: # Skitz
 > | AC | Init | Speed
 > | :-: | :-: | :-: |
 > | 13 | +3 | 30 |
-```
-```
 
 Skitz is an [[Elves|Elf]] that was sent to [[Dain]] because she “cursed a family to die before their 40’s”. Though in actuality, she just shot them with her gun.
 
@@ -138,15 +136,34 @@ A nasally voice that tends to put emphasis on seemingly random words. However, s
 
 ## Feats
 
-### Species
+>[!column|no-t]
+>>[!info|clean no-t]
+>> ### Species
+>>
+>>- [[Astral Fire]]
+>>	- Sacred Flame
+>>- [[Darkvision]]
+>>	- 60ft
+>>- [[Starlight Step]]
+>>	- 30 ft
+>>	- `clock 3/3`
+>>- [[Astral Trance]]
+>
+>>[!info|clean no-t] 
+>>### Background
+>> - [[Criminal Specialty]]
+>> 	- Mass Murderer
+>> - [[Criminal Contract]]
 
-### Background
+>[!column|no-t]
+>>[!info|clean no-t]
+>>### Ranger
+>>- F
+>
+>>[!info|clean no-t]
+>>### Wizard
 
-### Ranger
-
-### Wizard
-
-Misc
+### Misc
 
 ## Items
 

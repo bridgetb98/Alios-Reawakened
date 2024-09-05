@@ -1,2 +1,4 @@
 - Goblin == Italians
 - Saul has got bitch-slapped and nearly died ~~:.|:;~~
+- Fleshwine made from fleshberry wine soaked in blood
+- Durian now exists in the Embrace
