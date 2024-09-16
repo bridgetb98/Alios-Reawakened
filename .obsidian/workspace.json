@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2515be5a29b8cc0c",
+        "id": "44bee5f7cc74f771",
         "type": "tabs",
         "children": [
           {
-            "id": "ee527d22fcb060f9",
+            "id": "2bf6e1783755431b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -292,10 +292,11 @@
       "homepage:Open homepage": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "ee527d22fcb060f9",
+  "active": "2bf6e1783755431b",
   "lastOpenFiles": [
     "1 The Embrace/Skitz.md",
     "Z Core/Scratch Note.md",
