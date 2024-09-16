@@ -292,8 +292,7 @@
       "homepage:Open homepage": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "calendarium:Open Calendarium": false
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
   "active": "08e64a213b36061b",
