@@ -146,7 +146,7 @@ A nasally voice that tends to put emphasis on seemingly random words. However, s
 >>	- 60ft
 >>- [[Starlight Step]]
 >>	- 30 ft
->>	- `clock 3/3`
+>>	- `clock 2/3`
 >>- [[Astral Trance]]
 >
 >>[!info|clean no-t] 
@@ -231,7 +231,7 @@ Hempen rope, 50
 
 **Revolver shots**
 
-`clock 6/6`
+`clock 5 / 6`
 
 ```tinychart
 bullets, 5
