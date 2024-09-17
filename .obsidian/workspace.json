@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "1 The Embrace/Skitz.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "1 The Embrace/Skitz.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "1 The Embrace/Skitz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "1 The Embrace/Skitz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -298,8 +298,8 @@
   },
   "active": "2bf6e1783755431b",
   "lastOpenFiles": [
-    "1 The Embrace/Skitz.md",
     "Z Core/Scratch Note.md",
+    "1 The Embrace/Skitz.md",
     "Home.md",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd/Spiderclimb.md",
     "1 The Embrace/Dain.md",
