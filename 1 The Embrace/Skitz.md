@@ -175,7 +175,7 @@ A nasally voice that tends to put emphasis on seemingly random words. However, s
 >>- [[Spellcasting]]
 >>- [[Arcane Recovery]]
 >>	- 2 levels
->>	- `clock 1/1`
+>>	- `clock 2/2`
 >>- [[Chronal Shift]]
 >>	- 30ft
 >>	- `clock 2/2`
