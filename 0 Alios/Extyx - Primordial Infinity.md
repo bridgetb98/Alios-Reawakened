@@ -29,7 +29,7 @@ West:
 
 [[Starlanes]]
 
-## Race
+## Species
 
 [[Dragons]]
 

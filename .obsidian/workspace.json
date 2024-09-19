@@ -8,13 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2bd64f92fe7f22a3",
+            "id": "b36fec3511b7a872",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Aukif/Fungi Cultivation.md",
+                "file": "1 The Embrace/Angus.md",
                 "mode": "preview",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -50,21 +51,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#index",
+                "query": "race",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "e737f16efc070a9a",
-            "type": "leaf",
-            "state": {
-              "type": "mk-file-view",
-              "state": {}
             }
           },
           {
@@ -88,7 +81,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2 Aukif/Fungi Cultivation.md",
+                "file": "1 The Embrace/Angus.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -144,8 +137,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -160,17 +152,6 @@
         "type": "tabs",
         "dimension": 75.80952380952381,
         "children": [
-          {
-            "id": "4842de32ea7639ef",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "alphabetical",
-                "useHierarchy": true
-              }
-            }
-          },
           {
             "id": "fa4d2d90fd4fa96d",
             "type": "leaf",
@@ -203,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "0add4af3278c4fa4",
@@ -222,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,11 +218,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "canvas:Create new canvas": false
     }
   },
-  "active": "2bd64f92fe7f22a3",
+  "active": "b36fec3511b7a872",
   "lastOpenFiles": [
+    "0 Alios/Starlanes.md",
+    "Z Core/Z000 Index/0 Alios.md",
+    "0 Alios/Aberant.md",
+    "0 Alios/Extyx - Primordial Infinity.md",
+    "0 Alios/Zahdum - Primordial Spirit.md",
+    "0 Alios/Ancient Words.md",
+    "0 Alios/Alios.md",
+    "0 Alios/Alios - Primordial Creation.md",
+    "0 Alios/Ambition.md",
+    "0 Alios/Chrylis.md",
+    "0 Alios/Belief.md",
+    "1 The Embrace/Borrowing.md",
+    "2 Aukif/Fungi Cultivation.md",
     "Home.md",
     "1 The Embrace/Skitz.md",
     "Z Core/Scratch Note.md",
@@ -254,24 +250,11 @@
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st/Entangle.md",
     "Y TTRPG/Y100 Players/Bridget A.M. Bleij.md",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips/Message.md",
-    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips/Mage Hand.md",
-    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd/Immovable Object.md",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells",
     "Y TTRPG/Y200 Systems/Y200 5e",
-    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd/Flaming Sphere.md",
-    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd/Wristpocket.md",
-    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st/Unseen Servant.md",
-    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st/Magic Missile.md",
-    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st/Grease.md",
-    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st/Disguise Self.md",
-    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st/Hunter’s Mark.md",
-    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st/Goodberry.md",
-    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st/Faerie Fire.md",
-    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips/Sapping Sting.md",
-    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips/Prestidigitation.md",
     "X References/X100 Files/X1__ Conlangs/Sheshboian.txt.crswap",
     "X References/X100 Files/X1__ Conlangs/Sheshboian.txt",
     "X References/X100 Files/X1__ Conlangs",

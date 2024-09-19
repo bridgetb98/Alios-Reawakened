@@ -1,6 +1,7 @@
 ---
 ID: "20240806114326"
-aliases: 
+aliases:
+  - "0564.1"
 tags:
   - idea
 North: 
@@ -12,7 +13,7 @@ West:
 title: # Aberant
 ```
 
-metal found on just a few planets
+A purple metal found on a scarce amount of planets. Part of the [[Godly Metals]]
 
 ---
 
