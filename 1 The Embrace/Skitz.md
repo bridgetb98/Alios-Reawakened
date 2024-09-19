@@ -3,7 +3,7 @@ ID: "20240902123245"
 aliases:
   - "1804.1"
 tags:
-  - character/NPC
+  - character/PC
 North: 
 East: 
 South: 

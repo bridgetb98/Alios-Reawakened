@@ -44,15 +44,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.7266666666666667,
-      "characterCount": 1287,
-      "nonWhitespaceCharacterCount": 1053,
+      "characterCount": 1288,
+      "nonWhitespaceCharacterCount": 1054,
       "readingTimeInMinutes": 0.8226415094339623,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1716625942920,
-      "modifiedDate": 1716626003362,
-      "sizeInBytes": 1369
+      "modifiedDate": 1726751407960,
+      "sizeInBytes": 1370
     },
     "Z Core/Z400 Archive/Petal Weavers.md": {
       "isCountable": true,
@@ -3437,13 +3437,13 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 197,
+      "wordCount": 199,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.6566666666666666,
-      "characterCount": 1329,
-      "nonWhitespaceCharacterCount": 1096,
-      "readingTimeInMinutes": 0.7433962264150943,
+      "pageCount": 0.6633333333333333,
+      "characterCount": 1340,
+      "nonWhitespaceCharacterCount": 1105,
+      "readingTimeInMinutes": 0.7509433962264151,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [
@@ -3451,8 +3451,8 @@
         "Elf"
       ],
       "createdDate": 1716298373685,
-      "modifiedDate": 1721817735200,
-      "sizeInBytes": 1450
+      "modifiedDate": 1726751369799,
+      "sizeInBytes": 1461
     },
     "0 Alios/Creation of Devils.md": {
       "isCountable": true,
@@ -3759,8 +3759,8 @@
         "1804.1"
       ],
       "createdDate": 1725273162660,
-      "modifiedDate": 1726593240991,
-      "sizeInBytes": 4719
+      "modifiedDate": 1726751259435,
+      "sizeInBytes": 4718
     },
     "1 The Embrace/The Goblin Code.md": {
       "isCountable": true,
@@ -4037,8 +4037,8 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.36,
-      "characterCount": 1115,
-      "nonWhitespaceCharacterCount": 820,
+      "characterCount": 1122,
+      "nonWhitespaceCharacterCount": 841,
       "readingTimeInMinutes": 0.4075471698113208,
       "linkCount": 1,
       "embedCount": 0,
@@ -4046,8 +4046,8 @@
         "1382.1"
       ],
       "createdDate": 1716297011674,
-      "modifiedDate": 1721818047084,
-      "sizeInBytes": 1209
+      "modifiedDate": 1726750924251,
+      "sizeInBytes": 1216
     },
     "1 The Embrace/Democratic Republic of Politismós.md": {
       "isCountable": true,

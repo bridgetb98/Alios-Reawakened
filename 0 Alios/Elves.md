@@ -37,7 +37,7 @@ Elves are axolotl-like. More alien than us in appearance, yet still with aspects
 
 *how quickly does it grow and what are its life stages*
 
-- **Average Lifespan**:
+- **Average Lifespan**: ~1000 year
 
 # Ecology
 
