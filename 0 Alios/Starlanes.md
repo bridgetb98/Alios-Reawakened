@@ -23,7 +23,7 @@ The starlanes are a creation of [[Extyx - Primordial Infinity|Extyx]]. However, 
 
 # Travel
 
-To travel on the starlanes, one needs a vessel clad in [[Aberant]]. This metal seems to ‘reject’ the lanes, gliding off it.^[Some dispute the idea that it’s ‘gliding’, and claim it’s closer to ‘high frequency bouncing’.] The resulting effect is hyperspeed traveling.^[traveling at speeds greater than the speed of light.] most [[Imperium]] vessels come with a map of the lanes built into their PDA. Note that even with a vessel it’s still possible to travel the lanes, but at regular speeds. It is advised to avoid such a scenario, as it turns travel of just a few hours into millions of years.
+To travel on the starlanes, one needs a vessel clad in [[Aberrant]]. This metal seems to ‘reject’ the lanes, gliding off it.^[Some dispute the idea that it’s ‘gliding’, and claim it’s closer to ‘high frequency bouncing’.] The resulting effect is hyperspeed traveling.^[traveling at speeds greater than the speed of light.] most [[Imperium]] vessels come with a map of the lanes built into their PDA. Note that even with a vessel it’s still possible to travel the lanes, but at regular speeds. It is advised to avoid such a scenario, as it turns travel of just a few hours into millions of years.
 
 ## Off-Lane
 
@@ -39,7 +39,7 @@ Because the starlanes are basically a highway between colonized worlds,  it some
 >>- Research
 >>- Stealth
 
-Note that ships without an [[Aberant]] chassis can travel off-lane. Fighter jets, for example, are rarely cladded in [[Aberant]] as combat on the lanes requires very specific conditions.
+Note that ships without an [[Aberrant]] chassis can travel off-lane. Fighter jets, for example, are rarely cladded in [[Aberrant]] as combat on the lanes requires very specific conditions.
 
 ## Anomalous Connections
 

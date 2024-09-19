@@ -10,8 +10,6 @@ West:
 ---
 # Anchors
 
-# Anchors
-
 To help stabilize the veil, to keep the threads nice and tight, each concept has an anchor point. These anchors symbolize the true essence of their concept and are nearly unbreakable
 
 ## Memory

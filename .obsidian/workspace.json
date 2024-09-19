@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z Core/Z400 Archive/The 5 Concepts.md",
-                "mode": "preview",
+                "file": "Z Core/Z100 Inbox/Holy Metals.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Z Core/Z400 Archive/The 5 Concepts.md",
+                "file": "Z Core/Z100 Inbox/Holy Metals.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,10 +224,16 @@
   },
   "active": "01014142bb589c19",
   "lastOpenFiles": [
+    "0 Alios/Aberrant.md",
+    "Z Core/Z100 Inbox/Holy Metals.md",
+    "1 The Embrace/Embrace Design Principles.md",
+    "Z Core/Scratch Note.md",
+    "Z Core/Z400 Archive/The First World.md",
+    "Z Core/Z400 Archive/The 5 Concepts.md",
+    "Z Core/Z400 Archive/Anchors.md",
     "Z Core/Z400 Archive/Spirit.md",
     "Z Core/Z400 Archive/Petal Weavers.md",
     "0 Alios/Elves.md",
-    "Z Core/Z400 Archive/The First World.md",
     "Home.md",
     "1 The Embrace/Skitz.md",
     "Z Core/Z300 MOC/Characters.md",
@@ -241,15 +247,9 @@
     "0 Alios/Promise.md",
     "0 Alios/Memory.md",
     "1 The Embrace/Dram, Chip, Clips.md",
-    "1 The Embrace/Embrace Design Principles.md",
     "1 The Embrace/Democratic Republic of Politismós.md",
     "1 The Embrace/Dain.md",
     "1 The Embrace/Continent Design Principles.md",
-    "1 The Embrace/Circle of the Everlight.md",
-    "1 The Embrace/Carcass.md",
-    "1 The Embrace/Angus.md",
-    "1 The Embrace/Borrowing.md",
-    "1 The Embrace/Aros.md",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips",
