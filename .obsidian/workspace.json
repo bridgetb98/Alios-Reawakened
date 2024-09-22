@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "0 Alios/Chrylis.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -81,7 +81,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "0 Alios/Chrylis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,8 +224,8 @@
   },
   "active": "0a2a876fde1e80c4",
   "lastOpenFiles": [
-    "0 Alios/Starlanes.md",
     "Home.md",
+    "0 Alios/Starlanes.md",
     "0 Alios/Aberrant.md",
     "Z Core/Z100 Inbox/Holy Metals.md",
     "1 The Embrace/Embrace Design Principles.md",
