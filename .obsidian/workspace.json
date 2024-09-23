@@ -133,6 +133,7 @@
               "state": {
                 "file": "Z Core/Scratch Note.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -218,7 +219,6 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "calendarium:Open Calendarium": false,
       "canvas:Create new canvas": false
     }
   },
