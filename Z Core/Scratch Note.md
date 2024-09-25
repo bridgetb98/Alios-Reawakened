@@ -6,3 +6,6 @@
 - Contractor wants to turn Dain to a living land
 - Quest: Get rid of ‘nuances’
 - Skitz will protect and care for everyone^[Except for Saul]
+
+- oh shit oh fuck, we’ve lied to a high aristocrat of desert hares
+- 

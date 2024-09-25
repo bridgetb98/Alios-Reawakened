@@ -138,7 +138,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -225,15 +226,15 @@
   },
   "active": "c9baaaa20b01b76d",
   "lastOpenFiles": [
-    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips/Prestidigitation.md",
+    "Z Core/Scratch Note.md",
     "1 The Embrace/Skitz.md",
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips/Prestidigitation.md",
     "Home.md",
     "0 Alios/Chrylis.md",
     "0 Alios/Starlanes.md",
     "0 Alios/Aberrant.md",
     "Z Core/Z100 Inbox/Holy Metals.md",
     "1 The Embrace/Embrace Design Principles.md",
-    "Z Core/Scratch Note.md",
     "Z Core/Z400 Archive/The First World.md",
     "Z Core/Z400 Archive/The 5 Concepts.md",
     "Z Core/Z400 Archive/Anchors.md",
