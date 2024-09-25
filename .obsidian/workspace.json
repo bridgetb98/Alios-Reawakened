@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "63ac2f79cb2e538e",
+        "id": "749c4a4ec36c506b",
         "type": "tabs",
         "children": [
           {
-            "id": "c9baaaa20b01b76d",
+            "id": "c2b18c3a597d5753",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -224,12 +224,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c9baaaa20b01b76d",
+  "active": "c2b18c3a597d5753",
   "lastOpenFiles": [
-    "Z Core/Scratch Note.md",
-    "1 The Embrace/Skitz.md",
-    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips/Prestidigitation.md",
     "Home.md",
+    "0 Alios/Alios.md",
+    "1 The Embrace/Skitz.md",
+    "Z Core/Scratch Note.md",
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips/Prestidigitation.md",
     "0 Alios/Chrylis.md",
     "0 Alios/Starlanes.md",
     "0 Alios/Aberrant.md",
@@ -251,7 +252,6 @@
     "0 Alios/Promise.md",
     "0 Alios/Memory.md",
     "1 The Embrace/Dram, Chip, Clips.md",
-    "1 The Embrace/Democratic Republic of Politismós.md",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips",

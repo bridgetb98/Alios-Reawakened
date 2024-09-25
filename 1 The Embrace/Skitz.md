@@ -35,7 +35,7 @@ title: # Skitz
 > **Passive Perception:** 14
 > ```tinychart
 > Max HP, 56
-> Current HP, 41
+> Current HP, 49
 > ```
 > ## Combat
 > | AC | Init | Speed
@@ -146,7 +146,7 @@ A nasally voice that tends to put emphasis on seemingly random words. However, s
 >>	- 60ft
 >>- [[Starlight Step]]
 >>	- 30 ft
->>	- `clock 2/3`
+>>	- `clock 1/3`
 >>- [[Astral Trance]]
 >
 >>[!info|clean no-t] 
@@ -279,7 +279,7 @@ bullets, 4
 >
 >>[!info|clean no-t]
 >> #### Wizard
->> `clock 3/3`
+>> `clock 2/3`
 >> - [[Flaming Sphere]]
 >> - [[Immovable Object]]
 >> - [[Spiderclimb]]
