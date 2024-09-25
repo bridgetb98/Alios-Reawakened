@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "1 The Embrace/Skitz.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -81,7 +81,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "1 The Embrace/Skitz.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -225,8 +225,8 @@
   },
   "active": "c9baaaa20b01b76d",
   "lastOpenFiles": [
-    "0 Alios/Chrylis.md",
     "Home.md",
+    "0 Alios/Chrylis.md",
     "0 Alios/Starlanes.md",
     "0 Alios/Aberrant.md",
     "Z Core/Z100 Inbox/Holy Metals.md",
