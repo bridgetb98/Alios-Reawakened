@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4caecfb6ec4fde2c",
+        "id": "63ac2f79cb2e538e",
         "type": "tabs",
         "children": [
           {
-            "id": "8b30ff8ea031f36a",
+            "id": "c9baaaa20b01b76d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -219,10 +219,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "canvas:Create new canvas": false
+      "canvas:Create new canvas": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "8b30ff8ea031f36a",
+  "active": "c9baaaa20b01b76d",
   "lastOpenFiles": [
     "0 Alios/Chrylis.md",
     "Home.md",
