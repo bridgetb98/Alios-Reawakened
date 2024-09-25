@@ -231,10 +231,10 @@ Hempen rope, 50
 
 **Revolver shots**
 
-`clock 5 / 6`
+`clock 4 / 6`
 
 ```tinychart
-bullets, 5
+bullets, 4
 ```
 
 ## Spells
