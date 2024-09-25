@@ -265,7 +265,7 @@ bullets, 5
 >
 >>[!info|clean no-t]
 >> #### Wizard
->> `clock 4/4`
+>> `clock 3/4`
 >> - [[Disguise Self]]
 >> - [[Grease]]
 >> - [[Magic Missile]]
