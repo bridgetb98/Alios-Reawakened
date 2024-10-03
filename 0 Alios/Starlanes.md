@@ -43,7 +43,7 @@ Note that ships without an [[Aberrant]] chassis can travel off-lane. Fighter jet
 
 ## Anomalous Connections
 
-There are some connections that don’t fit the criteria ‘habitable planetary systems’. Because it is impossible to determine a primordial’s intent,^[And because the suggestion ‘[[Extyx - Primordial Infinity|Extyx]] just thought it was funny’ has been rejected.] these are considered ‘anomalous’. Anomalous lanes include:
+There are some connections that don’t fit the criteria ‘habitable planetary systems’. Because it is impossible to determine a primordial’s intent,^[And because the hypothesis ‘[[Extyx - Primordial Infinity|Extyx]] just thought it was funny’ has been rejected.] these are considered ‘anomalous’. Anomalous lanes include:
 
 - **AC-0000**: A lane connected to the central black hole of [[Alios]].^[see: [[Alios - Primordial Creation|0980.1]]]
 - **AC-0001**: A lane connected to a strange black [[The Veil|veil]]. Speculation is that this might be a habitable system, but the few who have breached [[The Veil]] and survived^[including [[Chrylis]], I might add.] have refused to comment.
