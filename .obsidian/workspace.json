@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ba15a2da5f961ef5",
+        "id": "29a136315d761f90",
         "type": "tabs",
         "children": [
           {
-            "id": "919153a8803f8502",
+            "id": "46d2ba8de1920a1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 The Embrace/Skitz.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 The Embrace/Skitz.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,10 +224,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "919153a8803f8502",
+  "active": "46d2ba8de1920a1d",
   "lastOpenFiles": [
-    "Home.md",
     "1 The Embrace/Skitz.md",
+    "Home.md",
     "0 Alios/Alios.md",
     "Z Core/Scratch Note.md",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips/Prestidigitation.md",
