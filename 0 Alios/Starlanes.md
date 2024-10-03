@@ -49,6 +49,7 @@ There are some connections that don’t fit the criteria ‘habitable planetary 
 - **AC-0001**: A lane connected to a strange black [[The Veil|veil]]. Speculation is that this might be a habitable system, but the few who have breached [[The Veil]] and survived^[including [[Chrylis]], I might add.] have refused to comment.
 - **AC-0100**: Some lanes surrounding systems with dead planets labeled ‘[[Aspect Lost]]’. Usually a system losing their aspects causes the lane to be broken.^[I wonder if this means the lanes are somehow bound to the [[Aspects]]. More research needed here.]
 - **AC-0101**: Lanes leading into the middle of deep space.
+- **AC-0200**: [[Warp Lanes]]. Lanes that connect distant systems, seemingly folding space.
 
 ---
 
