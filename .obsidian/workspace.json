@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "1 The Embrace/Skitz.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "1 The Embrace/Skitz.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,8 +226,8 @@
   },
   "active": "919153a8803f8502",
   "lastOpenFiles": [
-    "1 The Embrace/Skitz.md",
     "Home.md",
+    "1 The Embrace/Skitz.md",
     "0 Alios/Alios.md",
     "Z Core/Scratch Note.md",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips/Prestidigitation.md",

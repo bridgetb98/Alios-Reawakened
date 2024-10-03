@@ -136,50 +136,46 @@ A nasally voice that tends to put emphasis on seemingly random words. However, s
 
 ## Feats
 
->[!column|no-t]
->>[!info|clean no-t]
->> ### Species
->>
->>- [[Astral Fire]]
->>	- Sacred Flame
->>- [[Darkvision]]
->>	- 60ft
->>- [[Starlight Step]]
->>	- 30 ft
->>	- `clock 1/3`
->>- [[Astral Trance]]
->
->>[!info|clean no-t] 
->>### Background
->> - [[Criminal Specialty]]
->> 	- Mass Murderer
->> - [[Criminal Contract]]
 
->[!column|no-t]
->>[!info|clean no-t]
->>### Ranger
->>- [[Favored Foe]]
->>	- `clock 3/3`
->>- [[Deft Explorer]]
->>	- Canny
->>		- Stealth
->>- [[Primal Awareness]]
->>- [[Ranger Conclave]]
->>	- Swarmkeeper
->>- [[Gathered Swarm]]
->>	- Playful Pixies
->>- [[Swarmkeeper Magic]]
->
->>[!info|clean no-t]
->>### Wizard
->>- [[Spellcasting]]
->>- [[Arcane Recovery]]
->>	- 2 levels
->>	- `clock 2/2`
->>- [[Chronal Shift]]
->>	- 30ft
->>	- `clock 2/2`
->>- [[Temporal Awareness]]
+### Species
+
+ - [[Astral Fire]]
+	- Sacred Flame
+- [[Darkvision]]
+	- 60ft
+- [[Starlight Step]]
+	- 30 ft
+	- `clock 1/3`
+- [[Astral Trance]]
+
+### Background
+
+- [[Criminal Specialty]]
+	- Mass Murderer
+- [[Criminal Contract]]
+
+### Ranger
+- [[Favored Foe]]
+	- `clock 3/3`
+- [[Deft Explorer]]
+	- Canny
+		- Stealth
+- [[Primal Awareness]]
+- [[Ranger Conclave]]
+	- Swarmkeeper
+- [[Gathered Swarm]]
+	- Playful Pixies
+- [[Swarmkeeper Magic]]
+
+### Wizard
+- [[Spellcasting]]
+- [[Arcane Recovery]]
+	- 2 levels
+	- `clock 2/2`
+- [[Chronal Shift]]
+	- 30ft
+	- `clock 2/2`
+- [[Temporal Awareness]]
 
 ### Misc
 
