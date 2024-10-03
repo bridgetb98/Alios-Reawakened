@@ -1,3 +1,5 @@
+## Session 1
+
 - Goblin == Italians
 - Saul has got bitch-slapped and nearly died ~~:.|:;~~
 - Fleshwine made from fleshberry wine soaked in blood
@@ -7,5 +9,6 @@
 - Quest: Get rid of ‘nuances’
 - Skitz will protect and care for everyone^[Except for Saul]
 
+## Session 2
+
 - oh shit oh fuck, we’ve lied to a high aristocrat of desert hares
-- 
