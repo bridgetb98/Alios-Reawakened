@@ -35,3 +35,7 @@ The effects of wild magic has caused the climate of Dain to be completely out of
 ---
 
 # Reference
+
+## Quick notes
+
+- Smaller factions exist, but usually survive usually by being sponsored by the bigger factions MLM style

@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "485dd24a3b1cf511",
+        "id": "93f693590621a99d",
         "type": "tabs",
         "children": [
           {
-            "id": "c1cb4ad9c0465c0f",
+            "id": "b6f49d73a3bf3a27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Alios/Starlanes.md",
-                "mode": "preview",
+                "file": "1 The Embrace/Dain.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Starlanes"
+              "title": "Dain"
             }
           }
         ],
@@ -89,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 Alios/Starlanes.md",
+                "file": "1 The Embrace/Dain.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -132,7 +132,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Starlanes"
+              "title": "Graph of Dain"
             }
           },
           {
@@ -154,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5,
-    "collapsed": true
+    "width": 338.5
   },
   "right": {
     "id": "2b4a00d1dd57de11",
@@ -164,7 +163,6 @@
       {
         "id": "29591070685fa210",
         "type": "tabs",
-        "dimension": 75.80952380952381,
         "children": [
           {
             "id": "fa4d2d90fd4fa96d",
@@ -172,18 +170,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          },
-          {
-            "id": "e29afc944a58696a",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -201,34 +189,46 @@
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "d7e43f98c7d4469a",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "0add4af3278c4fa4",
-        "type": "tabs",
-        "dimension": 24.19047619047619,
-        "children": [
+          },
           {
-            "id": "2c1d20c920c7ce79",
+            "id": "f56a648b108cf331",
             "type": "leaf",
             "state": {
-              "type": "fantasy-statblocks-creature-pane",
+              "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "skull",
-              "title": "Combatant"
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "33ee4824470224d6",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,12 +242,18 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "canvas:Create new canvas": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "c1cb4ad9c0465c0f",
+  "active": "b6f49d73a3bf3a27",
   "lastOpenFiles": [
+    "Z Core/Z300 MOC/Dain (MOC).md",
+    "Z Core/Z000 Index/D.md",
+    "Z Core/Z000 Index/C.md",
     "Home.md",
+    "0 Alios/Starlanes.md",
     "0 Alios/Aberrant.md",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd/Wristpocket.md",
     "1 The Embrace/Dram, Chip, Clips.md",
@@ -262,7 +268,6 @@
     "1 The Embrace/Skitz.md",
     "0 Alios/Alios.md",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips/Prestidigitation.md",
-    "0 Alios/Starlanes.md",
     "1 The Embrace/Embrace Design Principles.md",
     "Z Core/Z400 Archive/The First World.md",
     "Z Core/Z400 Archive/The 5 Concepts.md",
@@ -270,9 +275,6 @@
     "Z Core/Z400 Archive/Spirit.md",
     "Z Core/Z400 Archive/Petal Weavers.md",
     "0 Alios/Elves.md",
-    "Z Core/Z300 MOC/Characters.md",
-    "Z Core/Z000 Index/C.md",
-    "0 Alios/Zahdum - Primordial Spirit.md",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips",
