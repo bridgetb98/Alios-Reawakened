@@ -1,6 +1,7 @@
 ---
 ID: "20241108135711"
-aliases: 
+aliases:
+  - 0617.1.1
 tags:
   - species/sapient/silicate
 North: 
@@ -12,13 +13,19 @@ West:
 title: # Flamekin
 ```
 
-Flamekin is the name given to the species created by the aspect of [[Conservation]]. They’re similar to [[Fire Elemental]]s, except for the fact that they have the ability to generate, store, and transfer energy in the form of heat.^[see:"]
+Flamekin is the name given to the species created by the aspect of [[Conservation]]. They’re similar to [[Fire Elemental]]s, except for the fact that they have the ability to generate, store, and transfer energy in the form of heat.^[see: [[Flamecraft]]]
 
 # Anatomy & Morphology
 
-*physical design of the species, number of limbs, muscular and skeletal structure etc.*
+Flamekin have a gelatine body that glows in a multitude of colors, depending on race. The vulnerable body has an outer slate shell. It is a cultural practice to remove parts of this shell for aesthetic reasons.^[see:" [[Flamekin Engraving]]] They have [[Elves|Elven]] body types, but are taller than the average [[Elves|Elf]]-based species.
 
-**Average Height**:
+Dissection has provided the following information:
+- The species is a silicate lifeform.
+- Nutrients and neurons flow freely inside the gel-like substance of the body.
+- Eyes are pressent.
+- Flame glands are pressant on the head, armpits, and soles of the feet.
+
+**Average Height**: 1m85
 
 **Average Weight**:
 

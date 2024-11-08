@@ -239,7 +239,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -262,10 +262,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d6a0242c8daea3b1",
+  "active": "f56a648b108cf331",
   "lastOpenFiles": [
-    "Home.md",
+    "0 Alios/Elves.md",
+    "Z Core/Z000 Index/0 Alios.md",
     "Z Core/Z100 Inbox/Flamekin.md",
+    "Home.md",
     "1 The Embrace/Dain.md",
     "Z Core/Z300 MOC/Dain (MOC).md",
     "Z Core/Z000 Index/D.md",
@@ -288,8 +290,6 @@
     "1 The Embrace/Embrace Design Principles.md",
     "Z Core/Z400 Archive/The First World.md",
     "Z Core/Z400 Archive/The 5 Concepts.md",
-    "Z Core/Z400 Archive/Anchors.md",
-    "Z Core/Z400 Archive/Spirit.md",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips",
