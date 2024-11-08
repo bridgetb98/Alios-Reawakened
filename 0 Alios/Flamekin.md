@@ -4,7 +4,8 @@ aliases:
   - 0617.1.1
 tags:
   - species/sapient/silicate
-North: 
+North:
+  - "[[Elves|0617.1]]"
 East: 
 South: 
 West:

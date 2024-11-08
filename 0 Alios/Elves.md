@@ -6,7 +6,8 @@ aliases:
 tags:
   - species/sapient/organic
 North: 
-East: 
+East:
+  - "[[Flamekin|0617.1.1]]"
 South: 
 West:
 ---

@@ -11,34 +11,13 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "d6a0242c8daea3b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z Core/Z100 Inbox/Flamekin.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Flamekin"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +83,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Z Core/Z100 Inbox/Flamekin.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -147,7 +125,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Flamekin"
+              "title": "Graph view"
             }
           },
           {
@@ -262,19 +240,22 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f56a648b108cf331",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "0 Alios/Thera - Primordial Matter.md",
+    "Home.md",
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd/Wristpocket.md",
+    "Z Core/Z300 MOC/Species.md",
+    "Z Core/Z000 Index/S.md",
+    "0 Alios/Flamekin.md",
     "0 Alios/Elves.md",
     "Z Core/Z000 Index/0 Alios.md",
-    "Z Core/Z100 Inbox/Flamekin.md",
-    "Home.md",
     "1 The Embrace/Dain.md",
     "Z Core/Z300 MOC/Dain (MOC).md",
     "Z Core/Z000 Index/D.md",
     "Z Core/Z000 Index/C.md",
     "0 Alios/Starlanes.md",
     "0 Alios/Aberrant.md",
-    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd/Wristpocket.md",
     "1 The Embrace/Dram, Chip, Clips.md",
     "0 Alios/Alios - Primordial Creation.md",
     "0 Alios/Ambition.md",
@@ -287,9 +268,6 @@
     "1 The Embrace/Skitz.md",
     "0 Alios/Alios.md",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips/Prestidigitation.md",
-    "1 The Embrace/Embrace Design Principles.md",
-    "Z Core/Z400 Archive/The First World.md",
-    "Z Core/Z400 Archive/The 5 Concepts.md",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips",
