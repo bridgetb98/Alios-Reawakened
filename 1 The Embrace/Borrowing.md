@@ -16,7 +16,7 @@ West:
 
 ## Abilities
 
-Borrowing allows a user, from here on out called a [[Borrower]], to share their mind with another creature. A [[Borrower]] can feel the senses of said creature and interpret their thoughts. Through subtle suggestion a trained [[borrower]] can even slightly influence the creature’s actions.
+Borrowing allows a user, from here on out called a [[Borrower]], to share their mind with another creature. A [[Borrower]] can feel the senses of said creature and interpret their thoughts. Through subtle suggestion a trained [[Borrower]] can even slightly influence the creature’s actions.
 
 It is possible to fully control another creature’s mind. This is a one time deal, however. Taking ownership of another’s mind requires that mind to be completely empty. This power crushes the soul of the creature, leaving them dead at the end of the borrow.
 

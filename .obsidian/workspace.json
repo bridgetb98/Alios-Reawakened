@@ -11,10 +11,15 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "0 Alios/Flamekin.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Flamekin"
             }
           }
         ]
@@ -83,6 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "0 Alios/Flamekin.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,12 +126,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5087618855792599,
+                  "scale": 0.2588386562181634,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Flamekin"
             }
           },
           {
@@ -192,6 +198,7 @@
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
+              "state": {},
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
@@ -236,12 +243,12 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "canvas:Create new canvas": false,
       "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false,
-      "calendarium:Open Calendarium": false
+      "homepage:Open homepage": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Z Core/Z100 Inbox/Borrower.md",
     "0 Alios/Thera - Primordial Matter.md",
     "Home.md",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd/Wristpocket.md",
@@ -267,7 +274,6 @@
     "Z Core/Scratch Note.md",
     "1 The Embrace/Skitz.md",
     "0 Alios/Alios.md",
-    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips/Prestidigitation.md",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips",
