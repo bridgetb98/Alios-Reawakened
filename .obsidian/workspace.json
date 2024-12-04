@@ -13,16 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Alios/Flamekin.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flamekin"
+              "title": "Home"
+            }
+          },
+          {
+            "id": "a58b0021503cbc28",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 Alios/Flamekin.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +143,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Flamekin"
+              "title": "Graph view"
             }
           },
           {
@@ -243,18 +255,19 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "canvas:Create new canvas": false,
       "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a58b0021503cbc28",
   "lastOpenFiles": [
+    "Home.md",
+    "0 Alios/Flamekin.md",
     "Z Core/Z100 Inbox/Borrower.md",
     "0 Alios/Thera - Primordial Matter.md",
-    "Home.md",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd/Wristpocket.md",
     "Z Core/Z300 MOC/Species.md",
     "Z Core/Z000 Index/S.md",
-    "0 Alios/Flamekin.md",
     "0 Alios/Elves.md",
     "Z Core/Z000 Index/0 Alios.md",
     "1 The Embrace/Dain.md",
