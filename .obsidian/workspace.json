@@ -13,29 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "0 Alios/Extyx - Primordial Infinity.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "a58b0021503cbc28",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "title": "Extyx - Primordial Infinity"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "race",
+                "query": "tag:deity/primmordial",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +75,8 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e40db03f820cc6eb",
@@ -101,6 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "0 Alios/Extyx - Primordial Infinity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,7 +132,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Extyx - Primordial Infinity"
             }
           },
           {
@@ -259,8 +248,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a58b0021503cbc28",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "0 Alios/Void - Primordial Energy.md",
+    "0 Alios/Zahdum - Primordial Spirit.md",
+    "0 Alios/Alios - Primordial Creation.md",
+    "0 Alios/Alios.md",
     "Home.md",
     "0 Alios/Flamekin.md",
     "Z Core/Z100 Inbox/Borrower.md",
@@ -277,16 +270,12 @@
     "0 Alios/Starlanes.md",
     "0 Alios/Aberrant.md",
     "1 The Embrace/Dram, Chip, Clips.md",
-    "0 Alios/Alios - Primordial Creation.md",
     "0 Alios/Ambition.md",
     "0 Alios/Ancient Words.md",
     "0 Alios/Belief.md",
     "0 Alios/Chrylis.md",
     "Z Core/Z300 MOC/Slavers.md",
     "Z Core/Z100 Inbox/Holy Metals.md",
-    "Z Core/Scratch Note.md",
-    "1 The Embrace/Skitz.md",
-    "0 Alios/Alios.md",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips",
