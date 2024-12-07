@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "1 The Embrace/Skitz.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Z Core/Scratch Note.md",
+                "file": "1 The Embrace/Skitz.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +131,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Scratch Note"
+              "title": "Graph of Skitz"
             }
           },
           {
@@ -249,10 +249,10 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "9efec59f38fa8393",
+  "active": "a693613590fac77f",
   "lastOpenFiles": [
-    "1 The Embrace/Skitz.md",
     "Z Core/Scratch Note.md",
+    "1 The Embrace/Skitz.md",
     "Home.md",
     "Y TTRPG/Y100 Players/Bridget A.M. Bleij.md",
     "0 Alios/Extyx - Primordial Infinity.md",
