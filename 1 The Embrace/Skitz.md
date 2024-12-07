@@ -70,7 +70,13 @@ Charge: DAIN
 
 ## Drive
 
+### Want
 
+Everyone to be in FEAR or in AWE of her mighty magical powers
+
+### Need
+
+To be part of a group
 
 ---
 
