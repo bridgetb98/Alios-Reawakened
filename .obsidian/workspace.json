@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Y TTRPG/Y100 Players/Bridget A.M. Bleij.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Bridget A.M. Bleij"
             }
           }
         ]
@@ -34,7 +34,7 @@
       {
         "id": "e37706a1da410ced",
         "type": "tabs",
-        "dimension": 79.64266377910124,
+        "dimension": 71.34502923976608,
         "children": [
           {
             "id": "4f3d39bd54af80a0",
@@ -80,7 +80,7 @@
       {
         "id": "e40db03f820cc6eb",
         "type": "tabs",
-        "dimension": 20.357336220898755,
+        "dimension": 28.654970760233915,
         "children": [
           {
             "id": "d885099731e38967",
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "Y TTRPG/Y100 Players/Bridget A.M. Bleij.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +131,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of Bridget A.M. Bleij"
             }
           },
           {
