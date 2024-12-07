@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "1 The Embrace/Skitz.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
@@ -22,7 +22,8 @@
               "title": "Skitz"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -165,36 +166,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fa4d2d90fd4fa96d",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "64ad3fd578ff914f",
-            "type": "leaf",
-            "state": {
-              "type": "PROGRESS_CLOCKS_VIEW",
-              "state": {},
-              "icon": "pie-chart",
-              "title": "Progress Clocks"
-            }
-          },
-          {
-            "id": "946724177b00a2d4",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
             "id": "d7e43f98c7d4469a",
             "type": "leaf",
             "state": {
@@ -221,6 +192,16 @@
               "state": {},
               "icon": "dices",
               "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "f1691445ab293ef6",
+            "type": "leaf",
+            "state": {
+              "type": "PROGRESS_CLOCKS_VIEW",
+              "state": {},
+              "icon": "pie-chart",
+              "title": "Progress Clocks"
             }
           }
         ],
@@ -249,7 +230,7 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "a693613590fac77f",
+  "active": "33ee4824470224d6",
   "lastOpenFiles": [
     "Z Core/Scratch Note.md",
     "1 The Embrace/Skitz.md",

@@ -61,7 +61,7 @@ Charge: Death penalty
 [Argument Defense]
 The defendant merely called a curse on their fellow students after a bullying incident stemming from jealousy in the defendant's magical prowess. The victim, in turn cursed the defendant by REDACTED. Thusly, the punishment shouldn't be as harsh as the victims' living family desires.
 [Argument Prosecution]
-The evidence clearly shows that the defendant hadn't used magic on the victims of any kind, as a detect magic spell on both the bodies and living relatives clearly shows. An autopsy on multiple victims had been authorised, and both the testimonials and  shows that they died from being shot. Most commonly in the chest. Further research shows that the bullets are a near complete match with the defendant's Gnomish weapon.
+The evidence clearly shows that the defendant hadn't used magic on the victims of any kind, as a detect magic spell on both the bodies and living relatives clearly shows. An autopsy on multiple victims had been authorised, and both the testimonials and evidence shows that they died from being shot. Most commonly in the chest. Further research shows that the bullets are a near complete match with the defendant's Gnomish weapon.
 [Judgement]
 Crime: Mass murder of the Dellea family with a weapon of Gnomish ancestry.
 Charge: DAIN

@@ -1,5 +1,17 @@
 {
   "state": {
-    "sections": []
+    "sections": [
+      {
+        "name": "Section 1",
+        "children": [
+          {
+            "type": "clock",
+            "name": "Clock 1",
+            "segments": 3,
+            "filled": 3
+          }
+        ]
+      }
+    ]
   }
 }
