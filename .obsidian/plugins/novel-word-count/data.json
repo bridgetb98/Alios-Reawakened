@@ -5946,8 +5946,8 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 2.0566666666666666,
-      "characterCount": 5378,
-      "nonWhitespaceCharacterCount": 4373,
+      "characterCount": 5377,
+      "nonWhitespaceCharacterCount": 4372,
       "readingTimeInMinutes": 2.328301886792453,
       "linkCount": 36,
       "embedCount": 2,
@@ -5955,8 +5955,8 @@
         "1804.1"
       ],
       "createdDate": 1725273162660,
-      "modifiedDate": 1733604726930,
-      "sizeInBytes": 5500,
+      "modifiedDate": 1733607049457,
+      "sizeInBytes": 5499,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.5533333333333332,

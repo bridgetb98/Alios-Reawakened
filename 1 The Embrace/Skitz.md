@@ -216,7 +216,7 @@ Tinderbox, 1
 Torches, 10
 Rations, 10
 Waterskin, 200
-Hempen rope, 50
+Hempen rope, 0
 ```
 
 - [x] Quarterstaff
