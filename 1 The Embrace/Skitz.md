@@ -35,7 +35,7 @@ title: # Skitz
 > **Passive Perception:** 14
 > ```tinychart
 > Max HP, 56
-> Current HP, 49
+> Current HP, 50
 > ```
 > ## Combat
 > | AC | Init | Speed
