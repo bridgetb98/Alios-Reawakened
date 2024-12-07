@@ -168,6 +168,7 @@ Charge: DAIN
 - [[Criminal Contract]]
 
 ### Ranger
+
 - [[Favored Foe]]
 	- `clock 3/3`
 - [[Deft Explorer]]
@@ -181,6 +182,7 @@ Charge: DAIN
 - [[Swarmkeeper Magic]]
 
 ### Wizard
+
 - [[Spellcasting]]
 - [[Arcane Recovery]]
 	- 2 levels

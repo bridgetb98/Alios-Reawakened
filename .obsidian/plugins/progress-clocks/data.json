@@ -8,7 +8,7 @@
             "type": "clock",
             "name": "1: Ranger",
             "segments": 3,
-            "filled": 3
+            "filled": 2
           },
           {
             "type": "clock",
