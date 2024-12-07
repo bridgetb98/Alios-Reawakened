@@ -145,7 +145,7 @@ A nasally voice that tends to put emphasis on seemingly random words. However, s
 	- 60ft
 - [[Starlight Step]]
 	- 30 ft
-	- `clock 1/3`
+	- `clock 3 / 3`
 - [[Astral Trance]]
 
 ### Background
@@ -234,6 +234,7 @@ bullets, 4
 ```
 
 ## Spells
+
 ### Cantrips
 
 >[!column|no-t]
@@ -261,7 +262,7 @@ bullets, 4
 >
 >>[!info|clean no-t]
 >> #### Wizard
->> `clock 3/4`
+>> `clock 4 / 4`
 >> - [[Disguise Self]]
 >> - [[Grease]]
 >> - [[Magic Missile]]
@@ -275,7 +276,7 @@ bullets, 4
 >
 >>[!info|clean no-t]
 >> #### Wizard
->> `clock 2/3`
+>> `clock 3 / 3`
 >> - [[Flaming Sphere]]
 >> - [[Immovable Object]]
 >> - [[Spiderclimb]]
