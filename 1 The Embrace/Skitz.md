@@ -48,11 +48,25 @@ Skitz is an [[Elves|Elf]] that was sent to [[Dain]] because she “cursed a fami
 
 “Curse you and the legs that walked you here…”
 
-A nasally voice that tends to put emphasis on seemingly random words. However, she choises the words that would cause the best dramatics in this situation 
+A nasally voice that tends to put emphasis on seemingly random words. However, she chooses the words that would cause the best dramatics in this situation 
 
 # Backstory
 
-
+```
+[Criminal Report]
+Name: Vassia 'Skitz' Vitalou
+DoB: N/A
+Accusation: Mass murder of the Dellea family
+Charge: Death penalty
+[Argument Defense]
+The defendant merely called a curse on their fellow students after a bullying incident stemming from jealousy in the defendant's magical prowess. The victim, in turn cursed the defendant by REDACTED. Thusly, the punishment shouldn't be as harsh as the victims' living family desires.
+[Argument Prosecution]
+The evidence clearly shows that the defendant hadn't used magic on the victims of any kind, as a detect magic spell on both the bodies and living relatives clearly shows. An autopsy on multiple victims had been authorised, and both the testimonials and  shows that they died from being shot. Most commonly in the chest. Further research shows that the bullets are a near complete match with the defendant's Gnomish weapon.
+[Judgement]
+Crime: Mass murder of the Dellea family with a weapon of Gnomish ancestry.
+Charge: DAIN
+--={Spíti politismoú}=--
+```
 
 ## Drive
 
@@ -136,7 +150,6 @@ A nasally voice that tends to put emphasis on seemingly random words. However, s
 
 ## Feats
 
-
 ### Species
 
  - [[Astral Fire]]
@@ -145,7 +158,7 @@ A nasally voice that tends to put emphasis on seemingly random words. However, s
 	- 60ft
 - [[Starlight Step]]
 	- 30 ft
-	- `clock 3 / 3`
+	- `clock 1 / 3`
 - [[Astral Trance]]
 
 ### Background
@@ -262,7 +275,7 @@ bullets, 4
 >
 >>[!info|clean no-t]
 >> #### Wizard
->> `clock 4 / 4`
+>> `clock 2 / 3`
 >> - [[Disguise Self]]
 >> - [[Grease]]
 >> - [[Magic Missile]]
@@ -276,7 +289,7 @@ bullets, 4
 >
 >>[!info|clean no-t]
 >> #### Wizard
->> `clock 3 / 3`
+>> `clock 2 / 3`
 >> - [[Flaming Sphere]]
 >> - [[Immovable Object]]
 >> - [[Spiderclimb]]
