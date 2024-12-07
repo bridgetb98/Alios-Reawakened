@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Y TTRPG/Y100 Players/Bridget A.M. Bleij.md",
+                "file": "Z Core/Scratch Note.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +131,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Bridget A.M. Bleij"
+              "title": "Graph of Scratch Note"
             }
           },
           {
@@ -149,7 +149,8 @@
               "title": "Scratch Note"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -248,8 +249,9 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "a693613590fac77f",
+  "active": "9efec59f38fa8393",
   "lastOpenFiles": [
+    "Y TTRPG/Y100 Players/Bridget A.M. Bleij.md",
     "Home.md",
     "0 Alios/Extyx - Primordial Infinity.md",
     "0 Alios/Void - Primordial Energy.md",
@@ -275,7 +277,6 @@
     "0 Alios/Ancient Words.md",
     "0 Alios/Belief.md",
     "0 Alios/Chrylis.md",
-    "Z Core/Z300 MOC/Slavers.md",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips",
