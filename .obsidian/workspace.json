@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 The Embrace/Skitz.md",
+                "file": "Z Core/Scratch Note.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +131,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Skitz"
+              "title": "Graph of Scratch Note"
             }
           },
           {
@@ -249,11 +249,12 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "a693613590fac77f",
+  "active": "9efec59f38fa8393",
   "lastOpenFiles": [
+    "1 The Embrace/Skitz.md",
+    "Z Core/Scratch Note.md",
     "Home.md",
     "Y TTRPG/Y100 Players/Bridget A.M. Bleij.md",
-    "Z Core/Scratch Note.md",
     "0 Alios/Extyx - Primordial Infinity.md",
     "0 Alios/Void - Primordial Energy.md",
     "0 Alios/Zahdum - Primordial Spirit.md",
@@ -276,7 +277,6 @@
     "1 The Embrace/Dram, Chip, Clips.md",
     "0 Alios/Ambition.md",
     "0 Alios/Ancient Words.md",
-    "0 Alios/Belief.md",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips",
