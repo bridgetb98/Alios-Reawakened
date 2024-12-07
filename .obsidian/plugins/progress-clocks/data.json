@@ -2,13 +2,25 @@
   "state": {
     "sections": [
       {
-        "name": "Section 1",
+        "name": "Spell slots Skitz",
         "children": [
           {
             "type": "clock",
-            "name": "Clock 1",
+            "name": "1: Ranger",
             "segments": 3,
             "filled": 3
+          },
+          {
+            "type": "clock",
+            "name": "1: Wizard",
+            "segments": 3,
+            "filled": 2
+          },
+          {
+            "type": "clock",
+            "name": "2: Wizard",
+            "segments": 3,
+            "filled": 2
           }
         ]
       }

@@ -190,7 +190,7 @@ Charge: DAIN
 	- `clock 2/2`
 - [[Temporal Awareness]]
 
-### Misc
+### Misc.
 
 - [[Sentinel]]
 
@@ -267,7 +267,6 @@ bullets, 4
 >[!column|no-t]
 >>[!info|clean no-t]
 >> #### Ranger
->> `clock 3/3`
 >> - [[Entangle]]
 >> - [[Faerie Fire]]
 >> - [[Goodberry]]
@@ -275,7 +274,6 @@ bullets, 4
 >
 >>[!info|clean no-t]
 >> #### Wizard
->> `clock 2 / 3`
 >> - [[Disguise Self]]
 >> - [[Grease]]
 >> - [[Magic Missile]]
@@ -289,7 +287,6 @@ bullets, 4
 >
 >>[!info|clean no-t]
 >> #### Wizard
->> `clock 2 / 3`
 >> - [[Flaming Sphere]]
 >> - [[Immovable Object]]
 >> - [[Spiderclimb]]
