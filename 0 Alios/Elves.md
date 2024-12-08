@@ -3,6 +3,7 @@ ID: "20240521153256"
 aliases:
   - "0617.1"
   - Elf
+  - Elven
 tags:
   - species/sapient/organic
 North: 

@@ -6993,11 +6993,12 @@
       "embedCount": 0,
       "aliases": [
         "0617.1",
-        "Elf"
+        "Elf",
+        "Elven"
       ],
       "createdDate": 1716298373685,
-      "modifiedDate": 1731071501680,
-      "sizeInBytes": 1488,
+      "modifiedDate": 1733651686057,
+      "sizeInBytes": 1498,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.6633333333333333,
@@ -7009,7 +7010,8 @@
         "ID": "20240521153256",
         "aliases": [
           "0617.1",
-          "Elf"
+          "Elf",
+          "Elven"
         ],
         "tags": [
           "species/sapient/organic"
@@ -7599,6 +7601,42 @@
         ],
         "tags": [
           "material/metal"
+        ],
+        "North": null,
+        "East": null,
+        "South": null,
+        "West": null
+      }
+    },
+    "Z Core/Z100 Inbox/Golemancy.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 95,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.31666666666666665,
+      "characterCount": 619,
+      "nonWhitespaceCharacterCount": 503,
+      "readingTimeInMinutes": 0.3584905660377358,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1733651455161,
+      "modifiedDate": 1733651844299,
+      "sizeInBytes": 707,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "ID": "20241208105107",
+        "aliases": null,
+        "tags": [
+          "magic/hard"
         ],
         "North": null,
         "East": null,
