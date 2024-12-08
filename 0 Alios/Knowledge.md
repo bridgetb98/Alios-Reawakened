@@ -34,6 +34,8 @@ West:
 
 ## Magic
 
+- [[Golemancy]]
+
 ---
 
 # Reference

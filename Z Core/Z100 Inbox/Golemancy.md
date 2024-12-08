@@ -30,7 +30,9 @@ A single person can passively control up to ten ($10$) [[Golem]]s, and can contr
 
 ## Cost
 
-To create a [[Golem]]
+To create a [[Golem]],  you need a creation [[Glyph]]. These discs contain the pattern to call, bind, and control the [[spirits|spirit]].
+
+[[Binding]] requires 
 
 ## Experience
 

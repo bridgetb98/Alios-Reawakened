@@ -36,5 +36,7 @@ Community / protection
 
 ## Magic
 
+- [[Golemancy]]
+
 ---
 # Reference
