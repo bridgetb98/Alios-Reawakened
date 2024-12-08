@@ -1,9 +1,11 @@
 ---
 ID: "20241208105107"
-aliases: 
+aliases:
+  - "1429.2"
 tags:
   - magic/hard
-North: 
+North:
+  - "[[Borrowing|1429.1]]"
 East: 
 South: 
 West:
@@ -14,11 +16,13 @@ title: # Golemancy
 
 Golemancy is the magic linked to [[Knowledge]] and [[Memory]].
 
+# Magic
+
 ## Abilities
 
 Golemancy binds a [[Spirits|spirit]] to a mechanical or materialistic body. The closer the body is to an [[Elves|elven]] one, the longer the spirit remains bound.
 
-When creating a [[Golem]], it is given a single command. It tries to fulfil this command to the best of its abilities. Once the command has been fulfilled, the [[Golem]] goes into an inactive state where the creation [[Glyphs|glyph]] is exposed.
+When creating a [[Golem]], it is given a single command. It tries to fulfil this command to the best of its abilities. Once the command has been fulfilled, the [[Golem]] goes into an inactive state where the creation [[Glyphs|Glyph]] is exposed.
 
 ## Limits
 
@@ -30,13 +34,13 @@ A single person can passively control up to ten ($10$) [[Golem]]s, and can contr
 
 ## Cost
 
-To create a [[Golem]],  you need a creation [[Glyph]]. These discs contain the pattern to call, bind, and control the [[spirits|spirit]].
+To create a [[Golem]],  you need a creation [[Glyphs|Glyph]]. These discs contain the pattern to call, bind, and control the [[Spirits|spirit]].
 
-[[Binding]] requires 
+[[Binding]] requires a bit of [[Attention]]. Thus, no external energy source can be used to power the [[Glyphs|Glyph]].
 
 ## Experience
 
-*What does this magic feel like to use*
+Once a [[Golem]] has been created, the [[Golemancer]] will have a permanent feeling of a separate consciousness trying to occupy their brain. Handling more [[Golem]]s than the [[Golemancer]] can handle, causes them to go brain dead. The created [[Golem]]s, however, will still follow their order until completion.
 
 ---
 

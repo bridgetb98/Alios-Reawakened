@@ -2856,19 +2856,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 7,
+      "wordCount": 8,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.023333333333333334,
-      "characterCount": 87,
-      "nonWhitespaceCharacterCount": 75,
-      "readingTimeInMinutes": 0.026415094339622643,
-      "linkCount": 5,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 103,
+      "nonWhitespaceCharacterCount": 89,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1716296059795,
-      "modifiedDate": 1722860893368,
-      "sizeInBytes": 108,
+      "modifiedDate": 1733653355230,
+      "sizeInBytes": 124,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.023333333333333334,
@@ -6780,8 +6780,8 @@
         "1429.1"
       ],
       "createdDate": 1717418825850,
-      "modifiedDate": 1731072422900,
-      "sizeInBytes": 2894,
+      "modifiedDate": 1733653398620,
+      "sizeInBytes": 2920,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.5166666666666666,
@@ -6799,7 +6799,9 @@
         ],
         "North": null,
         "East": null,
-        "South": null,
+        "South": [
+          "[[Golemancy|1429.2]]"
+        ],
         "West": null
       }
     },
@@ -7608,23 +7610,25 @@
         "West": null
       }
     },
-    "Z Core/Z100 Inbox/Golemancy.md": {
+    "1 The Embrace/Golemancy.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 223,
+      "wordCount": 279,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.7433333333333333,
-      "characterCount": 1458,
-      "nonWhitespaceCharacterCount": 1210,
-      "readingTimeInMinutes": 0.8415094339622642,
-      "linkCount": 20,
+      "pageCount": 0.93,
+      "characterCount": 1846,
+      "nonWhitespaceCharacterCount": 1541,
+      "readingTimeInMinutes": 1.0528301886792453,
+      "linkCount": 27,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [
+        "1429.2"
+      ],
       "createdDate": 1733651455161,
-      "modifiedDate": 1733653045339,
-      "sizeInBytes": 1550,
+      "modifiedDate": 1733653543005,
+      "sizeInBytes": 1976,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7634,11 +7638,15 @@
       },
       "frontmatter": {
         "ID": "20241208105107",
-        "aliases": null,
+        "aliases": [
+          "1429.2"
+        ],
         "tags": [
           "magic/hard"
         ],
-        "North": null,
+        "North": [
+          "[[Borrowing|1429.1]]"
+        ],
         "East": null,
         "South": null,
         "West": null

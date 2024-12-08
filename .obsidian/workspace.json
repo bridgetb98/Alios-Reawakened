@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z Core/Z100 Inbox/Golemancy.md",
-                "mode": "source",
+                "file": "1 The Embrace/Skitz.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Golemancy"
+              "title": "Skitz"
             }
           }
         ],
@@ -89,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Z Core/Z100 Inbox/Golemancy.md",
+                "file": "1 The Embrace/Skitz.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -132,7 +132,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Golemancy"
+              "title": "Graph of Skitz"
             }
           },
           {
@@ -221,8 +221,11 @@
   },
   "active": "fc77f74cd43cd181",
   "lastOpenFiles": [
+    "1 The Embrace/Golemancy.md",
+    "1 The Embrace/Borrowing.md",
+    "Z Core/Z000 Index/M.md",
+    "Z Core/Z300 MOC/Magic.md",
     "0 Alios/Memory.md",
-    "Z Core/Z100 Inbox/Golemancy.md",
     "0 Alios/Knowledge.md",
     "0 Alios/Elves.md",
     "Home.md",
@@ -244,9 +247,6 @@
     "1 The Embrace/Dain.md",
     "Z Core/Z300 MOC/Dain (MOC).md",
     "Z Core/Z000 Index/D.md",
-    "Z Core/Z000 Index/C.md",
-    "0 Alios/Starlanes.md",
-    "0 Alios/Aberrant.md",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips",

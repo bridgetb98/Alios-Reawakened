@@ -6,7 +6,8 @@ tags:
   - magic/hard
 North: 
 East: 
-South: 
+South:
+  - "[[Golemancy|1429.2]]"
 West:
 ---
 # Borrowing
