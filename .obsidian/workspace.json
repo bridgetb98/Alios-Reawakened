@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.1 Session Notes/Y304.1.1 PRE/Session 5 PRE.md",
+                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.1 Session Notes/Y304.1.2 IN/Session 5 IN.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 5 PRE"
+              "title": "Session 5 IN"
             }
           }
         ]
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.1 Session Notes/Y304.1.1 PRE/Session 5 PRE.md",
+                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.1 Session Notes/Y304.1.2 IN/Session 5 IN.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +131,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Session 5 PRE"
+              "title": "Graph of Session 5 IN"
             }
           },
           {
@@ -212,12 +212,17 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "canvas:Create new canvas": false,
       "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.1 Session Notes/Y304.1.2 IN/Session 3 IN.md",
+    "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.1 Session Notes/Y304.1.2 IN/Session 2 IN.md",
     "Home.md",
+    "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.1 Session Notes/Y304.1.1 PRE/Session 5 PRE.md",
     "Z Core/Z300 MOC/Ho'okalakupuan (MOC).md",
     "1 The Embrace/Skitz.md",
     "1 The Embrace/Golemancy.md",
@@ -240,9 +245,6 @@
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd/Wristpocket.md",
     "Z Core/Z300 MOC/Species.md",
     "Z Core/Z000 Index/S.md",
-    "Z Core/Z000 Index/0 Alios.md",
-    "1 The Embrace/Dain.md",
-    "Z Core/Z300 MOC/Dain (MOC).md",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips",
