@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.1 Session Notes/Y304.1.2 IN/Session 5 IN.md",
+                "file": "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.3 POST/CF2 Session 14 POST.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 5 IN"
+              "title": "CF2 Session 14 POST"
             }
           }
         ]
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.1 Session Notes/Y304.1.2 IN/Session 5 IN.md",
+                "file": "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.3 POST/CF2 Session 14 POST.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +131,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Session 5 IN"
+              "title": "Graph of CF2 Session 14 POST"
             }
           },
           {
@@ -219,6 +219,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.1 Session Notes/Y304.1.2 IN/Session 5 IN.md",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.1 Session Notes/Y304.1.2 IN/Session 3 IN.md",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.1 Session Notes/Y304.1.2 IN/Session 2 IN.md",
     "Home.md",
@@ -244,7 +245,6 @@
     "0 Alios/Thera - Primordial Matter.md",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd/Wristpocket.md",
     "Z Core/Z300 MOC/Species.md",
-    "Z Core/Z000 Index/S.md",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips",
