@@ -74,40 +74,29 @@
     "debugMode": false
   },
   "cachedCounts": {
-    "Z Core/Z400 Archive/The 5 Concepts.md": {
+    "Z Core/Scratch Note.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 233,
+      "wordCount": 71,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.7766666666666666,
-      "characterCount": 1428,
-      "nonWhitespaceCharacterCount": 1173,
-      "readingTimeInMinutes": 0.879245283018868,
+      "pageCount": 0.23666666666666666,
+      "characterCount": 454,
+      "nonWhitespaceCharacterCount": 368,
+      "readingTimeInMinutes": 0.2679245283018868,
       "linkCount": 0,
-      "embedCount": 1,
+      "embedCount": 0,
       "aliases": null,
-      "createdDate": 1716625831898,
-      "modifiedDate": 1716625874270,
-      "sizeInBytes": 1510,
+      "createdDate": 1725272993450,
+      "modifiedDate": 1727935410496,
+      "sizeInBytes": 460,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.7766666666666666,
-        "wordCount": 233,
-        "characterCount": 1428,
-        "nonWhitespaceCharacterCount": 1173
-      },
-      "frontmatter": {
-        "ID": "20240525103042",
-        "aliases": null,
-        "tags": [
-          "idea"
-        ],
-        "North": null,
-        "East": null,
-        "South": null,
-        "West": null
+        "pageCount": 0.23666666666666666,
+        "wordCount": 71,
+        "characterCount": 454,
+        "nonWhitespaceCharacterCount": 368
       }
     },
     "Z Core/Z400 Archive/Spirit.md": {
@@ -182,40 +171,29 @@
         "West": null
       }
     },
-    "Z Core/Z400 Archive/Anchors.md": {
+    "Z Core/Z400 Archive/The 5 Concepts.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 169,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.5633333333333334,
-      "characterCount": 1071,
-      "nonWhitespaceCharacterCount": 880,
-      "readingTimeInMinutes": 0.6377358490566037,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1716625831898,
-      "modifiedDate": 1726751449779,
-      "sizeInBytes": 1153,
+      "modifiedDate": 1716625874270,
+      "sizeInBytes": 1510,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.5633333333333334,
-        "wordCount": 169,
-        "characterCount": 1071,
-        "nonWhitespaceCharacterCount": 880
-      },
-      "frontmatter": {
-        "ID": "20240525103121",
-        "aliases": null,
-        "tags": [
-          "idea"
-        ],
-        "North": null,
-        "East": null,
-        "South": null,
-        "West": null
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "Z Core/Z400 Archive/Petal Weavers.md": {
@@ -243,7 +221,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Z Core/Z300 MOC/Øysamling (MOC).md": {
+    "Z Core/Z400 Archive/Anchors.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -257,9 +235,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1716295151797,
-      "modifiedDate": 1716295162102,
-      "sizeInBytes": 46,
+      "createdDate": 1716625831898,
+      "modifiedDate": 1726751449779,
+      "sizeInBytes": 1153,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -293,56 +271,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Z Core/Z300 MOC/Wedi Coli (MOC).md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716295645206,
-      "modifiedDate": 1716295659614,
-      "sizeInBytes": 44,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Z Core/Z300 MOC/Species.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716294908726,
-      "modifiedDate": 1731071516524,
-      "sizeInBytes": 71,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Z Core/Z300 MOC/Weather.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -368,7 +296,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Z Core/Z300 MOC/Seasons.md": {
+    "Z Core/Z300 MOC/Øysamling (MOC).md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -382,9 +310,34 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1716626107561,
-      "modifiedDate": 1716626117147,
-      "sizeInBytes": 33,
+      "createdDate": 1716295151797,
+      "modifiedDate": 1716295162102,
+      "sizeInBytes": 46,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Z Core/Z300 MOC/Wedi Coli (MOC).md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716295645206,
+      "modifiedDate": 1716295659614,
+      "sizeInBytes": 44,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -418,7 +371,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Z Core/Z300 MOC/Politismós (MOC).md": {
+    "Z Core/Z300 MOC/Species.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -432,9 +385,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1716294570327,
-      "modifiedDate": 1716294585763,
-      "sizeInBytes": 62,
+      "createdDate": 1716294908726,
+      "modifiedDate": 1731071516524,
+      "sizeInBytes": 71,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -459,6 +412,81 @@
       "aliases": [],
       "createdDate": 1722861412496,
       "modifiedDate": 1722861427529,
+      "sizeInBytes": 46,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Z Core/Z300 MOC/Seasons.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716626107561,
+      "modifiedDate": 1716626117147,
+      "sizeInBytes": 33,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Z Core/Z300 MOC/Olpen (MOC).md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716295488751,
+      "modifiedDate": 1716295591897,
+      "sizeInBytes": 64,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Z Core/Z300 MOC/Propadanje (MOC).md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716295385555,
+      "modifiedDate": 1716295400732,
       "sizeInBytes": 46,
       "sessionStart": {
         "noteCount": 0,
@@ -493,7 +521,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Z Core/Z300 MOC/Propadanje (MOC).md": {
+    "Z Core/Z300 MOC/Politismós (MOC).md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -507,134 +535,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1716295385555,
-      "modifiedDate": 1716295400732,
-      "sizeInBytes": 46,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Z Core/Z300 MOC/Plant.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1717227276538,
-      "modifiedDate": 1717227289972,
-      "sizeInBytes": 38,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Z Core/Z300 MOC/Olpen (MOC).md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716295488751,
-      "modifiedDate": 1716295591897,
-      "sizeInBytes": 64,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Z Core/Z300 MOC/Mutation.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716296151170,
-      "modifiedDate": 1716296358815,
-      "sizeInBytes": 74,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Z Core/Z300 MOC/Pantheon of All.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716627312187,
-      "modifiedDate": 1716627691945,
-      "sizeInBytes": 44,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Z Core/Z300 MOC/Mercenaries.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1722861556984,
-      "modifiedDate": 1722861573058,
-      "sizeInBytes": 39,
+      "createdDate": 1716294570327,
+      "modifiedDate": 1716294585763,
+      "sizeInBytes": 62,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -668,6 +571,81 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "Z Core/Z300 MOC/Plant.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1717227276538,
+      "modifiedDate": 1717227289972,
+      "sizeInBytes": 38,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Z Core/Z300 MOC/Pantheon of All.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716627312187,
+      "modifiedDate": 1716627691945,
+      "sizeInBytes": 44,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Z Core/Z300 MOC/Mutation.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716296151170,
+      "modifiedDate": 1716296358815,
+      "sizeInBytes": 74,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "Z Core/Z300 MOC/Merchants.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -685,6 +663,31 @@
       "createdDate": 1722861453763,
       "modifiedDate": 1722861464956,
       "sizeInBytes": 46,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Z Core/Z300 MOC/Mercenaries.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1722861556984,
+      "modifiedDate": 1722861573058,
+      "sizeInBytes": 39,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -718,31 +721,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Z Core/Z300 MOC/Ho'okalakupuan (MOC).md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716295106002,
-      "modifiedDate": 1716298239405,
-      "sizeInBytes": 79,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Z Core/Z300 MOC/Guild.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -760,6 +738,56 @@
       "createdDate": 1722861758664,
       "modifiedDate": 1722861771630,
       "sizeInBytes": 46,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Z Core/Z300 MOC/Elf (MOC).md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716300992955,
+      "modifiedDate": 1716301003883,
+      "sizeInBytes": 33,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Z Core/Z300 MOC/Ho'okalakupuan (MOC).md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716295106002,
+      "modifiedDate": 1716298239405,
+      "sizeInBytes": 79,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -818,7 +846,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Z Core/Z300 MOC/Elf (MOC).md": {
+    "Z Core/Z300 MOC/Deity.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -832,34 +860,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1716300992955,
-      "modifiedDate": 1716301003883,
-      "sizeInBytes": 33,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Z Core/Z300 MOC/Druid Circle.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716294261972,
-      "modifiedDate": 1716294277170,
-      "sizeInBytes": 51,
+      "createdDate": 1716289875157,
+      "modifiedDate": 1716627674807,
+      "sizeInBytes": 159,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -893,7 +896,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Z Core/Z300 MOC/Design Reference.md": {
+    "Z Core/Z300 MOC/Druid Circle.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -907,34 +910,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1716294487962,
-      "modifiedDate": 1716295984933,
-      "sizeInBytes": 117,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Z Core/Z300 MOC/Deity.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716289875157,
-      "modifiedDate": 1716627674807,
-      "sizeInBytes": 159,
+      "createdDate": 1716294261972,
+      "modifiedDate": 1716294277170,
+      "sizeInBytes": 51,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -960,6 +938,31 @@
       "createdDate": 1716301405184,
       "modifiedDate": 1716301413871,
       "sizeInBytes": 46,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Z Core/Z300 MOC/Design Reference.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716294487962,
+      "modifiedDate": 1716295984933,
+      "sizeInBytes": 117,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1010,31 +1013,6 @@
       "createdDate": 1716298210296,
       "modifiedDate": 1716298220767,
       "sizeInBytes": 45,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Z Core/Z300 MOC/Characters.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1722861029406,
-      "modifiedDate": 1725560490128,
-      "sizeInBytes": 58,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1110,6 +1088,31 @@
       "createdDate": 1722861629236,
       "modifiedDate": 1723531158767,
       "sizeInBytes": 35,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Z Core/Z300 MOC/Characters.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1722861029406,
+      "modifiedDate": 1725560490128,
+      "sizeInBytes": 58,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1243,31 +1246,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Z Core/Scratch Note.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1725272993450,
-      "modifiedDate": 1727935410496,
-      "sizeInBytes": 460,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Z Core/Z000 Index/W.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1284,6 +1262,31 @@
       "aliases": [],
       "createdDate": 1716295626852,
       "modifiedDate": 1716626128517,
+      "sizeInBytes": 59,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Z Core/Z000 Index/T.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716297097644,
+      "modifiedDate": 1722861918353,
       "sizeInBytes": 59,
       "sessionStart": {
         "noteCount": 0,
@@ -1318,31 +1321,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Z Core/Z000 Index/T.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716297097644,
-      "modifiedDate": 1722861918353,
-      "sizeInBytes": 59,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Z Core/Z000 Index/P.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1360,56 +1338,6 @@
       "createdDate": 1716294543575,
       "modifiedDate": 1717227273443,
       "sizeInBytes": 121,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Z Core/Z000 Index/L.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716295035574,
-      "modifiedDate": 1716295046928,
-      "sizeInBytes": 34,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Z Core/Z000 Index/M.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716296044305,
-      "modifiedDate": 1722861552450,
-      "sizeInBytes": 84,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1443,6 +1371,31 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "Z Core/Z000 Index/M.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716296044305,
+      "modifiedDate": 1722861552450,
+      "sizeInBytes": 84,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "Z Core/Z000 Index/F.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1468,7 +1421,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Z Core/Z000 Index/G.md": {
+    "Z Core/Z000 Index/L.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1482,34 +1435,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1716294835064,
-      "modifiedDate": 1722861758764,
-      "sizeInBytes": 54,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Z Core/Z000 Index/E.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716294369348,
-      "modifiedDate": 1716301018290,
-      "sizeInBytes": 59,
+      "createdDate": 1716295035574,
+      "modifiedDate": 1716295046928,
+      "sizeInBytes": 34,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1543,7 +1471,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Z Core/Z000 Index/C.md": {
+    "Z Core/Z000 Index/G.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1557,9 +1485,59 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1716294299668,
-      "modifiedDate": 1725286192492,
-      "sizeInBytes": 117,
+      "createdDate": 1716294835064,
+      "modifiedDate": 1722861758764,
+      "sizeInBytes": 54,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Z Core/Z000 Index/D.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716289931256,
+      "modifiedDate": 1716301403745,
+      "sizeInBytes": 106,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Z Core/Z000 Index/E.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716294369348,
+      "modifiedDate": 1716301018290,
+      "sizeInBytes": 59,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1593,7 +1571,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Z Core/Z000 Index/D.md": {
+    "Z Core/Z000 Index/C.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1607,9 +1585,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1716289931256,
-      "modifiedDate": 1716301403745,
-      "sizeInBytes": 106,
+      "createdDate": 1716294299668,
+      "modifiedDate": 1725286192492,
+      "sizeInBytes": 117,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1693,6 +1671,456 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips/Prestidigitation.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1725557440987,
+      "modifiedDate": 1725557491524,
+      "sizeInBytes": 1171,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips/Message.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1725557359751,
+      "modifiedDate": 1725557433851,
+      "sizeInBytes": 811,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips/Sapping Sting.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1725557512190,
+      "modifiedDate": 1725557573528,
+      "sizeInBytes": 559,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips/Mage Hand.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1725557007684,
+      "modifiedDate": 1725557246689,
+      "sizeInBytes": 847,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips/Fire Bolt.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1725557286327,
+      "modifiedDate": 1725557396689,
+      "sizeInBytes": 639,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st/Unseen Servant.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1725559409965,
+      "modifiedDate": 1725559460386,
+      "sizeInBytes": 1205,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st/Grease.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1725559265261,
+      "modifiedDate": 1725559300262,
+      "sizeInBytes": 656,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st/Goodberry.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1725558147942,
+      "modifiedDate": 1725558178931,
+      "sizeInBytes": 627,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st/Magic Missile.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1725559345299,
+      "modifiedDate": 1725559401576,
+      "sizeInBytes": 682,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st/Hunter’s Mark.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1725558184976,
+      "modifiedDate": 1725559203166,
+      "sizeInBytes": 989,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st/Entangle.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1725558023970,
+      "modifiedDate": 1725558075988,
+      "sizeInBytes": 805,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st/Faerie Fire.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1725558082778,
+      "modifiedDate": 1725558145126,
+      "sizeInBytes": 746,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st/Disguise Self.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1725559211173,
+      "modifiedDate": 1725559254494,
+      "sizeInBytes": 1262,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd/Spiderclimb.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1725559695931,
+      "modifiedDate": 1725559869089,
+      "sizeInBytes": 556,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd/Wristpocket.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1725559764341,
+      "modifiedDate": 1725559839956,
+      "sizeInBytes": 767,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd/Immovable Object.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1725559563054,
+      "modifiedDate": 1725559879206,
+      "sizeInBytes": 1305,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd/Flaming Sphere.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1725559466311,
+      "modifiedDate": 1725559888871,
+      "sizeInBytes": 1301,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389 Critical Failure II.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716288536654,
+      "modifiedDate": 1716290879868,
+      "sizeInBytes": 424,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.3 POST/CF2 Session 19 POST.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1746,34 +2174,6 @@
     "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.3 POST/CF2 Session 14 POST.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 116,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.38666666666666666,
-      "characterCount": 706,
-      "nonWhitespaceCharacterCount": 581,
-      "readingTimeInMinutes": 0.4377358490566038,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1716288537126,
-      "modifiedDate": 1695113417000,
-      "sizeInBytes": 729,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.38666666666666666,
-        "wordCount": 116,
-        "characterCount": 706,
-        "nonWhitespaceCharacterCount": 581
-      },
-      "frontmatter": {
-        "aliases": []
-      }
-    },
-    "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.2 IN/CF2 Session 8 IN.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
       "noteCount": 0,
       "wordCount": 0,
       "wordCountTowardGoal": 0,
@@ -1785,9 +2185,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1716288536891,
-      "modifiedDate": 1695113409000,
-      "sizeInBytes": 335,
+      "createdDate": 1716288537126,
+      "modifiedDate": 1695113417000,
+      "sizeInBytes": 729,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1821,56 +2221,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.2 IN/CF2 Session 7 IN.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716288536876,
-      "modifiedDate": 1695113410000,
-      "sizeInBytes": 473,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.2 IN/CF2 Session 6 IN.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716288536861,
-      "modifiedDate": 1695113410000,
-      "sizeInBytes": 569,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.2 IN/CF2 Session 9 IN.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1888,6 +2238,56 @@
       "createdDate": 1716288536906,
       "modifiedDate": 1716291433437,
       "sizeInBytes": 500,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.2 IN/CF2 Session 8 IN.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716288536891,
+      "modifiedDate": 1695113409000,
+      "sizeInBytes": 335,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.2 IN/CF2 Session 7 IN.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716288536876,
+      "modifiedDate": 1695113410000,
+      "sizeInBytes": 473,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1921,6 +2321,56 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.2 IN/CF2 Session 6 IN.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716288536861,
+      "modifiedDate": 1695113410000,
+      "sizeInBytes": 569,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.2 IN/CF2 Session 3 IN.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716288536829,
+      "modifiedDate": 1695113410000,
+      "sizeInBytes": 311,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.2 IN/CF2 Session 23 IN.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1938,31 +2388,6 @@
       "createdDate": 1716288537086,
       "modifiedDate": 1695113410000,
       "sizeInBytes": 654,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.2 IN/CF2 Session 22 IN.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716288537069,
-      "modifiedDate": 1695113410000,
-      "sizeInBytes": 1086,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1996,7 +2421,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.2 IN/CF2 Session 3 IN.md": {
+    "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.2 IN/CF2 Session 15 IN.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2010,9 +2435,134 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1716288536829,
+      "createdDate": 1716288536944,
       "modifiedDate": 1695113410000,
-      "sizeInBytes": 311,
+      "sizeInBytes": 581,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.2 IN/CF2 Session 22 IN.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716288537069,
+      "modifiedDate": 1695113410000,
+      "sizeInBytes": 1086,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.2 IN/CF2 Session 20 IN.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716288537035,
+      "modifiedDate": 1695113410000,
+      "sizeInBytes": 359,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.2 IN/CF2 Session 2 IN.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716288536812,
+      "modifiedDate": 1695113410000,
+      "sizeInBytes": 612,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.2 IN/CF2 Session 14 IN.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716288536922,
+      "modifiedDate": 1695113410000,
+      "sizeInBytes": 1753,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.2 IN/CF2 Session 16 IN.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716288536961,
+      "modifiedDate": 1695113410000,
+      "sizeInBytes": 920,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2071,31 +2621,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.2 IN/CF2 Session 20 IN.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716288537035,
-      "modifiedDate": 1695113410000,
-      "sizeInBytes": 359,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.2 IN/CF2 Session 17 IN.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2113,106 +2638,6 @@
       "createdDate": 1716288536982,
       "modifiedDate": 1695113410000,
       "sizeInBytes": 931,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.2 IN/CF2 Session 2 IN.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716288536812,
-      "modifiedDate": 1695113410000,
-      "sizeInBytes": 612,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.2 IN/CF2 Session 16 IN.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716288536961,
-      "modifiedDate": 1695113410000,
-      "sizeInBytes": 920,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.2 IN/CF2 Session 15 IN.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716288536944,
-      "modifiedDate": 1695113410000,
-      "sizeInBytes": 581,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.2 IN/CF2 Session 14 IN.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716288536922,
-      "modifiedDate": 1695113410000,
-      "sizeInBytes": 1753,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2271,31 +2696,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.1 PRE/CF2 Session 19 PRE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716288536725,
-      "modifiedDate": 1716291433364,
-      "sizeInBytes": 928,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.1 PRE/CF2 Session 20 PRE.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2346,6 +2746,31 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.1 PRE/CF2 Session 19 PRE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716288536725,
+      "modifiedDate": 1716291433364,
+      "sizeInBytes": 928,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.1 PRE/CF2 Session 14 PRE.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2371,31 +2796,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389 Critical Failure II.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716288536654,
-      "modifiedDate": 1716290879868,
-      "sizeInBytes": 424,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Y TTRPG/Y300 Campaigns/Y379 Task Traversers/Y379.1 Session Notes/Y379.1.2 IN/TT Session 3 - 4 IN.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2413,31 +2813,6 @@
       "createdDate": 1716288536562,
       "modifiedDate": 1695113594000,
       "sizeInBytes": 498,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Y TTRPG/Y300 Campaigns/Y379 Task Traversers/Y379.1 Session Notes/Y379.1.2 IN/TT Session 2 IN.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716288536541,
-      "modifiedDate": 1695113594000,
-      "sizeInBytes": 302,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2488,6 +2863,31 @@
       "createdDate": 1716288536579,
       "modifiedDate": 1695113594000,
       "sizeInBytes": 916,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Y TTRPG/Y300 Campaigns/Y379 Task Traversers/Y379.1 Session Notes/Y379.1.2 IN/TT Session 2 IN.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716288536541,
+      "modifiedDate": 1695113594000,
+      "sizeInBytes": 302,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2596,31 +2996,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Y TTRPG/Y300 Campaigns/Y321 Demon Days/Y321.1 Session Notes/Y321.1.2 IN/DD Session 3 IN.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716288536425,
-      "modifiedDate": 1695113686000,
-      "sizeInBytes": 370,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Y TTRPG/Y300 Campaigns/Y321 Demon Days/Y321.1 Session Notes/Y321.1.2 IN/DD Session 2 IN.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2638,6 +3013,31 @@
       "createdDate": 1716288536409,
       "modifiedDate": 1695113686000,
       "sizeInBytes": 566,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Y TTRPG/Y300 Campaigns/Y321 Demon Days/Y321.1 Session Notes/Y321.1.2 IN/DD Session 3 IN.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716288536425,
+      "modifiedDate": 1695113686000,
+      "sizeInBytes": 370,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2771,31 +3171,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.1 Session Notes/Y304.1.1 PRE/Session 5 PRE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1721818542479,
-      "modifiedDate": 1723531158755,
-      "sizeInBytes": 746,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.1 Session Notes/Y304.1.2 IN/Session 5 IN.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2871,7 +3246,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips/Prestidigitation.md": {
+    "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.1 Session Notes/Y304.1.1 PRE/Session 5 PRE.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2885,459 +3260,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1725557440987,
-      "modifiedDate": 1725557491524,
-      "sizeInBytes": 1171,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips/Sapping Sting.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1725557512190,
-      "modifiedDate": 1725557573528,
-      "sizeInBytes": 559,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips/Message.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1725557359751,
-      "modifiedDate": 1725557433851,
-      "sizeInBytes": 811,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips/Fire Bolt.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1725557286327,
-      "modifiedDate": 1725557396689,
-      "sizeInBytes": 639,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips/Mage Hand.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1725557007684,
-      "modifiedDate": 1725557246689,
-      "sizeInBytes": 847,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st/Unseen Servant.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1725559409965,
-      "modifiedDate": 1725559460386,
-      "sizeInBytes": 1205,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st/Magic Missile.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1725559345299,
-      "modifiedDate": 1725559401576,
-      "sizeInBytes": 682,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st/Grease.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1725559265261,
-      "modifiedDate": 1725559300262,
-      "sizeInBytes": 656,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st/Goodberry.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1725558147942,
-      "modifiedDate": 1725558178931,
-      "sizeInBytes": 627,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st/Hunter’s Mark.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1725558184976,
-      "modifiedDate": 1725559203166,
-      "sizeInBytes": 989,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st/Disguise Self.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1725559211173,
-      "modifiedDate": 1725559254494,
-      "sizeInBytes": 1262,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st/Entangle.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1725558023970,
-      "modifiedDate": 1725558075988,
-      "sizeInBytes": 805,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st/Faerie Fire.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1725558082778,
-      "modifiedDate": 1725558145126,
+      "createdDate": 1721818542479,
+      "modifiedDate": 1723531158755,
       "sizeInBytes": 746,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd/Spiderclimb.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1725559695931,
-      "modifiedDate": 1725559869089,
-      "sizeInBytes": 556,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd/Wristpocket.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1725559764341,
-      "modifiedDate": 1725559839956,
-      "sizeInBytes": 767,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd/Immovable Object.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1725559563054,
-      "modifiedDate": 1725559879206,
-      "sizeInBytes": 1305,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd/Flaming Sphere.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1725559466311,
-      "modifiedDate": 1725559888871,
-      "sizeInBytes": 1301,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Y TTRPG/Y100 Players/Y115 Character Sheets/Bridget_Skitz.pdf": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1725272581259,
-      "modifiedDate": 1725565767060,
-      "sizeInBytes": 498324,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Y TTRPG/Y100 Players/Tom Rijnsburger.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1722860532031,
-      "modifiedDate": 1722860648442,
-      "sizeInBytes": 316,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3371,6 +3296,56 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "Y TTRPG/Y100 Players/Tom Rijnsburger.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1722860532031,
+      "modifiedDate": 1722860648442,
+      "sizeInBytes": 316,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Y TTRPG/Y100 Players/Y115 Character Sheets/Bridget_Skitz.pdf": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1725272581259,
+      "modifiedDate": 1725565767060,
+      "sizeInBytes": 498324,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "Y TTRPG/Y100 Players/Bridget A.M. Bleij.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3388,6 +3363,31 @@
       "createdDate": 1722860271589,
       "modifiedDate": 1725273152269,
       "sizeInBytes": 262,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "X References/X200 Templates/X200.9 Pre-Session.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1721818627131,
+      "modifiedDate": 1721818784358,
+      "sizeInBytes": 127,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3446,31 +3446,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "X References/X200 Templates/X200.9 Pre-Session.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1721818627131,
-      "modifiedDate": 1721818784358,
-      "sizeInBytes": 127,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "X References/X200 Templates/X200.6.1 Deity Extention.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3488,56 +3463,6 @@
       "createdDate": 1716626863824,
       "modifiedDate": 1716626984718,
       "sizeInBytes": 160,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "X References/X200 Templates/X200.5 Town Extention.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716288536224,
-      "modifiedDate": 1694259118000,
-      "sizeInBytes": 50,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "X References/X200 Templates/X200.4 Monster Stats.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716288536210,
-      "modifiedDate": 1694259021000,
-      "sizeInBytes": 996,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3596,7 +3521,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "X References/X200 Templates/X200.3.2 Masks Info.md": {
+    "X References/X200 Templates/X200.5 Town Extention.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3610,9 +3535,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1716288536197,
-      "modifiedDate": 1694259121000,
-      "sizeInBytes": 148,
+      "createdDate": 1716288536224,
+      "modifiedDate": 1694259118000,
+      "sizeInBytes": 50,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3621,7 +3546,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "X References/X200 Templates/X200.3 D&D Stats.md": {
+    "X References/X200 Templates/X200.4 Monster Stats.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3635,84 +3560,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1716288536171,
-      "modifiedDate": 1694258732000,
-      "sizeInBytes": 188,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "X References/X200 Templates/X200.2.1 Character Extention 2.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716288536157,
-      "modifiedDate": 1694259175000,
-      "sizeInBytes": 26,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "X References/X200 Templates/X200.3.1 CoC Info.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716288536184,
-      "modifiedDate": 1716289152637,
-      "sizeInBytes": 275,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "X References/X200 Templates/X200.2 Character Extention 1.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716288536141,
-      "modifiedDate": 1694259178000,
-      "sizeInBytes": 28,
+      "createdDate": 1716288536210,
+      "modifiedDate": 1694259021000,
+      "sizeInBytes": 996,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3746,6 +3596,106 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "X References/X200 Templates/X200.3 D&D Stats.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716288536171,
+      "modifiedDate": 1694258732000,
+      "sizeInBytes": 188,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "X References/X200 Templates/X200.3.1 CoC Info.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716288536184,
+      "modifiedDate": 1716289152637,
+      "sizeInBytes": 275,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "X References/X200 Templates/X200.3.2 Masks Info.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716288536197,
+      "modifiedDate": 1694259121000,
+      "sizeInBytes": 148,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "X References/X200 Templates/X200.2.1 Character Extention 2.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716288536157,
+      "modifiedDate": 1694259175000,
+      "sizeInBytes": 26,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "X References/X200 Templates/X200.1.1 Player Extention.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3763,6 +3713,31 @@
       "createdDate": 1716288536111,
       "modifiedDate": 1694259296000,
       "sizeInBytes": 34,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "X References/X200 Templates/X200.2 Character Extention 1.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716288536141,
+      "modifiedDate": 1694259178000,
+      "sizeInBytes": 28,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3846,31 +3821,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "X References/X100 Files/X110 Images/X1__ Characters/Skitz_Portrait.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1725283449913,
-      "modifiedDate": 1725283493661,
-      "sizeInBytes": 115454,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "X References/X100 Files/X110 Images/Zahdum_TradingCard.jpg": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -3888,6 +3838,31 @@
       "createdDate": 1716302590127,
       "modifiedDate": 1716302590128,
       "sizeInBytes": 402517,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "X References/X100 Files/X110 Images/X1__ Characters/Skitz_Portrait.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1725283449913,
+      "modifiedDate": 1725283493661,
+      "sizeInBytes": 115454,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3946,81 +3921,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "X References/X100 Files/X110 Images/Thera_TradingCard.jpg": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716302367649,
-      "modifiedDate": 1716302367650,
-      "sizeInBytes": 452157,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "X References/X100 Files/X110 Images/Sgrios-Dìteadh_TradingCard.jpg": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716302257194,
-      "modifiedDate": 1716302257195,
-      "sizeInBytes": 415495,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "X References/X100 Files/X110 Images/Void_TradingCard.jpg": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716302465897,
-      "modifiedDate": 1716302465898,
-      "sizeInBytes": 420196,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "X References/X100 Files/X110 Images/Poten_TradingCard.jpg": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -4063,6 +3963,131 @@
       "createdDate": 1716302211957,
       "modifiedDate": 1716302211958,
       "sizeInBytes": 463541,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "X References/X100 Files/X110 Images/Void_TradingCard.jpg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716302465897,
+      "modifiedDate": 1716302465898,
+      "sizeInBytes": 420196,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "X References/X100 Files/X110 Images/Sgrios-Dìteadh_TradingCard.jpg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716302257194,
+      "modifiedDate": 1716302257195,
+      "sizeInBytes": 415495,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "X References/X100 Files/X110 Images/Thera_TradingCard.jpg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716302367649,
+      "modifiedDate": 1716302367650,
+      "sizeInBytes": 452157,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "X References/X100 Files/X110 Images/Aros_TradingCard.jpg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716627421066,
+      "modifiedDate": 1716627421068,
+      "sizeInBytes": 412265,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "X References/X100 Files/X110 Images/Alios_TradingCard.jpg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716301775546,
+      "modifiedDate": 1716301775546,
+      "sizeInBytes": 257939,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4121,31 +4146,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "X References/X100 Files/X110 Images/Bàs-Cuimhne_TradingCard.jpg": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716301986798,
-      "modifiedDate": 1716301986799,
-      "sizeInBytes": 558612,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "X References/X100 Files/X110 Images/Deadh-Ghealladh_TradingCard.jpg": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -4163,6 +4163,31 @@
       "createdDate": 1716302066160,
       "modifiedDate": 1716302066161,
       "sizeInBytes": 415797,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "X References/X100 Files/X110 Images/Bàs-Cuimhne_TradingCard.jpg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716301986798,
+      "modifiedDate": 1716301986799,
+      "sizeInBytes": 558612,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4196,7 +4221,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "X References/X100 Files/X110 Images/Alios_TradingCard.jpg": {
+    "X References/X100 Files/X110 Images/Angus_TradingCard.jpg": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4210,34 +4235,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1716301775546,
-      "modifiedDate": 1716301775546,
-      "sizeInBytes": 257939,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "X References/X100 Files/X110 Images/Aros_TradingCard.jpg": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716627421066,
-      "modifiedDate": 1716627421068,
-      "sizeInBytes": 412265,
+      "createdDate": 1716627184863,
+      "modifiedDate": 1716627184864,
+      "sizeInBytes": 324968,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4263,31 +4263,6 @@
       "createdDate": 1716301795758,
       "modifiedDate": 1716301795762,
       "sizeInBytes": 259089,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "X References/X100 Files/X110 Images/Angus_TradingCard.jpg": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716627184863,
-      "modifiedDate": 1716627184864,
-      "sizeInBytes": 324968,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4346,31 +4321,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "2 Aukif/Vörsi.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716288537682,
-      "modifiedDate": 1721818391627,
-      "sizeInBytes": 1098,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "2 Aukif/Samuel Nicholaes Oodt-Aardt.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4396,7 +4346,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "2 Aukif/Oberyn.md": {
+    "2 Aukif/Vörsi.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4410,9 +4360,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1716288537636,
-      "modifiedDate": 1721818366415,
-      "sizeInBytes": 615,
+      "createdDate": 1716288537682,
+      "modifiedDate": 1721818391627,
+      "sizeInBytes": 1098,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4438,6 +4388,31 @@
       "createdDate": 1716288537663,
       "modifiedDate": 1721818378638,
       "sizeInBytes": 919,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "2 Aukif/Oberyn.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716288537636,
+      "modifiedDate": 1721818366415,
+      "sizeInBytes": 615,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4646,31 +4621,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "1 The Embrace/Skitz.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1725273162660,
-      "modifiedDate": 1733610831864,
-      "sizeInBytes": 5605,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "1 The Embrace/Øysamling Islands.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4746,31 +4696,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "1 The Embrace/Theocracy of Olpen.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716288537385,
-      "modifiedDate": 1721818253280,
-      "sizeInBytes": 304,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "1 The Embrace/Salamanders.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4796,6 +4721,31 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "1 The Embrace/Theocracy of Olpen.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716288537385,
+      "modifiedDate": 1721818253280,
+      "sizeInBytes": 304,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "1 The Embrace/The Goblin Code.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4813,6 +4763,31 @@
       "createdDate": 1716288537467,
       "modifiedDate": 1716295604572,
       "sizeInBytes": 2336,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "1 The Embrace/Lumen.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716554377130,
+      "modifiedDate": 1721818180793,
+      "sizeInBytes": 625,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4871,7 +4846,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "1 The Embrace/Otherworldly Goods.md": {
+    "1 The Embrace/Skitz.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4885,59 +4860,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1722859068325,
-      "modifiedDate": 1722861824806,
-      "sizeInBytes": 299,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "1 The Embrace/Lumen.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716554377130,
-      "modifiedDate": 1721818180793,
-      "sizeInBytes": 625,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "1 The Embrace/Poten.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716627586662,
-      "modifiedDate": 1721818197105,
-      "sizeInBytes": 3079,
+      "createdDate": 1725273162660,
+      "modifiedDate": 1733610831864,
+      "sizeInBytes": 5605,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4971,6 +4896,56 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "1 The Embrace/Poten.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716627586662,
+      "modifiedDate": 1721818197105,
+      "sizeInBytes": 3079,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "1 The Embrace/Otherworldly Goods.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1722859068325,
+      "modifiedDate": 1722861824806,
+      "sizeInBytes": 299,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "1 The Embrace/Olad.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4996,56 +4971,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "1 The Embrace/Ho'okalakupuan Commonwealth.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716288537371,
-      "modifiedDate": 1721818169575,
-      "sizeInBytes": 252,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "1 The Embrace/Geyser Guys.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1722858753063,
-      "modifiedDate": 1722861507987,
-      "sizeInBytes": 306,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "1 The Embrace/Fleshberry.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5063,6 +4988,31 @@
       "createdDate": 1717226911203,
       "modifiedDate": 1721818111826,
       "sizeInBytes": 3568,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "1 The Embrace/Ho'okalakupuan Commonwealth.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716288537371,
+      "modifiedDate": 1721818169575,
+      "sizeInBytes": 252,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5121,7 +5071,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "1 The Embrace/Democratic Republic of Politismós.md": {
+    "1 The Embrace/Geyser Guys.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5135,9 +5085,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1716288537426,
-      "modifiedDate": 1721818022319,
-      "sizeInBytes": 241,
+      "createdDate": 1722858753063,
+      "modifiedDate": 1722861507987,
+      "sizeInBytes": 306,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5171,56 +5121,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "1 The Embrace/Dain.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716288537357,
-      "modifiedDate": 1729880405159,
-      "sizeInBytes": 999,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "1 The Embrace/Continent Design Principles.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716288537330,
-      "modifiedDate": 1721817957997,
-      "sizeInBytes": 1192,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "1 The Embrace/Dram, Chip, Clips.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5246,7 +5146,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "1 The Embrace/Carcass.md": {
+    "1 The Embrace/Democratic Republic of Politismós.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5260,9 +5160,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1721841758470,
-      "modifiedDate": 1723531164731,
-      "sizeInBytes": 880,
+      "createdDate": 1716288537426,
+      "modifiedDate": 1721818022319,
+      "sizeInBytes": 241,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5271,32 +5171,51 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "1 The Embrace/Angus.md": {
+    "1 The Embrace/Dain.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 121,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "wordGoal": null,
+      "pageCount": 0.4033333333333333,
+      "characterCount": 825,
+      "nonWhitespaceCharacterCount": 680,
+      "readingTimeInMinutes": 0.45660377358490567,
+      "linkCount": 7,
       "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716626270031,
-      "modifiedDate": 1721817598289,
-      "sizeInBytes": 1758,
+      "aliases": [
+        "1372.1"
+      ],
+      "createdDate": 1716288537357,
+      "modifiedDate": 1729880405159,
+      "sizeInBytes": 999,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
+        "noteCount": 1,
+        "pageCount": 0.4033333333333333,
+        "wordCount": 121,
+        "characterCount": 825,
+        "nonWhitespaceCharacterCount": 680
+      },
+      "frontmatter": {
+        "ID": "20230910074825",
+        "aliases": [
+          "1372.1"
+        ],
+        "tags": [
+          "continent"
+        ],
+        "North": null,
+        "East": [
+          "[[Carcass|1372.1.1]]"
+        ],
+        "South": [
+          "[[Ho'okalakupuan Commonwealth|1372.2]]"
+        ],
+        "West": null
       }
     },
-    "1 The Embrace/Circle of the Everlight.md": {
+    "1 The Embrace/Continent Design Principles.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5310,34 +5229,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1716288537512,
-      "modifiedDate": 1725287740710,
-      "sizeInBytes": 790,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "1 The Embrace/Aros.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716627350575,
-      "modifiedDate": 1721817931856,
-      "sizeInBytes": 398,
+      "createdDate": 1716288537330,
+      "modifiedDate": 1721817957997,
+      "sizeInBytes": 1192,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5371,7 +5265,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "0 Alios/Starlanes.md": {
+    "1 The Embrace/Circle of the Everlight.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5385,9 +5279,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1722936993241,
-      "modifiedDate": 1727941034263,
-      "sizeInBytes": 2759,
+      "createdDate": 1716288537512,
+      "modifiedDate": 1725287740710,
+      "sizeInBytes": 790,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5396,7 +5290,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "0 Alios/Thera - Primordial Matter.md": {
+    "1 The Embrace/Carcass.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5410,9 +5304,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1716302280728,
-      "modifiedDate": 1721817900071,
-      "sizeInBytes": 365,
+      "createdDate": 1721841758470,
+      "modifiedDate": 1723531164731,
+      "sizeInBytes": 880,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5421,7 +5315,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "0 Alios/Void - Primordial Energy.md": {
+    "1 The Embrace/Aros.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5435,9 +5329,34 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1716302404414,
-      "modifiedDate": 1721817894444,
-      "sizeInBytes": 348,
+      "createdDate": 1716627350575,
+      "modifiedDate": 1721817931856,
+      "sizeInBytes": 398,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "1 The Embrace/Angus.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716626270031,
+      "modifiedDate": 1721817598289,
+      "sizeInBytes": 1758,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5471,7 +5390,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "0 Alios/Flamekin.md": {
+    "0 Alios/Starlanes.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5485,9 +5404,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1731070625709,
-      "modifiedDate": 1731072454635,
-      "sizeInBytes": 1497,
+      "createdDate": 1722936993241,
+      "modifiedDate": 1727941034263,
+      "sizeInBytes": 2759,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5496,7 +5415,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "0 Alios/Promise.md": {
+    "0 Alios/Void - Primordial Energy.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5510,9 +5429,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1716288537303,
-      "modifiedDate": 1721817833776,
-      "sizeInBytes": 306,
+      "createdDate": 1716302404414,
+      "modifiedDate": 1721817894444,
+      "sizeInBytes": 348,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5521,7 +5440,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "0 Alios/Extyx - Primordial Infinity.md": {
+    "0 Alios/Thera - Primordial Matter.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5535,9 +5454,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1716302098106,
-      "modifiedDate": 1726750480837,
-      "sizeInBytes": 369,
+      "createdDate": 1716302280728,
+      "modifiedDate": 1721817900071,
+      "sizeInBytes": 365,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5571,7 +5490,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "0 Alios/Elves.md": {
+    "0 Alios/Promise.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5585,9 +5504,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1716298373685,
-      "modifiedDate": 1733651686057,
-      "sizeInBytes": 1498,
+      "createdDate": 1716288537303,
+      "modifiedDate": 1721817833776,
+      "sizeInBytes": 306,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5613,6 +5532,81 @@
       "createdDate": 1716288537254,
       "modifiedDate": 1733652999099,
       "sizeInBytes": 372,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "0 Alios/Flamekin.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1731070625709,
+      "modifiedDate": 1731072454635,
+      "sizeInBytes": 1497,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "0 Alios/Extyx - Primordial Infinity.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716302098106,
+      "modifiedDate": 1726750480837,
+      "sizeInBytes": 369,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "0 Alios/Elves.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716298373685,
+      "modifiedDate": 1733651686057,
+      "sizeInBytes": 1498,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5671,56 +5665,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "0 Alios/Alios - Primordial Creation.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716301551146,
-      "modifiedDate": 1721817914579,
-      "sizeInBytes": 584,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "0 Alios/Belief.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716288537288,
-      "modifiedDate": 1721817782192,
-      "sizeInBytes": 323,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "0 Alios/Ancient Words.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5771,6 +5715,31 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "0 Alios/Belief.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716288537288,
+      "modifiedDate": 1721817782192,
+      "sizeInBytes": 323,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "0 Alios/Ambition.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5788,6 +5757,31 @@
       "createdDate": 1716288537237,
       "modifiedDate": 1722859976981,
       "sizeInBytes": 1136,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "0 Alios/Alios - Primordial Creation.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716301551146,
+      "modifiedDate": 1721817914579,
+      "sizeInBytes": 584,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

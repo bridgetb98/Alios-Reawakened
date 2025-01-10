@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 The Embrace/Dain.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dain"
+              "title": "Home"
             }
           }
         ]
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 The Embrace/Dain.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +131,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Dain"
+              "title": "Graph of Home"
             }
           },
           {
@@ -217,6 +217,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "1 The Embrace/Dain.md",
     "Z Core/Z300 MOC/Dain (MOC).md",
     "1 The Embrace/Carcass.md",
     "Z Core/Z000 Index/D.md",
@@ -242,7 +243,6 @@
     "0 Alios/Zahdum - Primordial Spirit.md",
     "0 Alios/Alios - Primordial Creation.md",
     "0 Alios/Alios.md",
-    "0 Alios/Flamekin.md",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips",
