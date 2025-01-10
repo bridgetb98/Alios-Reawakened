@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Z Core/Scratch Note.md",
+                "file": "1 The Embrace/Skitz.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +131,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Scratch Note"
+              "title": "Graph of Skitz"
             }
           },
           {
@@ -218,8 +218,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9efec59f38fa8393",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Z Core/Scratch Note.md",
     "1 The Embrace/Skitz.md",
     "Home.md",
     "1 The Embrace/Dain.md",
@@ -239,7 +240,6 @@
     "0 Alios/Memory.md",
     "0 Alios/Knowledge.md",
     "0 Alios/Elves.md",
-    "Z Core/Scratch Note.md",
     "Y TTRPG/Y100 Players/Bridget A.M. Bleij.md",
     "0 Alios/Extyx - Primordial Infinity.md",
     "0 Alios/Void - Primordial Energy.md",
