@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 The Embrace/Skitz.md",
+                "file": "Z Core/Scratch Note.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +131,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Skitz"
+              "title": "Graph of Scratch Note"
             }
           },
           {
@@ -141,7 +141,7 @@
               "type": "markdown",
               "state": {
                 "file": "Z Core/Scratch Note.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
@@ -149,7 +149,8 @@
               "title": "Scratch Note"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -217,8 +218,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "9efec59f38fa8393",
   "lastOpenFiles": [
+    "1 The Embrace/Skitz.md",
     "Home.md",
     "1 The Embrace/Dain.md",
     "Z Core/Z300 MOC/Dain (MOC).md",
@@ -230,7 +232,6 @@
     "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.1 Session Notes/Y304.1.2 IN/Session 2 IN.md",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.1 Session Notes/Y304.1.1 PRE/Session 5 PRE.md",
     "Z Core/Z300 MOC/Ho'okalakupuan (MOC).md",
-    "1 The Embrace/Skitz.md",
     "1 The Embrace/Golemancy.md",
     "1 The Embrace/Borrowing.md",
     "Z Core/Z000 Index/M.md",

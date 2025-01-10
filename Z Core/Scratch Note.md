@@ -12,3 +12,7 @@
 ## Session 2
 
 - oh shit oh fuck, we’ve lied to a high aristocrat of desert hares
+
+## Session 8
+
+- We be bombing the hares
