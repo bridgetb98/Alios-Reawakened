@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "1 The Embrace/Skitz.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Skitz"
             }
           }
         ]
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "1 The Embrace/Skitz.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +131,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of Skitz"
             }
           },
           {
@@ -212,16 +212,18 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "canvas:Create new canvas": false,
       "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home.md",
     "1 The Embrace/Dain.md",
     "Z Core/Z300 MOC/Dain (MOC).md",
     "1 The Embrace/Carcass.md",
     "Z Core/Z000 Index/D.md",
-    "Home.md",
     "Y TTRPG/Y300 Campaigns/Y389 Critical Failure II/Y389.1 Session Notes/Y389.1.3 POST/CF2 Session 14 POST.md",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.1 Session Notes/Y304.1.2 IN/Session 5 IN.md",
     "Y TTRPG/Y300 Campaigns/Y304 Magic Geyser/Y304.1 Session Notes/Y304.1.2 IN/Session 3 IN.md",
