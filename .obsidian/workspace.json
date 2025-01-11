@@ -169,7 +169,6 @@
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
-              "state": {},
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
@@ -218,7 +217,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "fd26a7bd8e7c471a",
   "lastOpenFiles": [
     "Z Core/Z300 MOC/Characters.md",
     "Z Core/Z000 Index/C.md",
