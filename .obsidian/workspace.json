@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Alios/Flamekin.md",
-                "mode": "source",
+                "file": "1 The Embrace/Skitz.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flamekin"
+              "title": "Skitz"
             }
           }
         ]
@@ -213,23 +213,27 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "canvas:Create new canvas": false,
       "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Z Core/Z300 MOC/Characters.md",
+    "Z Core/Z000 Index/C.md",
+    "Home.md",
+    "0 Alios/Flamekin.md",
     "0 Alios/Extyx - Primordial Infinity.md",
     "0 Alios/Ancient Words.md",
     "0 Alios/Ambition.md",
     "0 Alios/Alios - Primordial Creation.md",
-    "0 Alios/Flamekin.md",
     "0 Alios/Thera - Primordial Matter.md",
     "0 Alios/Void - Primordial Energy.md",
     "0 Alios/Zahdum - Primordial Spirit.md",
     "0 Alios/Knowledge.md",
     "1 The Embrace/Skitz.md",
     "Z Core/Scratch Note.md",
-    "Home.md",
     "1 The Embrace/Dain.md",
     "Z Core/Z300 MOC/Dain (MOC).md",
     "1 The Embrace/Carcass.md",
@@ -242,8 +246,6 @@
     "Z Core/Z300 MOC/Ho'okalakupuan (MOC).md",
     "1 The Embrace/Golemancy.md",
     "1 The Embrace/Borrowing.md",
-    "Z Core/Z000 Index/M.md",
-    "Z Core/Z300 MOC/Magic.md",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.1 1st",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.0 Cantrips",
