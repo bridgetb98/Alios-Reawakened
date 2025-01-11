@@ -29,9 +29,9 @@ West:
 
 
 
-## Race
+## Bloodline
 
-[[Devils]]
+[[Voided]]^[Previously Devils]
 
 ## Magic
 

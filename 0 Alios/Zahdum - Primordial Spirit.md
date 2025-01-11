@@ -28,9 +28,9 @@ West:
 
 
 
-## Race
+## Bloodline
 
-[[Spirits]]
+[[Zahdi]]^[Previously spirits]
 
 ## Magic
 

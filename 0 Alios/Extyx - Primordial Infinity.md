@@ -29,9 +29,9 @@ West:
 
 [[Starlanes]]
 
-## Species
+## Bloodline
 
-[[Dragons]]
+[[Exy]]^[Previously Dragons]
 
 ## Magic
 

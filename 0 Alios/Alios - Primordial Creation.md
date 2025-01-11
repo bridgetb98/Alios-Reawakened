@@ -26,7 +26,7 @@ In the center of [[Alios]], lies the great sleeper. The galaxy exists as long as
 
 [[Primordial Ooze]]
 
-## Race
+## Bloodline
 
 [[Aspects]]
 

@@ -29,9 +29,9 @@ West:
 
 [[The Embrace]]
 
-## Race
+## Bloodline
 
-[[Elves]]
+[[Theran]]^[Previously Elves]
 
 ## Magic
 
