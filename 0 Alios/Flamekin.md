@@ -18,12 +18,12 @@ Flamekin is the name given to the species created by the aspect of [[Conservatio
 
 # Anatomy & Morphology
 
-Flamekin have a gelatine body that glows in a multitude of colors, depending on race. The vulnerable body has an outer slate shell. It is a cultural practice to remove parts of this shell for aesthetic reasons.^[see: [[Flamekin Engraving]]] They have [[Elves|Elven]] body types, but are taller than the average [[Elves|Elf]]-based species.
+Flamekin have a gelatine body that glows in a multitude of colors, depending on race. The vulnerable body has an outer slate shell. It is a cultural practice to remove parts of this shell for aesthetic reasons.^[see: [[Flamekin Engraving]]] They have [[Elves|Elven]] body types, but are taller than the average [[Theran Bloodline]].
 
 Dissection has provided the following information:
 - The species is a silicate lifeform.
 - Nutrients and neurons flow freely inside the gel-like substance of the body.
-- Eyes are pressent.
+- Eyes are pressent, though are closer in substance to the gel that constructs the rest of their bodies.
 - Flame glands are pressant on the head, armpits, and soles of the feet.
 
 **Average Height**: 1m85

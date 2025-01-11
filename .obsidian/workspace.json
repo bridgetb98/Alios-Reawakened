@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 The Embrace/Skitz.md",
-                "mode": "preview",
+                "file": "0 Alios/Flamekin.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Skitz"
+              "title": "Flamekin"
             }
           }
         ]
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 The Embrace/Skitz.md",
+                "file": "0 Alios/Flamekin.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +131,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Skitz"
+              "title": "Graph of Flamekin"
             }
           },
           {
@@ -220,8 +220,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Z Core/Scratch Note.md",
+    "0 Alios/Knowledge.md",
+    "0 Alios/Void - Primordial Energy.md",
+    "0 Alios/Zahdum - Primordial Spirit.md",
+    "0 Alios/Extyx - Primordial Infinity.md",
     "1 The Embrace/Skitz.md",
+    "Z Core/Scratch Note.md",
     "Home.md",
     "1 The Embrace/Dain.md",
     "Z Core/Z300 MOC/Dain (MOC).md",
@@ -238,12 +242,8 @@
     "Z Core/Z000 Index/M.md",
     "Z Core/Z300 MOC/Magic.md",
     "0 Alios/Memory.md",
-    "0 Alios/Knowledge.md",
     "0 Alios/Elves.md",
     "Y TTRPG/Y100 Players/Bridget A.M. Bleij.md",
-    "0 Alios/Extyx - Primordial Infinity.md",
-    "0 Alios/Void - Primordial Energy.md",
-    "0 Alios/Zahdum - Primordial Spirit.md",
     "0 Alios/Alios - Primordial Creation.md",
     "0 Alios/Alios.md",
     "Y TTRPG/Y200 Systems/Y200 5e/Y200 Spells/Y200.2 2nd",
