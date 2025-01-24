@@ -193,6 +193,16 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
+          },
+          {
+            "id": "2f91c7bd304e6e52",
+            "type": "leaf",
+            "state": {
+              "type": "PROGRESS_CLOCKS_VIEW",
+              "state": {},
+              "icon": "pie-chart",
+              "title": "Progress Clocks"
+            }
           }
         ],
         "currentTab": 2
@@ -218,7 +228,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "fd26a7bd8e7c471a",
   "lastOpenFiles": [
     "Y TTRPG/Y2 Systems/Y21 Wild Worlds SRD/Y210 Core Systems/Y210.1 Scenes.md",
     "Y TTRPG/Y2 Systems/Y21 Wild Worlds SRD/Y210 Core Systems/Y210.0 The Conversation.md",
