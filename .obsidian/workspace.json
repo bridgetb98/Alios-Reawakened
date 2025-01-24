@@ -169,6 +169,7 @@
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
+              "state": {},
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
@@ -212,9 +213,7 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "canvas:Create new canvas": false,
       "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false,
-      "calendarium:Open Calendarium": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "homepage:Open homepage": false
     }
   },
   "active": "fd26a7bd8e7c471a",
