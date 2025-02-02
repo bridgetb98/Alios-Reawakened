@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Alios/Zahdum - Primordial Spirit.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Zahdum - Primordial Spirit"
+              "title": "Home"
             }
           }
         ]
@@ -89,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 Alios/Zahdum - Primordial Spirit.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -132,7 +132,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Zahdum - Primordial Spirit"
+              "title": "Graph of Home"
             }
           },
           {
@@ -224,11 +224,13 @@
       "canvas:Create new canvas": false,
       "obsidian-git:Open Git source control": false,
       "homepage:Open homepage": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "0 Alios/Zahdum - Primordial Spirit.md",
     "Z Core/Z300 MOC/Primordial.md",
     "0 Alios/Void - Primordial Energy.md",
     "0 Alios/Extyx - Primordial Infinity.md",
@@ -251,7 +253,6 @@
     "0 Alios/Ancient Words.md",
     "0 Alios/Ambition.md",
     "0 Alios/Thera - Primordial Matter.md",
-    "0 Alios/Zahdum - Primordial Spirit.md",
     "0 Alios/Knowledge.md",
     "Z Core/Scratch Note.md",
     "1 The Embrace/Dain.md",
