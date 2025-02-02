@@ -15,8 +15,8 @@
               "state": {
                 "file": "0 Alios/Zahdum - Primordial Spirit.md",
                 "mode": "preview",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Zahdum - Primordial Spirit"
@@ -42,7 +42,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -223,8 +224,7 @@
       "canvas:Create new canvas": false,
       "obsidian-git:Open Git source control": false,
       "homepage:Open homepage": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "e7a7b303c61786dc",
