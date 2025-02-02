@@ -97,6 +97,13 @@
       "resultText": "4d6kh3\n[5, 3, 3d, 5]",
       "timestamp": 1738508750850,
       "id": "0XBcPgYz-FdX"
+    },
+    {
+      "result": "1",
+      "original": "1d20",
+      "resultText": "1d20\n[1]",
+      "timestamp": 1738509133825,
+      "id": "LpHujo2jpKAz"
     }
   ],
   "showDice": true
