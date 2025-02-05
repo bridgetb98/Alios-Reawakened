@@ -34,7 +34,7 @@
       {
         "id": "e37706a1da410ced",
         "type": "tabs",
-        "dimension": 71.34502923976608,
+        "dimension": 63.794983642311884,
         "children": [
           {
             "id": "4f3d39bd54af80a0",
@@ -81,7 +81,7 @@
       {
         "id": "e40db03f820cc6eb",
         "type": "tabs",
-        "dimension": 28.654970760233915,
+        "dimension": 36.205016357688116,
         "children": [
           {
             "id": "d885099731e38967",
@@ -127,7 +127,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2588386562181634,
+                  "scale": 0.3628873693012129,
                   "close": true
                 }
               },
@@ -143,8 +143,8 @@
               "state": {
                 "file": "Z Core/Scratch Note.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Scratch Note"
@@ -230,6 +230,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Z Core/Scratch Note.md",
+    "Home.md",
     "0 Alios/Zahdum - Primordial Spirit.md",
     "Z Core/Z300 MOC/Primordial.md",
     "0 Alios/Void - Primordial Energy.md",
@@ -242,7 +244,6 @@
     "Z Core/Z000 Index/C.md",
     "Z Core/Z300 MOC/Aspect.md",
     "Z Core/Z000 Index/A.md",
-    "Home.md",
     "1 The Embrace/Skitz.md",
     "Z Core/Z300 MOC/Characters.md",
     "Y TTRPG/Y2 Systems/Y21 Wild Worlds SRD/Y210 Core Systems/Y210.0 The Conversation.md",
@@ -254,7 +255,6 @@
     "0 Alios/Ambition.md",
     "0 Alios/Thera - Primordial Matter.md",
     "0 Alios/Knowledge.md",
-    "Z Core/Scratch Note.md",
     "1 The Embrace/Dain.md",
     "Z Core/Z300 MOC/Dain (MOC).md",
     "1 The Embrace/Carcass.md",
