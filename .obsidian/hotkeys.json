@@ -22,5 +22,13 @@
       ],
       "key": "E"
     }
+  ],
+  "random-note": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "R"
+    }
   ]
 }
