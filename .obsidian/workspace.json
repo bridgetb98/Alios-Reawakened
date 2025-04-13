@@ -4,25 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "6edafb19dda14c97",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "f1e339a7c4109c0a",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "1 The Embrace/Skitz.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Skitz"
+            }
+          },
+          {
+            "id": "70dc65de5aeb70a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Y TTRPG/Y2 Systems/Y20 5e/Y200 Spells/Y200.0 Cantrips/Fire Bolt.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Fire Bolt"
             }
           }
-        ]
+        ],
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -89,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "Y TTRPG/Y2 Systems/Y20 5e/Y200 Spells/Y200.0 Cantrips/Fire Bolt.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -132,7 +149,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of Fire Bolt"
             }
           },
           {
@@ -225,12 +242,14 @@
       "canvas:Create new canvas": false,
       "obsidian-git:Open Git source control": false,
       "homepage:Open homepage": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "f1e339a7c4109c0a",
+  "active": "70dc65de5aeb70a4",
   "lastOpenFiles": [
     "1 The Embrace/Skitz.md",
+    "Y TTRPG/Y2 Systems/Y20 5e/Y200 Spells/Y200.0 Cantrips/Mage Hand.md",
     "Z Core/Z300 MOC/Characters.md",
     "Z Core/Z000 Index/C.md",
     "Home.md",
@@ -257,7 +276,6 @@
     "Y TTRPG/Y2 Systems/Y21 Wild Worlds SRD/Y210 Core Systems/Y210.1 Scenes.md",
     "Y TTRPG/Y2 Systems/Y21 Wild Worlds SRD/Y210 Core Systems",
     "Y TTRPG/Y2 Systems/Y21 Wild Worlds SRD",
-    "0 Alios/Flamekin.md",
     "Y TTRPG/Y2 Systems/Y20 5e/Y200 Spells/Y200.2 2nd",
     "Y TTRPG/Y2 Systems/Y20 5e/Y200 Spells/Y200.1 1st",
     "Y TTRPG/Y2 Systems/Y20 5e/Y200 Spells/Y200.0 Cantrips",
