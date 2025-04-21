@@ -225,17 +225,18 @@
       "canvas:Create new canvas": false,
       "obsidian-git:Open Git source control": false,
       "homepage:Open homepage": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home.md",
     "1 The Embrace/Skitz.md",
     "Y TTRPG/Y2 Systems/Y20 5e/Y200 Spells/Y200.0 Cantrips/Fire Bolt.md",
     "Y TTRPG/Y2 Systems/Y20 5e/Y200 Spells/Y200.0 Cantrips/Mage Hand.md",
     "Z Core/Z300 MOC/Characters.md",
     "Z Core/Z000 Index/C.md",
-    "Home.md",
     "0 Alios/Starlanes.md",
     "1 The Embrace/Olad.md",
     "Z Core/Z300 MOC/Design Reference.md",
