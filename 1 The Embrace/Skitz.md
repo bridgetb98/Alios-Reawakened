@@ -250,10 +250,6 @@ Hempen rope, 0
 
 `clock 4 / 6`
 
-```tinychart
-bullets, 4
-```
-
 ## Spells
 
 ### Cantrips
