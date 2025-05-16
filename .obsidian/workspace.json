@@ -38,7 +38,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -106,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Y TTRPG/Y2 Systems/Y20 5e/Y200 Spells/Y200.1 1st/Magic Missile.md",
+                "file": "1 The Embrace/Skitz.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -149,7 +148,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Magic Missile"
+              "title": "Graph of Skitz"
             }
           },
           {
@@ -248,8 +247,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "219890097fa78058",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Y TTRPG/Y2 Systems/Y20 5e/Y200 Spells/Y200.1 1st/Magic Missile.md",
     "1 The Embrace/Skitz.md",
     "Z Core/Z100 Inbox/Speak with Animals.md",
     "Z Core/Z100 Inbox/Sentinel.md",
@@ -275,7 +275,6 @@
     "Z Core/Z100 Inbox/Holy Metals.md",
     "Y TTRPG/Y2 Systems/Y20 5e/Y200 Spells/Y200.0 Cantrips/Fire Bolt.md",
     "Y TTRPG/Y2 Systems/Y20 5e/Y200 Spells/Y200.0 Cantrips/Mage Hand.md",
-    "Z Core/Z000 Index/C.md",
     "Y TTRPG/Y2 Systems/Y21 Wild Worlds SRD/Y210 Core Systems",
     "Y TTRPG/Y2 Systems/Y21 Wild Worlds SRD",
     "Y TTRPG/Y2 Systems/Y20 5e/Y200 Spells/Y200.2 2nd",
