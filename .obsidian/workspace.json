@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "1 The Embrace/Skitz.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -22,7 +22,8 @@
               "title": "Skitz"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -233,8 +234,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Z Core/Z100 Inbox/Sentinel.md",
+    "Z Core/Z100 Inbox/Speak with Animals.md",
     "1 The Embrace/Skitz.md",
+    "Z Core/Z100 Inbox/Sentinel.md",
     "Z Core/Z100 Inbox/Temporal Awareness.md",
     "Z Core/Z100 Inbox/Chronal Shift.md",
     "Z Core/Z100 Inbox/Arcane Recovery.md",
@@ -248,7 +250,6 @@
     "Z Core/Z100 Inbox/Swarmkeeper Magic.md",
     "Z Core/Z100 Inbox/Gathered Swarm.md",
     "Z Core/Z100 Inbox/Primal Awareness.md",
-    "Z Core/Z100 Inbox/Speak with Animals.md",
     "Z Core/Z100 Inbox/Favored Foe.md",
     "Z Core/Z100 Inbox/Deft Explorer.md",
     "Z Core/Z100 Inbox/Criminal Specialty.md",

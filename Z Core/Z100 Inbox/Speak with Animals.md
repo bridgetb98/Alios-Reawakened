@@ -2,6 +2,7 @@
 
 _1st-level divination (ritual)_
 
+>[!infobox]
 **Casting Time:** 1 action  
 **Range:** Self  
 **Components:** V, S  
