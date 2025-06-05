@@ -14,7 +14,7 @@ West:
 title: # Flamekin
 ```
 
-Flamekin is the name given to the species created by the aspect of [[Conservation]]. They’re similar to [[Fire Elemental]]s, except for the fact that they have the ability to generate, store, and transfer energy in the form of heat.^[see: [[Flamecraft]]]
+Flamekin is the name given to the species created by the aspect of [[Conservation]], native to [[Herand]]. They’re similar to [[Fire Elemental]]s, except for the fact that they have the ability to generate, store, and transfer energy in the form of heat.^[see: [[Flamecraft]]]
 
 # Anatomy & Morphology
 
