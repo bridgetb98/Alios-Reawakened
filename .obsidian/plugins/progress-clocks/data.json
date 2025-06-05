@@ -23,6 +23,17 @@
             "filled": 2
           }
         ]
+      },
+      {
+        "name": "Section 2",
+        "children": [
+          {
+            "type": "clock",
+            "name": "Clock 1",
+            "segments": 6,
+            "filled": 1
+          }
+        ]
       }
     ]
   }

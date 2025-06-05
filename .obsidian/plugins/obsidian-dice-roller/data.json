@@ -111,6 +111,27 @@
       "resultText": "1d%\n[46]",
       "timestamp": 1748623765562,
       "id": "B-jJlGHONGIy"
+    },
+    {
+      "result": "17",
+      "original": "2d20kh",
+      "resultText": "2d20kh\n[1d, 17]",
+      "timestamp": 1749130057626,
+      "id": "MZpF8uZQ0UPm"
+    },
+    {
+      "result": "6",
+      "original": "100d6kh",
+      "resultText": "100d6kh\n[4d, 2d, 1d, 2d, 6, 4d, 3d, 1d, 3d, 2d, 5d, 5d, 3d, 6d, 2d, 2d, 1d, 6d, 4d, 3d, 4d, 1d, 6d, 6d, 4d, 2d, 3d, 4d, 5d, 6d, 4d, 3d, 1d, 6d, 2d, 6d, 1d, 5d, 2d, 3d, 1d, 3d, 3d, 5d, 6d, 2d, 3d, 6d, 5d, 5d, 5d, 2d, 3d, 1d, 6d, 6d, 5d, 2d, 6d, 6d, 2d, 4d, 5d, 1d, 4d, 3d, 3d, 2d, 2d, 1d, 5d, 3d, 5d, 4d, 2d, 6d, 1d, 6d, 3d, 1d, 4d, 1d, 6d, 3d, 2d, 6d, 2d, 4d, 2d, 6d, 2d, 2d, 5d, 4d, 6d, 5d, 3d, 1d, 3d, 3d]",
+      "timestamp": 1749130071563,
+      "id": "SUOJC6I0yFu0"
+    },
+    {
+      "result": "5",
+      "original": "6d6kh",
+      "resultText": "6d6kh\n[4d, 5, 2d, 2d, 1d, 5d]",
+      "timestamp": 1749130095923,
+      "id": "zySI_JxFgCJa"
     }
   ],
   "showDice": true
