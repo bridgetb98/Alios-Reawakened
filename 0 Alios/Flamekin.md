@@ -40,7 +40,9 @@ Dissection has provided the following information:
 
 ### Growth
 
-*how quickly does it grow and what are its life stages*
+## Sexes
+
+Flamekin divide themselves based on four ($4$) gender categories. These categories are based on their ability to manipulate [[Heat]]. The slate mask grows in such a way as to correspond to their assigned gender. Though uncommon, it is possible for a Flamekin to be born into multiple categories, making them intersex.
 
 - **Average Lifespan**:
 
@@ -54,8 +56,11 @@ Dissection has provided the following information:
 
 ## Generic Behaviour
 
-*the generic behaviour exhibited by this species*
+### Gender Expression
 
+Overheating causes bloating. Usually this comes in the shape of zits or mumps. However, Flamekin use this property of [[Heat]] to create a body shape resembling the [[Theran]] gender binary. Battery and Inductor Flamekin present masculine, while Generator and Capacitor Flamekin present feminine. Gender expression tends to be learned through passive observation, but the distribution of bloat can be trained. This allows for a different gender expression than what was assigned at birth.
+
+### Race
 
 ---
 
