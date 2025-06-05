@@ -23,6 +23,11 @@ title: # Herand
 Herand is a planet in the 5th quadrand of [[Alios]]. It is currently under the protection of [[Silver Wing Discoveries]].
 
 # History
+
+## Current Standing
+
+The services of Herand’s [[Flamekin]] are desired across all of [[Alios]]. 
+
 # Ecology
 
 ---
