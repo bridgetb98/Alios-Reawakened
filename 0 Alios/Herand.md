@@ -1,6 +1,7 @@
 ---
 ID: "20250605160709"
-aliases: 
+aliases:
+  - "0289.1"
 tags:
   - region/planet/indipendant
 North: 
@@ -24,7 +25,7 @@ Herand is a planet in the 5th quadrand of [[Alios]]. It is currently under the p
 
 # History
 
-The [[Flamekin]]’s mastery of heat-based magi was the secret to the [[Stella Imperium]]’s hyper efficient engines. The lib
+The [[Flamekin]]’s mastery of heat-based magi was the secret to the [[Stella Imperium]]’s hyper efficient engines. The liberation of Herand during the early stages of the [[Eclipse Wars]] was the first tide turn against the [[Stella Imperium|Stella]].
 
 ## Current Standing
 

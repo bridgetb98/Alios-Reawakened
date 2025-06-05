@@ -1425,42 +1425,6 @@
         ]
       }
     },
-    "Z Core/Z100 Inbox/Holy Metals.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 35,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.11666666666666667,
-      "characterCount": 233,
-      "nonWhitespaceCharacterCount": 190,
-      "readingTimeInMinutes": 0.1320754716981132,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1726751517621,
-      "modifiedDate": 1726751827647,
-      "sizeInBytes": 325,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.11666666666666667,
-        "wordCount": 35,
-        "characterCount": 233,
-        "nonWhitespaceCharacterCount": 190
-      },
-      "frontmatter": {
-        "ID": "20240919151207",
-        "aliases": null,
-        "tags": [
-          "material/metal"
-        ],
-        "North": null,
-        "East": null,
-        "South": null,
-        "West": null
-      }
-    },
     "Z Core/Z000 Index/W.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1525,19 +1489,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 9,
+      "wordCount": 10,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.03,
-      "characterCount": 97,
-      "nonWhitespaceCharacterCount": 83,
-      "readingTimeInMinutes": 0.033962264150943396,
-      "linkCount": 5,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 110,
+      "nonWhitespaceCharacterCount": 94,
+      "readingTimeInMinutes": 0.03773584905660377,
+      "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1716294543575,
-      "modifiedDate": 1717227273443,
-      "sizeInBytes": 121,
+      "modifiedDate": 1749134788660,
+      "sizeInBytes": 134,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.03,
@@ -7659,8 +7623,8 @@
         "0564.1"
       ],
       "createdDate": 1722937406415,
-      "modifiedDate": 1726751703251,
-      "sizeInBytes": 266,
+      "modifiedDate": 1749135211683,
+      "sizeInBytes": 315,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.07333333333333333,
@@ -7676,9 +7640,13 @@
         "tags": [
           "material/metal"
         ],
-        "North": null,
+        "North": [
+          "[[Holy Metals|0564.0]]"
+        ],
         "East": null,
-        "South": null,
+        "South": [
+          "[[Gold|0564.2]]"
+        ],
         "West": null
       }
     },
@@ -8149,40 +8117,104 @@
         "West": null
       }
     },
-    "Z Core/Z100 Inbox/Herand.md": {
+    "Z Core/Z000 Index/Planet.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 116,
+      "wordCount": 4,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.38666666666666666,
-      "characterCount": 838,
-      "nonWhitespaceCharacterCount": 697,
-      "readingTimeInMinutes": 0.4377358490566038,
-      "linkCount": 8,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 42,
+      "nonWhitespaceCharacterCount": 36,
+      "readingTimeInMinutes": 0.01509433962264151,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1749132425529,
-      "modifiedDate": 1749134700010,
-      "sizeInBytes": 949,
+      "createdDate": 1749134790429,
+      "modifiedDate": 1749134821877,
+      "sizeInBytes": 42,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
-      },
-      "frontmatter": {
-        "ID": "20250605160709",
-        "aliases": null,
-        "tags": [
-          "region/planet/indipendant"
-        ],
-        "North": null,
-        "East": null,
-        "South": null,
-        "West": null
+      }
+    },
+    "0 Alios/Herand.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 145,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.48333333333333334,
+      "characterCount": 1082,
+      "nonWhitespaceCharacterCount": 902,
+      "readingTimeInMinutes": 0.5471698113207547,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1749132425529,
+      "modifiedDate": 1749134891791,
+      "sizeInBytes": 1090,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "0 Alios/Holy Metals.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 46,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.15333333333333332,
+      "characterCount": 362,
+      "nonWhitespaceCharacterCount": 296,
+      "readingTimeInMinutes": 0.17358490566037735,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1726751517621,
+      "modifiedDate": 1749135219194,
+      "sizeInBytes": 362,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "0 Alios/Gold.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 62,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.20666666666666667,
+      "characterCount": 471,
+      "nonWhitespaceCharacterCount": 388,
+      "readingTimeInMinutes": 0.2339622641509434,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1749135035139,
+      "modifiedDate": 1749135226689,
+      "sizeInBytes": 477,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     }
   }

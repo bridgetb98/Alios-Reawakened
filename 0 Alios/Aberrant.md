@@ -4,9 +4,11 @@ aliases:
   - "0564.1"
 tags:
   - material/metal
-North: 
+North:
+  - "[[Holy Metals|0564.0]]"
 East: 
-South: 
+South:
+  - "[[Gold|0564.2]]"
 West:
 ---
 ```toc

@@ -132,6 +132,13 @@
       "resultText": "6d6kh\n[4d, 5, 2d, 2d, 1d, 5d]",
       "timestamp": 1749130095923,
       "id": "zySI_JxFgCJa"
+    },
+    {
+      "result": "89",
+      "original": "1d%",
+      "resultText": "1d%\n[89]",
+      "timestamp": 1749134882776,
+      "id": "ie7LIKtJ4FZz"
     }
   ],
   "showDice": true

@@ -1,11 +1,13 @@
 ---
 ID: "20240919151207"
-aliases: 
+aliases:
+  - "0564.0"
 tags:
   - material/metal
 North: 
 East: 
-South: 
+South:
+  - "[[Aberrant|0564.1]]"
 West:
 ---
 ```toc
