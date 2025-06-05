@@ -18,7 +18,11 @@ Flamekin is the name given to the species created by the aspect of [[Conservatio
 
 # Anatomy & Morphology
 
-Flamekin have a gelatine body that glows in a multitude of colors, depending on race. The vulnerable body has an outer slate shell. It is a cultural practice to remove parts of this shell for aesthetic reasons.^[see: [[Flamekin Engraving]]] They have [[Theran|Elven]] body types, but are taller than the average [[Theran Bloodline]].
+**Average Height**: 1m85
+
+**Average Weight**:
+
+Flamekin have a gelatine body that glows in a multitude of colors, depending on race. The vulnerable body has an outer slate shell. It is a cultural practice to remove parts of this shell for aesthetic reasons.^[see: [[Flamekin Engraving]]] They have [[Theran]] body types, but are taller than the average [[Theran Bloodline]].
 
 Dissection has provided the following information:
 - The species is a silicate lifeform.
@@ -26,9 +30,6 @@ Dissection has provided the following information:
 - Eyes are pressent, though are closer in substance to the gel that constructs the rest of their bodies.
 - Flame glands are pressant on the head, armpits, and soles of the feet.
 
-**Average Height**: 1m85
-
-**Average Weight**:
 
 ## Perception
 
@@ -36,15 +37,15 @@ Dissection has provided the following information:
 
 ## Genetics
 
-*how the species reproduces, and what races are compatible*
+### Sexes
+
+Flamekin divide themselves based on four ($4$) gender categories. These categories are based on their ability of [[Flamecraft]]ing. The slate mask grows in such a way as to correspond to their assigned gender. Though uncommon, it is possible for a Flamekin to be born into multiple categories, making them intersex.
+
 
 ### Growth
 
-## Sexes
-
-Flamekin divide themselves based on four ($4$) gender categories. These categories are based on their ability to manipulate [[Heat]]. The slate mask grows in such a way as to correspond to their assigned gender. Though uncommon, it is possible for a Flamekin to be born into multiple categories, making them intersex.
-
 - **Average Lifespan**:
+
 
 # Ecology
 
@@ -58,9 +59,13 @@ Flamekin divide themselves based on four ($4$) gender categories. These categori
 
 ### Gender Expression
 
-Overheating causes bloating. Usually this comes in the shape of zits or mumps. However, Flamekin use this property of [[Heat]] to create a body shape resembling the [[Theran]] gender binary. Battery and Inductor Flamekin present masculine, while Generator and Capacitor Flamekin present feminine. Gender expression tends to be learned through passive observation, but the distribution of bloat can be trained. This allows for a different gender expression than what was assigned at birth.
+Overheating causes bloating. Usually this comes in the shape of zits or mumps. However, Flamekin use this property of [[Flamecraft]] to create a body shape resembling the [[Theran]] gender binary. Battery and Inductor Flamekin present masculine, while Generator and Capacitor Flamekin present feminine. Gender expression tends to be learned through passive observation, but the distribution of bloat can be trained. This allows for a different gender expression than what was assigned at birth.
 
 ### Race
+
+Flamekin have a lot of individual differences. Eye shape, facial structure, height. Though there are two ($2$) differences of body that society used as their basis for racial differences. The colour and texture of the outer shell, and the colour of the inner gel and outer flame.
+
+The highest racial class is considered to be those with a white marble shell and blue flames.
 
 ---
 
