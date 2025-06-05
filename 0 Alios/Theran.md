@@ -12,8 +12,7 @@ East:
 South: 
 West:
 ---
-# Elves
-
+# Theran
 ```toc
 ```
 

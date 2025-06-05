@@ -20,7 +20,7 @@ West:
 
 ![[Poten_TradingCard.jpg]]
 
-Poten is dressed in luxury. A green cloak made of the finest silk with red edges and golden, tribal embroidery often adorns his skin. Skin as dark as the night sky. He has long, luscious white hair that falls into curls. Some of the curls clump together giving a horn-like appearance. His eyes have no pupils, for luck is blind. His iris is a glowing red. His arms have a golden pattern much like a spider's web. The rest of his body looks like a regular [[Elves|Elf]].
+Poten is dressed in luxury. A green cloak made of the finest silk with red edges and golden, tribal embroidery often adorns his skin. Skin as dark as the night sky. He has long, luscious white hair that falls into curls. Some of the curls clump together giving a horn-like appearance. His eyes have no pupils, for luck is blind. His iris is a glowing red. His arms have a golden pattern much like a spider's web. The rest of his body looks like a regular [[Theran|Elf]].
 
 ## Personality
 

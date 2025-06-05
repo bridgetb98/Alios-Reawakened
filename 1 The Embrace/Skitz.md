@@ -42,7 +42,7 @@ title: # Skitz
 > | :-: | :-: | :-: |
 > | 14 | +4 | 30 |
 
-Skitz is an [[Elves|Elf]] that was sent to [[Dain]] because she “cursed a family to die before their 40’s”. Though in actuality, she just shot them with her gun.
+Skitz is an [[Theran|Elf]] that was sent to [[Dain]] because she “cursed a family to die before their 40’s”. Though in actuality, she just shot them with her gun.
 
 ## Voice
 

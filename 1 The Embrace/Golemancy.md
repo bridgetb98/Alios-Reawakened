@@ -20,7 +20,7 @@ Golemancy is the magic linked to [[Knowledge]] and [[Memory]].
 
 ## Abilities
 
-Golemancy binds a [[Spirits|spirit]] to a mechanical or materialistic body. The closer the body is to an [[Elves|elven]] one, the longer the spirit remains bound.
+Golemancy binds a [[Spirits|spirit]] to a mechanical or materialistic body. The closer the body is to an [[Theran|elven]] one, the longer the spirit remains bound.
 
 When creating a [[Golem]], it is given a single command. It tries to fulfil this command to the best of its abilities. Once the command has been fulfilled, the [[Golem]] goes into an inactive state where the creation [[Glyphs|Glyph]] is exposed.
 
