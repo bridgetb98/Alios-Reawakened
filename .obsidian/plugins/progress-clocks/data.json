@@ -2,35 +2,18 @@
   "state": {
     "sections": [
       {
-        "name": "Spell slots Skitz",
+        "name": "Wildsea",
         "children": [
           {
             "type": "clock",
-            "name": "1: Ranger",
-            "segments": 3,
-            "filled": 2
-          },
-          {
-            "type": "clock",
-            "name": "1: Wizard",
-            "segments": 3,
-            "filled": 2
-          },
-          {
-            "type": "clock",
-            "name": "2: Wizard",
-            "segments": 3,
-            "filled": 2
-          }
-        ]
-      },
-      {
-        "name": "Section 2",
-        "children": [
-          {
-            "type": "clock",
-            "name": "Clock 1",
+            "name": "Ramtop Isle",
             "segments": 6,
+            "filled": 0
+          },
+          {
+            "type": "clock",
+            "name": "Food Spit",
+            "segments": 3,
             "filled": 1
           }
         ]
