@@ -15,7 +15,9 @@ West:
 ```toc
 ```
 
-![[fragaria_corporis1.jpg]]^[artist: [[Marcel Brandhorst]]]
+>[!caption|right]
+>![[fragaria_corporis1.jpg]]^[artist: [[Marcel Brandhorst]]]
+>Fragaria Corporis detailed sketch
 
 *Average Weight: 616.6 gram*
 
