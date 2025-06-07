@@ -155,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 245.5
   },
   "right": {
     "id": "2b4a00d1dd57de11",
@@ -220,7 +220,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2f91c7bd304e6e52",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Y TTRPG/Y2 Systems/Y21 Wild Worlds SRD/Y210 Core Systems/Y210.1 Scenes.md",
     "Y TTRPG/Y2 Systems/Y21 Wild Worlds SRD/Y210 Core Systems/Y210.0 The Conversation.md",
