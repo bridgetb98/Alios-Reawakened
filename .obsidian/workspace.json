@@ -215,13 +215,13 @@
       "canvas:Create new canvas": false,
       "obsidian-git:Open Git source control": false,
       "homepage:Open homepage": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "calendarium:Open Calendarium": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home.md",
     "Y TTRPG/Y2 Systems/Y21 Wild Worlds SRD/Y210 Core Systems/Y210.1 Scenes.md",
     "Y TTRPG/Y2 Systems/Y21 Wild Worlds SRD/Y210 Core Systems/Y210.0 The Conversation.md",
     "2 Aukif/Vivi Mortua.md",
@@ -250,7 +250,6 @@
     "Z Core/Z000 Index/P.md",
     "2 Aukif/Cultivation Engineering.md",
     "2 Aukif/Aukif Design Principles.md",
-    "Z Core/Z100 Inbox/Silver Wing Discoveries.md",
     "Y TTRPG/Y2 Systems/Y20 5e/Y201 Feats",
     "Y TTRPG/Y2 Systems/Untitled",
     "Y TTRPG/Y2 Systems/Y21 Wild Worlds SRD/Y210 Core Systems",
